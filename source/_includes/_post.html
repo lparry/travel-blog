@@ -1,0 +1,18 @@
+<article class="post  is_text no_media dark">
+<div class="inner">
+
+  {% include _post_info_bar.html %}
+
+  <div class="cont caption has_title">
+    <h2 class="post_title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="post_body">
+      {{ content }}
+    </div>
+    <p style="float:right;"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Leave a comment</a></p>
+  </div>
+
+  {% include _post_footer.html %}
+
+
+</div><!-- /.inner -->
+</article><!-- /.post -->

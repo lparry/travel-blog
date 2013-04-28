@@ -1,0 +1,30 @@
+---
+layout: default
+homepage: true
+priority: 1.0
+---
+
+{% assign index = true %}
+<section id="posts">
+{% for post in site.posts %}
+  {% assign content = post.content %}
+  {% if post.layout == "post" %}
+    {% include _post.html %}
+  {% elsif post.layout == "quote" %}
+    {% include _quote.html %}
+  {% endif %}
+{% endfor %}
+</section><!-- /#posts -->
+
+<!-- <div class="pagination"> -->
+<!--   {% if paginator.previous_page %} -->
+<!--     <a class="pagination-prev" href="{{paginator.previous_page}}">Newer Posts</a> -->
+<!--   {% endif %} -->
+<!--  -->
+<!--   <a href="/blog/archive" class="pagination-archive">Blog Archive</a> -->
+<!--  -->
+<!--   {% if paginator.next_page %} -->
+<!--     <a class="pagination-next" href="{{paginator.next_page}}">Older Posts</a> -->
+<!--   {% endif %}   -->
+<!-- </div> -->
+

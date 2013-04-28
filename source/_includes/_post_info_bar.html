@@ -1,0 +1,19 @@
+<aside class="post_info_bar">
+<div class="icon_link">
+  <a href="{{ site.url }}{{ post.url }}" title="Permalink">Text</a>
+</div>
+<ul class="post_info">
+  <li class="hide_from_mobile">
+    <a class="timestamp" href="{{ post.url }}" title="Posted on {{ post.date | date_to_long_string }}">
+      <span class="icon"></span>
+      <span class="legend">Posted on {{ post.date_formatted }}</span>
+    </a>
+  </li>
+  <li>
+    <a class="dsq-comment-count" href="{{ post.url }}#disqus_thread" title="Comments">
+      <span class="icon"></span>
+      <span class="legend"><span class="hide_from_mobile">Comments</span></span>
+    </a>
+  </li>
+</ul>
+</aside><!-- /.post_info_bar -->

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% assign index = true %}
+<section id="posts">
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% if tag == page.tag %}
+      {% assign content = post.content %}
+      {% if post.layout == "post" %}
+        {% include _post.html %}
+      {% elsif post.layout == "quote" %}
+        {% include _quote.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</section><!-- /#posts -->
+

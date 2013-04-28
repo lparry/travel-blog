@@ -8,14 +8,14 @@
   <li class="tag_list">
     <ul class="tags">
       {% for tag in post.tags %}
-      <li><a href="tag/{{ tag }}">{{ tag }}</a></li>
+      <li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
       {% endfor %}
     </ul>
   </li>
 </ul>
 </footer><!-- /.post_footer -->
 
-{% unless page.homepage %}
+{% unless index %}
 <div id="disqus_thread"></div>
 <script type="text/javascript" src="http://lucasthenomad.disqus.com/embed.js"></script>
 <noscript><a href="http://lucasthenomad.disqus.com/?url=ref">View the discussion thread.</a></noscript>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://www.lucasthenomad.com/2013/03/26/in-20-years</loc>
+        <lastmod>2013-04-29T00:18:49+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.lucasthenomad.com/2013/04/08/the-little-things-that-make-up-a-life</loc>
+        <lastmod>2013-04-29T00:18:49+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.lucasthenomad.com/2013/04/22/target-40-litres</loc>
+        <lastmod>2013-04-29T00:18:49+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.lucasthenomad.com/2013/05/07/last-minute-bag-choices</loc>
+        <lastmod>2013-05-07T22:38:30+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.lucasthenomad.com/archive/</loc>
+        <lastmod>2013-05-07T22:38:30+10:00</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://www.lucasthenomad.com/</loc>
+        <lastmod>2013-05-07T22:38:30+10:00</lastmod>
+        <priority>1.0</priority>
+    </url>
+</urlset>

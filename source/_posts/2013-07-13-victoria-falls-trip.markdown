@@ -7,7 +7,7 @@ categories:
 description: 
 priority: 0.5
 ---
-I changed my flight to South Africa to be a day sooner in order to get to Johannesburg in time on monday morning to go on a week long tour up to Victoria Falls in Zimbabwe and back. Booking in on this tour was a bit of a spur of the moment thing, I'd only found out about it's existence the Wednesday beforehand; I checked if I could change my flights and if there was room on the bus, then got flights moved and got myself booked in.
+I changed my flight to South Africa to be a day sooner in order to get to Johannesburg in time on Monday morning to go on a week long tour up to Victoria Falls in Zimbabwe and back. Booking in on this tour was a bit of a spur of the moment thing, I'd only found out about it's existence the Wednesday beforehand; I checked if I could change my flights and if there was room on the bus, then got flights moved and got myself booked in.
 
 I was picked up from the "hostel" I was staying in (It was really just a guys house that he let people stay in... you cant call it a hostel and only have one bathroom & toilet) at 5am. I had been told the day before where the keys were to open the front door, the front verandah cage and the massive padlock on the front gate, topped with an electric fence, and had been told to go out and unlock all the locks, then come inside and wait looking out the window for the bus to show up. At the time I'd though it must have been a terrible neighbourhood to merit all that security, but having spent more time in South Africa I've found that pretty much everywhere has crazy levels of security like that so I'm not so sure anymore.
 
@@ -65,7 +65,7 @@ I wish I'd had more time to take the walk down there to see the rapids up close 
 
 I crossed back into Zimbabwe and headed back to camp for a shower, only to find that the water was not running for the 3rd day running. It seems that running water and electricity really are luxuries even in the tourist parts of Zimbabwe.
 
-We went as a group that night for dinner at a place called Moma Africa and I ate a traditional Zimbabwe hot pot that was supposedly spicy beef but I couldn't detect even a hint of spice, nor could someone else who ordered it. That's not to say it was bad, but it definitely wasn't the spicy meal the menu described it as.
+We went as a group that night for dinner at a place called Mama Africa and I ate a traditional Zimbabwe hot pot that was supposedly spicy beef but I couldn't detect even a hint of spice, nor could someone else who ordered it. That's not to say it was bad, but it definitely wasn't the spicy meal the menu described it as.
 
 The next morning we set off back to just across the Botswanan border to Chobe, a nice short drive compared to some of the previous ones. There we went on a game drive around the Chobe game lodge, a huge wildlife park teaming with wildlife. We drove along the river and saw loads of elephants and hippos heading to and from the water for a drink, and even a crocodile or two sunning themselves on the bank. Impalas frolicked, dashing about at a frantic pace leaping over ditches. Sadly the time of day meant we were driving towards the sun for almost the entire drive, and then away from a beautiful sunset; and also that all the cats were off sleeping, but it was still a great display of wildlife.
 

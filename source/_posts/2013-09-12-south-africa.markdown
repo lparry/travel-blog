@@ -68,7 +68,12 @@ On the way back to shore we went through a channel called "Shark Alley". We didn
 <p class="centered"><img src="http://newswatch.nationalgeographic.com/files/2012/01/IMG_5963-950x585.jpg" width="800px"><br>
 <em>Seals in Shark Alley - Another shamelessly stolen image</em></p>
 
-That evening I met up with Erin again for gelato, an odd choice for the middle of winter but it was her last night in Cape Town and it was a delicious choice.
+That evening I met up with Erin again for gelati, an odd choice for the middle of winter but it was her last night in Cape Town and it was a delicious choice.
+
+<p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9761158144/" title="Me and Erin having Gelati by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7335/9761158144_f5e9d6ddb0_c.jpg" width="800" height="600" alt="Me and Erin having Gelati"></a><br>
+<em>Me and Erin having Gelati</em></p>
+
+
 
 The next day I looked at a map and decided to walk to a strip of beach I heard was nice called Camps Bay. I walked for what must have been 2-3 hours along the coast line, and while it was a nice walk I was getting tired so I gave in and got a minibus for what turned out to be the second, much hillier half of the walk. Sort of wish I'd just gotten the minibus the whole way, but it really did look like a short walk on the map. When I got there I practiced juggling and poi in the shade for a while, and then headed back by minibus to Cape Town.
 

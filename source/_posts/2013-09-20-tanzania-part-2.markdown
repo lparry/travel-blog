@@ -62,47 +62,50 @@ Having not had bacon since leaving home, I would have been happy if they'd serve
 
 To make the day even better, when we got back to camp Charles had make us pancakes and bacon for brunch! Could a day be any more perfect!?!
 
--0-----
+After brunch we got back in the Land Rovers for an afternoon of game driving with a general meander towards the gate of the park, during which we managed to spot a log more awesome animals. We found 3 lion cubs sleeping in a crevice between some rocks, then a bit later we found a cheetah, and a bit later still two more cheetahs!
 
-more game driving
-3 lion clubs
-1 cheetah
-2 cheetahs toegether
-lion standing in the grass, sat and disappeared
-sooooo much dust in the landrovers
-simba camp on the crater rim, very cold, went to bed right after dinner. another unfenced camp, still no animal sounds :(
+We also saw a lion that was standing up in long grass looking around, who then sat down and completely disappeared, making it very clear how hard it could be to spot these animals if they were trying to hide.
 
-up before dark to get to the part gates for opening, drizzling
-very cold all day in the crater
-saw a caracal as we drove into the park. very rare. steve had never seen one, our driver hadnt seen one in 4 years.
+The drive out seemed like it was 10x as dusty as the drive in; even with large gaps between our vehicles and us rapidly closing our windows every time we passed another car, everything in the Land Rovers was covered in a thick coating of dust by the time we got out of the park.
 
-bottom the crater was flat plains
-elands in the forest
-wildebeast, zebra, elephants
-grey crowned cranes, married for life
-male lion sleeping in the grass, several females sleeping in the distance
-hyeena family with cubs playing
-hippos in the water
+We headed back up to the crater rim to Simba Camp where we were staying the night. It was freezing cold that night and although there were showers with a hot tap, the water that came out was barely room temperature and even that quickly ran out leaving only icy water for those who wanted relief from the dust.
 
-masi info
-number of wives related to how many cattle
-polyamourous; a spear outside the door of a house means someone is "visiting" the woman, so the husband should go find another bed. No jealously
-
-village tour, long walk through farms, rice tomatos, beans, bananas. 
-mud houses, red brick houses, cement houses
-art gallery, largely generic, token guy putting the finishing touches on a piece.
-one zebra painting was cool
-
-nightclub with dance pit, beer bottle bar, raised up DJ booth
-
-banana beer, 1-2% alc. made with sprouted millet. no so banana-ry. 1000 shillings for 0.5L
+It was so cold that night that I wore pretty much every layer I had plus my Goretex wind shell, and still wasn't particularly warm. I headed to bed pretty much straight after dinner and was thankful that our thick canvas tents held heat so well.
 
 
-KENYA POST
-crossing into kenya, trouble getting the truck in. make lunch at the border. start playing cricket at the border, drew a crowd of truck drivers watching and trying to catch long shots.
+Simba camp was another unfenced camp ground, but again if there were animal sounds I managed to sleep right through them. We got up before dark and packed down camp in order to get to the Ngorongoro Crater park gates for opening, with a light drizzle of rain coming down on us.
 
-3 options, leave the truck, pay a bond for the value of the truck (bond that you dont get back, luckly the truck is on the books as being worth $4k, instead of the 100K+ it would be worth) or pay a bribe
+As we descended into the crater the temperature rose very slightly, but the weather in that crater is completely different to that only a few KM outside of it and it remained pretty grey and cold all day.
 
-eventually we were able to pay a bribe of $300 to get the paperwork fudged.
+Not long after passing the gate someone in out truck spotted some ears in the grass. We backed up to have a better look and found a small cat called a caracal. Were told they themselves aren't rare, but it's quite rare to see them. Steve had never seen one in all his years in Africa, and our driver who's in and out of the park all the time hadnt seen one in 4 years.
+
+In contrast to the steep walls of the crater, the bottom of it was mostly quite flat, with lots of open plains, some forested areas and a few large watering holes.
+
+We saw several elands in the forests, and hundreds of wildebeast and zebra out roaming the plains. These were actually the first wild Zebras that I saw!
+
+We saw a pair of birds call grey crowned cranes which our driver explained to us were married, as in they were paired for life, but if divorce statistics are to be believed that's probably no longer a great analogy.
+
+We did manage to spot one male lion sleeping in the grass, and several females sleeping in the distance, but because the weather was cold the big cats were mostly sleeping, and sadly for us were largely well away from the road.
+
+What we didn't see in terms of big cats was largely made up for by the number of hyenas we saw around. We must have seen at least 4-5 separate individuals or groups, one of with was a full family with a number of cubs playing. Very cute for a part of "the ugly 5"!
+
+On the drive out of the park, back to civilisation where we were camping that night, we learnt a few tidbits about the Masai culture that partly explained how it can be normal to have multiple wives without a huge gender imbalance, or a lot of men having no wives.
+
+The number of wives a Masai man has is directly related to how many cattle he has, so having lots of cattle means lots of wives. The interesting part we learnt about was that the non-monogamy/polyamory that goes on apparently works in both directions. A man has many wives, but if he goes to visit one and finds a spear dug in the ground outside of her house, it means she has a male guest "visiting," and that the husband should go and find a different bed to stay in that night, we're told all with no jealousy!
+
+I don't think that means that a woman actually has multiple husbands, but it does offer a bit of an explanation why wifeless men aren't rioting about there being no available women because of the greedy guys with all the cattle.
+
+After we arrived at camp, and those of us camping had set up our tents, we were taken on a village tour of the local community. We took a very long walk though their farms, through large fields of beans, tomatoes, tapioca, rice, bananas, and numerous other food plants. We were shown the different materials that the people used to build their houses. The cheapest materials being mud houses, the mid-cost ones being made of red bricks, and the most expensive also being the most ugly, cement houses.
+
+We were taken to a local art gallery, where the locals can get taught to paint for a living, and shown the two main styles of art common in Tanzania. And boy were they common, the paintings here were all the same largely generic ones we'd seen from Zanzibar onwards. There was a token guy putting the finishing touches on a piece, but as always seems to be the case the piece was pretty much done and he was putting a border on it, so for all we know the paintings are mass produced in a factory and then that guy paints a border on when tourists come past. They're all so same-y that I would not be surprised. It's a shame they're not teaching them to utilize their creative differences instead of teaching them how to be human photocopiers.
+
+There were one or two exceptions, painting completely unique from everything else on display. One of a one zebra really struck a chord with me, but I held off the urge to buy it because I didn't want to be stuck dragging it around with me for weeks until I got back to somewhere with a reliable postal system.
+
+One detour to the normal tour itinerary was a visit to see the local nightclub. We saw the sign and were intrigued and asked about it, and they were all too happy to have us have a look inside at them cleaning and setting things up. It felt kind of like something out of rave movie from the 90s, completely with a dance pit, and raised up DJ booth, and also a cool bar made of concrete and beer bottle ends.
+
+The last point of interest on the tour was a stop at the local bar, to drink some of the locally made banana beer. It's made with a special type of banana and sprouted millet and fermented for a few days giving it a alcohol percentage of roughly 1-2%. The flavour was actually not particularly banana-ry, but the price was dirt cheap! 1000 Tanzanian shillings for 0.5L, or roughly $0.30!
+
+And that pretty much wraps up the time we spent in Tanzania. There was some fun to be had crossing the border into Kenya, but that's material for the next post :)
+
 
 

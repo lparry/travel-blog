@@ -791,6 +791,13 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 
 .centered { text-align: center; }
 
+.quote {
+  padding-left:  30px;
+  padding-right: 30px;
+  font-style: italic;
+  font-size: 16px;
+}
+
 /* Blog Footer */
 .blog_footer h4 { font-family: '$footer-header-font-family', sans-serif; font-weight: $footer-header-font-weight !important; }
 .blog_footer h4 { font-size: $footer-header-font-size; font-weight: normal; line-height: 1.1em; margin-bottom: 1em; text-transform: $footer-header-text-transform; }

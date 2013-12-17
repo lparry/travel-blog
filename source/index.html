@@ -6,7 +6,7 @@ priority: 1.0
 
 {% assign index = true %}
 <section id="posts">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% assign content = post.content %}
   {% if post.layout == "post" %}
     {% include _post.html %}
@@ -16,15 +16,16 @@ priority: 1.0
 {% endfor %}
 </section><!-- /#posts -->
 
-<!-- <div class="pagination"> -->
-<!--   {% if paginator.previous_page %} -->
-<!--     <a class="pagination-prev" href="{{paginator.previous_page}}">Newer Posts</a> -->
-<!--   {% endif %} -->
-<!--  -->
-<!--   <a href="/blog/archive" class="pagination-archive">Blog Archive</a> -->
-<!--  -->
-<!--   {% if paginator.next_page %} -->
-<!--     <a class="pagination-next" href="{{paginator.next_page}}">Older Posts</a> -->
-<!--   {% endif %}   -->
-<!-- </div> -->
+<div class="pagination">
+<div class="inner">
+  {% if paginator.previous_page %}
+    <a class="previous" href="{{paginator.previous_page}}">Newer Posts</a>
+  {% endif %}
 
+  <a href="/blog/archive" class="archive">Blog Archive</a>
+
+  {% if paginator.next_page %}
+    <a class="next" href="{{paginator.next_page}}">Older Posts</a>
+  {% endif %}  
+</div>
+</div>

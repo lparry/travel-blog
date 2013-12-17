@@ -1,4 +1,11 @@
-## Mountain biking Cambodia
+---
+layout: post
+title: "Mountain biking Cambodia"
+date: 2013-06-15 18:59
+author: Lucas Parry
+description: 
+priority: 0.5
+---
 
 On my last day in Siem Reap I decided to rent myself a mountain bike and pedal myself out to the ruins. The flatness of the countryside made riding a little easier, but the heat was certainly challenging. I rode in to Angkor Thom, the largest of all the ancient sites, and headed for the east gate (not the victory gate, which is also on the east wall, which is the one the roads pass through).
 

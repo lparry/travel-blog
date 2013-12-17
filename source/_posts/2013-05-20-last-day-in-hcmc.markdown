@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ho Chi Minh City, Vietnam"
-date: 2013-05-17 22:24
+title: "Last Day in HCMC"
+date: 2013-05-20 22:24
 tags: vietnam, motorbikes, food, massages
 
 priority: 0.5

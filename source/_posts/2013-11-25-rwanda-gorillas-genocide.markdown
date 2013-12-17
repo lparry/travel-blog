@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rwanda, Gorillas, Genocide"
-date: 2013-11-16 17:23
+date: 2013-11-25 17:23
 author: 
 categories: 
 description: 

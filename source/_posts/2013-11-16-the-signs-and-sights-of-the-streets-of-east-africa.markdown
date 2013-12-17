@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The signs and sights of the streets of East Africa"
-date: 2013-11-15 18:41
+date: 2013-11-16 18:41
 author: 
 categories: 
 description: 

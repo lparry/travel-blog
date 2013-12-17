@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Travelling light… or not"
-date: 2013-09-26 16:18
+date: 2013-09-04 16:18
 author: 
 categories: 
 description: 

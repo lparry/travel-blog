@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serengeti National Park and the Ngorongoro Crater"
-date: 2013-09-20 13:59
+date: 2013-10-01 13:59
 author: 
 categories: 
 description: 

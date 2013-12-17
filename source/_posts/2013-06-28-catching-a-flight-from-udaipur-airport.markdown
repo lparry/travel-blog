@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Catching a flight from Udaipur airport"
-date: 2013-06-26 18:59
+date: 2013-06-28 18:59
 author: Lucas Parry
 categories: flying, airports
 description: 

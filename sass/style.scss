@@ -739,7 +739,7 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 .pagination a.archive { position: relative; text-align: center; margin-top: -20px}
 .pagination a.next { right: 0px; padding-right: 60px; }
 .pagination a.next::before { right: 0; background-position: -60px -720px; }
-.pagination .current_page { display: block; font-style: italic; text-align: center; opacity: 0.4; }
+.pagination .current_page { display: block; font-style: italic; text-align: center; opacity: 0.4; margin-top: -20px; }
 
 /*
 @group Typography

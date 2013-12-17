@@ -22,7 +22,7 @@ priority: 1.0
     <a class="previous" href="{{paginator.previous_page}}">Newer Posts</a>
   {% endif %}
 
-  <a href="/blog/archive" class="archive">Blog Archive</a>
+  <span class="current_page">— Page {{paginator.page}} of {{paginator.total_pages}} —</span>
 
   {% if paginator.next_page %}
     <a class="next" href="{{paginator.next_page}}">Older Posts</a>

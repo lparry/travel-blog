@@ -44,7 +44,7 @@ When I arrived at my Cape Town hostel and walked in the door, I was nearly right
 They were just about to head up Table Mountain, so I quickly chucked my stuff in a locker and joined them to share the taxi. It was an absolutely perfect day for it, clear skys and sunny; pretty much still air. The wind up there often gets in excess of 100 Km/h and they close it down, so to have such a nice still day in the middle of winter was fantastic. The terrain was visually very interesting, and we saw some strange little animals called a rock hyrax, a strange and unexpected relative to elephants.
 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9760597393/" title="Phoebe and Victoria heading up the steep track by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5473/9760597393_d17236735d_c.jpg" width="601" height="800" alt="Phoebe and Victoria heading up the steep track"></a><br>
-<em>Phoebe and Victoria heading up a steep track<em></p>
+<em>Phoebe and Victoria heading up a steep track</em></p>
 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9760113741/" title="Rock hyrax contemplating ending it all by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2813/9760113741_55c923aaa6_c.jpg" width="800" height="601" alt="Rock hyrax contemplating ending it all"></a><br>
 <em>Rock Hyrax are cute little guys</em></p>

@@ -34,10 +34,6 @@ Fallback styles for old versions of Explorer
 .post .sharethis         .icon { background-position: -90px -310px !important; }
 .post .reblogthis        .icon { background-position: -120px -310px !important; }
 
-li.hide_from_mobile,
-div.hide_from_mobile { display: block !important; }
-span.hide_from_mobile { display: inline !important; }
-.hide_from_desktop { display: none !important; }
 
 .post { border-color: #333 !important; }
 .post .cont { color: #333 !important; }
@@ -48,7 +44,6 @@ span.hide_from_mobile { display: inline !important; }
 #blog_wrapper #posts .post .post_footer .tag_list li a { color: white !important; display: inline; *display: block; }
 
 .blog_footer .current_page { display: block !important; }
-.blog_footer .hide_from_desktop { display: none !important; }
 .blog_footer .current_page,
 .blog_footer .previous,
 .blog_footer .next { padding: 20px 10px !important; }

@@ -1,10 +1,5 @@
 <footer class="post_footer">
 <ul class="post_info">
-  <li class="timestamp hide_from_desktop">
-    <a href="{{ post.url }}" title="Posted on {{ post.date |date_to_long_string }}">
-      Posted on {{ post.date_formatted }}
-    </a>
-  </li>
   <li class="tag_list">
     <ul class="tags">
       {% for tag in post.tags %}

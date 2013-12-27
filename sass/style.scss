@@ -102,8 +102,8 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 .search_button span.icon,
 #back_to_top a,
 #filter_tags_desktop li a,
-#filter_tags_mobile .trigger span.icon { background-image: url(http://static.tumblr.com/6nxvfxq/cyAmh0biv/luomo_icons.png); }
-#social_links li a { background-image: url(http://static.tumblr.com/6nxvfxq/4S2mh0bl1/social_icons.png); }
+#filter_tags_mobile .trigger span.icon { background-image: url(/images/luomo_icons.png); }
+#social_links li a { background-image: url(/images/social_icons.png); }
 
 /* 2 dpr and 1.5 dpr */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -117,18 +117,18 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
   .search_button span.icon,
   #back_to_top a,
   #filter_tags_desktop li a,
-  #filter_tags_mobile .trigger span.icon { background-image: url(http://static.tumblr.com/6nxvfxq/TOhmh0bj8/luomo_icons_2x.png); background-size: 480px 860px }
+  #filter_tags_mobile .trigger span.icon { background-image: url(/images/luomo_icons_2x.png); background-size: 480px 860px }
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  #social_links li a { background-image: url(http://static.tumblr.com/6nxvfxq/Ou8mh0ble/social_icons_2x.png); background-size: 1120px 80px }
+  #social_links li a { background-image: url(/images/social_icons_2x.png); background-size: 1120px 80px }
 }
 
 /*
 @group Header
 --------------------------------------------------------------------- */
 #blog_header { background-color: #f5f5f5; position: relative; }
-#blog_header::after { background: transparent url(http://static.tumblr.com/6nxvfxq/Vhamh0bjk/post_shadow.png) repeat-x top; content: ""; display: block; position: absolute; left: 0; bottom: -20px; width: 100%; height: 20px; z-index: 4444; pointer-events: none; }
+#blog_header::after { background: transparent url(/images/post_shadow.png) repeat-x top; content: ""; display: block; position: absolute; left: 0; bottom: -20px; width: 100%; height: 20px; z-index: 4444; pointer-events: none; }
 #blog_header_top { padding-bottom: 10px; position: relative; }
 #title_link a { text-decoration: none; color: gray; }
 #title_link h1 { text-align: center; padding: 0px; line-height:1em; font-size: 84px; font-style: italic; }
@@ -223,7 +223,7 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 
 .post { border-top: 1px solid #f5f5f5; min-height: 7.5em; position: relative; }
 .post:first-child { border: none }
-.post::after { background: transparent url(http://static.tumblr.com/6nxvfxq/Vhamh0bjk/post_shadow.png) repeat-x bottom; content: ""; display: block; position: absolute; left: 0; bottom: 0; width: 100%; height: 20px; z-index: 4444; pointer-events: none; opacity: 0.7; }
+.post::after { background: transparent url(/images/post_shadow.png) repeat-x bottom; content: ""; display: block; position: absolute; left: 0; bottom: 0; width: 100%; height: 20px; z-index: 4444; pointer-events: none; opacity: 0.7; }
 .post figure img { height: auto; width: 100%; }
 /*.js .post { display: none } */
 .post .inner { padding-bottom: 2em }
@@ -238,7 +238,7 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 .post_info_bar .icon_link a { cursor: pointer; display: block; width: 100%; height: 100%; }
 .post_info_bar ul { list-style: none; margin: 0; padding: 0 0 0 40px; position: relative; width: 100%; z-index: 2222; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: hidden; *zoom: 1; }
 .post_info_bar li { display: block; float: left; }
-.post_info_bar li a { background: transparent url(http://static.tumblr.com/6nxvfxq/Paymh0bgh/info_bar_button_bg.png) no-repeat 0 -9999em; display: block; font-size: 0.875em; font-weight: 700; height: 40px; line-height: 40px; padding: 0 5px; text-decoration: none; text-transform: uppercase; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2); -webkit-transition: background-color 0.2s ease-in-out; -moz-transition: background-color 0.2s ease-in-out; -o-transition: background-color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out; }
+.post_info_bar li a { background: transparent url(/images/info_bar_button_bg.png) no-repeat 0 -9999em; display: block; font-size: 0.875em; font-weight: 700; height: 40px; line-height: 40px; padding: 0 5px; text-decoration: none; text-transform: uppercase; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2); -webkit-transition: background-color 0.2s ease-in-out; -moz-transition: background-color 0.2s ease-in-out; -o-transition: background-color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out; }
 .post_info_bar li a {
   font-family: '$post-info-font-family', sans-serif;
   font-weight: $post-info-font-weight !important;
@@ -247,12 +247,12 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 .post_info_bar li a .icon { display: block; float: left; width: 30px; height: 30px; margin: 5px 0; }
 .post_info_bar li a .legend { margin: 0 7px 0 0 }
 .post_info_bar li:last-child { float: none; position: absolute; top: 0; right: 0; }
-.post_info_bar::before { background: transparent url(http://static.tumblr.com/6nxvfxq/QYzmh0bkc/shadow.png) no-repeat right bottom; content: ""; display: block; position: absolute; left: 0; top: 0; width: 100%; height: 100%; padding: 0 7px 8px 0; pointer-events: none; z-index: 1111; opacity: 0.7; }
-.post_info_bar::after { background: transparent url(http://static.tumblr.com/6nxvfxq/Azfmh0bhe/info_bar_shadow.png) repeat-y; content: ""; display: block; position: absolute; left: 40px; top: 0; width: 20px; height: 100%; pointer-events: none; z-index: 3333; }
+.post_info_bar::before { background: transparent url(/images/shadow.png) no-repeat right bottom; content: ""; display: block; position: absolute; left: 0; top: 0; width: 100%; height: 100%; padding: 0 7px 8px 0; pointer-events: none; z-index: 1111; opacity: 0.7; }
+.post_info_bar::after { background: transparent url(/images/info_bar_shadow.png) repeat-y; content: ""; display: block; position: absolute; left: 40px; top: 0; width: 20px; height: 100%; pointer-events: none; z-index: 3333; }
 
 /* Retina stuff */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  .post_info_bar li a { background-image: url(http://static.tumblr.com/6nxvfxq/PM8mh0bgy/info_bar_button_bg_2x.png); background-size: 280px 65px; }
+  .post_info_bar li a { background-image: url(/images/info_bar_button_bg_2x.png); background-size: 280px 65px; }
 }
 
 /* @media screen and (min-width: 1024px) */
@@ -462,7 +462,7 @@ FlexSlider Theme Styles
 /* Direction Nav */
 .flex-direction-nav { *height: 0 }
 .flex-direction-nav a { background-repeat: no-repeat; border: 1px solid #f5f5f5; box-shadow: 0 1px 12px rgba(0, 0, 0, 0.5); cursor: pointer; display: block; position: absolute; top: 50%; width: 40px; height: 40px; margin: -20px 0 0; opacity: 0; z-index: 10; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-.flex-direction-nav a::before { background-image: url(http://static.tumblr.com/6nxvfxq/VlMmefkb8/info_bar_button_bg.png); content: ""; display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
+.flex-direction-nav a::before { background-image: url(/images/info_bar_button_bg.png); content: ""; display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
 .flex-direction-nav a:hover::before { display: block }
 .flex-direction-nav .flex-prev { left: -20px; border-left: none; }
 .flex-direction-nav .flex-prev::after { background-position: right top }
@@ -479,7 +479,7 @@ FlexSlider Theme Styles
 
 /* Retina stuff */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  .flex-direction-nav a::before { background-image: url(http://static.tumblr.com/6nxvfxq/PM8mh0bgy/info_bar_button_bg_2x.png); background-size: 280px 65px; }
+  .flex-direction-nav a::before { background-image: url(/images/info_bar_button_bg_2x.png); background-size: 280px 65px; }
 }
 
 /* @media screen and (min-width: 1280px) */
@@ -567,7 +567,7 @@ FlexSlider Theme Styles
 .jp-interface { position: relative; width: 100%; }
 .jp-controls { margin: 0; padding: 0; position: relative; }
 .jp-controls li { display: inline; float: left; }
-.jp-controls li a { background: transparent url(http://static.tumblr.com/6nxvfxq/E61mh7quy/jplayer_skin.png) no-repeat; display: block; opacity: 0.9; outline: none; overflow: hidden; padding: 0; text-indent: 100%; white-space: nowrap; width: 27px; height: 27px; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
+.jp-controls li a { background: transparent url(/images/jplayer_skin.png) no-repeat; display: block; opacity: 0.9; outline: none; overflow: hidden; padding: 0; text-indent: 100%; white-space: nowrap; width: 27px; height: 27px; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
 .jp-controls li a:hover { opacity: 0.7 }
 .jp-controls .jp-play { background-position: 0 0 }
 .jp-controls .jp-pause { background-position: -27px 0 }
@@ -579,7 +579,7 @@ FlexSlider Theme Styles
 .is_audio.html_solution .playcount { display: none }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  .jp-controls li a { background-image: url(http://static.tumblr.com/6nxvfxq/BIEmh7qvu/jplayer_skin_2x.png); background-size: 54px 27px; }
+  .jp-controls li a { background-image: url(/images/jplayer_skin_2x.png); background-size: 54px 27px; }
 }
 
 /*
@@ -606,8 +606,8 @@ FlexSlider Theme Styles
   .post.no_media .caption h2 { font-size: $post-header-font-size-tablet; padding: 0 20px }
   .post.no_media .content_source, .post.no_media .conversation, .post.no_media .post_body, .post.no_media .post_footer, .post.no_media .quote_source { padding: 0 20px }
   .post.no_media .inner { background-position: -60px -60px; background-repeat: no-repeat; }
-  .post.no_media.dark .inner { background-image: url(http://static.tumblr.com/6nxvfxq/4VBmefkeg/text_post_bg_dark.png) }
-  .post.no_media.light .inner { background-image: url(http://static.tumblr.com/6nxvfxq/uGumefkf0/text_post_bg_light.png) }
+  .post.no_media.dark .inner { background-image: url(/images/text_post_bg_dark.png) }
+  .post.no_media.light .inner { background-image: url(/images/text_post_bg_light.png) }
 }
 
 /* Retina stuff */
@@ -616,8 +616,8 @@ only screen and (-webkit-min-device-pixel-ratio: 2)   and (min-width: 48em),
 only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 48em),
 only screen and (min-resolution: 192dpi)              and (min-width: 48em),
 only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
-  .post.no_media.dark .inner { background-image: url(http://static.tumblr.com/6nxvfxq/bramh0bm2/text_post_bg_dark_2x.png); background-size: 984px 492px; }
-  .post.no_media.light .inner { background-image: url(http://static.tumblr.com/6nxvfxq/Z2Kmh0bmq/text_post_bg_light_2x.png); background-size: 984px 492px; }
+  .post.no_media.dark .inner { background-image: url(/images/text_post_bg_dark_2x.png); background-size: 984px 492px; }
+  .post.no_media.light .inner { background-image: url(/images/text_post_bg_light_2x.png); background-size: 984px 492px; }
 }
 
 @media screen and (min-width: 80em) {

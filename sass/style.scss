@@ -152,7 +152,6 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 
 #filter_tags_desktop.icon_based_filter .custom { display: none }
 
-/* Search */
 
 /* @media screen and (min-width: 1024px) */
 @media screen and (min-width: 64em) {
@@ -237,23 +236,11 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 @group Post Icons
 --------------------------------------------------------------------- */
 
-/* Hide post info bar */
-/* .post.is_text .icon_link, .post_info_bar      { display: none; } */
-/* @media screen and (min-width: 48em) { */
-/*   .post.is_text .icon_link, .post_info_bar    { display: block; } */
-/* } */
-
 /* Post types and post actions */
 
 /* Dark backgrounds */
-.post.dark.is_text .icon_link a               { background-position: 0 -200px; }
 .post.dark.is_photo .icon_link a              { background-position: -40px -200px; }
 .post.dark.is_quote .icon_link a              { background-position: -80px -200px; }
-.post.dark.is_link .icon_link a               { background-position: -120px -200px; }
-.post.dark.is_chat .icon_link a               { background-position: -160px -200px; }
-.post.dark.is_audio .icon_link a              { background-position: -200px -200px; }
-.post.dark.is_video .icon_link a              { background-position: -240px -200px; }
-.post.dark.is_answer .icon_link a             { background-position: -280px -200px; }
 .post.dark .timestamp .icon                   { background-position: 0 -280px; }
 .post.dark .notecount .icon                   { background-position: -30px -280px; }
 .post.dark .dsq-comment-count .icon           { background-position: -60px -280px; }
@@ -265,13 +252,7 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 
 /* Light backgrounds */
 .post.light.is_text .icon_link a              { background-position: 0 -240px; }
-.post.light.is_photo .icon_link a             { background-position: -40px -240px; }
 .post.light.is_quote .icon_link a             { background-position: -80px -240px; }
-.post.light.is_link .icon_link a              { background-position: -120px -240px; }
-.post.light.is_chat .icon_link a              { background-position: -160px -240px; }
-.post.light.is_audio .icon_link a             { background-position: -200px -240px; }
-.post.light.is_video .icon_link a             { background-position: -240px -240px; }
-.post.light.is_answer .icon_link a            { background-position: -280px -240px; }
 .post.light .timestamp .icon                  { background-position: 0 -310px; }
 .post.light .notecount .icon                  { background-position: -30px -310px; }
 .post.light .dsq-comment-count .icon          { background-position: -60px -310px; }
@@ -285,13 +266,7 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 @media screen and (min-width: 64em) {
   /* Dark backgrounds */
   .post.dark.is_text .icon_link a         { background-position: 0 0; }
-  .post.dark.is_photo .icon_link a        { background-position: -60px 0; }
   .post.dark.is_quote .icon_link a        { background-position: -120px 0; }
-  .post.dark.is_link .icon_link a         { background-position: -180px 0; }
-  .post.dark.is_chat .icon_link a         { background-position: -240px 0; }
-  .post.dark.is_audio .icon_link a        { background-position: -300px 0; }
-  .post.dark.is_video .icon_link a        { background-position: -360px 0; }
-  .post.dark.is_answer .icon_link a       { background-position: -420px 0; }
   .post.dark .timestamp .icon             { background-position: 0 -120px; }
   .post.dark .notecount .icon             { background-position: -40px -120px; }
   .post.dark .dsq-comment-count .icon     { background-position: -80px -120px; }
@@ -300,13 +275,7 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 
   /* Light backgrounds */
   .post.light.is_text .icon_link a        { background-position: 0 -60px; }
-  .post.light.is_photo .icon_link a       { background-position: -60px -60px; }
   .post.light.is_quote .icon_link a       { background-position: -120px -60px; }
-  .post.light.is_link .icon_link a        { background-position: -180px -60px; }
-  .post.light.is_chat .icon_link a        { background-position: -240px -60px; }
-  .post.light.is_audio .icon_link a       { background-position: -300px -60px; }
-  .post.light.is_video .icon_link a       { background-position: -360px -60px; }
-  .post.light.is_answer .icon_link a      { background-position: -420px -60px; }
   .post.light .timestamp .icon            { background-position: 0 -160px; }
   .post.light .notecount .icon            { background-position: -40px -160px; }
   .post.light .dsq-comment-count .icon    { background-position: -80px -160px; }
@@ -396,16 +365,6 @@ ol.notes li.note .clear { clear: both }
 .post.light .post_footer .tag_list a { background-color: $light-post-text; color: $light-post-background !important; }
 
 /*
-@group Photo & Photoset Posts
---------------------------------------------------------------------- */
-.is_photo figure, .is_photoset figure { background-color: rgba(0, 0, 0, 0.1); padding-bottom: 4px; }
-
-/*
-@group Photoset Flexslider
---------------------------------------------------------------------- */
-.is_photoset .flexslider li { list-style: none }
-
-/*
 FlexSlider Necessary Styles
 --------------------------------------------------------------------- */
 .flexslider { margin: 0; padding: 0; position: relative; }
@@ -476,93 +435,10 @@ FlexSlider Theme Styles
 }
 
 /*
-@group Audio Posts
---------------------------------------------------------------------- */
-.is_audio figure { background-color: rgba(0, 0, 0, 0.1); padding-bottom: 4px; }
-.is_audio .audio_holder { background-color: black; min-height: 27px; padding: 7px 10px; position: relative; }
-.is_audio .audio_player { position: absolute; left: 0; top: 0; padding: 7px 10px; z-index: 4444; }
-.is_audio .playcount { display: none }
-.is_audio .audio_embed { position: relative; padding: 20px 0 0; overflow: hidden; }
-.is_audio .audio_embed iframe { width: 100% !important; }
-.is_audio .audio_embed .spotify_audio_player { width: 264px !important; height: 344px !important; }
-
-/* @media screen and (min-width: 480px) */
-@media screen and (min-width: 30em) {
-  .is_audio .audio_embed .spotify_audio_player { width: 408px !important; height: 488px !important; }
-}
-
-/* @media screen and (min-width: 768px) */
-@media screen and (min-width: 48em) {
-  .is_audio .playcount { color: #f5f5f5; display: block; font-size: 1em; line-height: 1.6875em; margin: 0; text-align: right; font-style: italic; opacity: 0.6; }
-  .is_audio .audio_holder, .is_audio .audio_player { padding: 20px }
-  .is_audio .audio_embed .spotify_audio_player { width: 552px !important; height: 632px !important; }
-}
-
-/* @media screen and (min-width: 1024px) */
-@media screen and (min-width: 64em) {
-  .is_audio figure { float: left; padding: 0 4px 4px 0; width: 300px; }
-  .is_audio .audio_details { margin-left: 300px; padding: 20px 20px 0 20px; }
-  .is_audio_embed .audio_details { margin: 0; padding: 0; }
-  .is_audio.is_spotify_embed .audio_embed { float: left }
-  .is_audio.is_spotify_embed .audio_details { margin-left: 300px; padding: 0 20px; }
-  .is_audio .audio_embed .spotify_audio_player { width: 300px !important; height: 380px !important; }
-}
-
-/* @media screen and (min-width: 1280px) */
-@media screen and (min-width: 80em) {
-  .is_audio figure { width: 400px }
-  .is_audio .audio_embed { margin: 0; padding: 30px 30px 0 90px; }
-  .is_audio .audio_details { margin-left: 400px; padding-right: 30px; }
-  .is_audio_embed .audio_details { margin-left: 90px; padding: 0; }
-  .is_audio.is_spotify_embed .audio_details { margin-left: 490px; padding: 10px 0 0 30px; }
-  .is_audio .audio_embed .spotify_audio_player { width: 400px !important; height: 480px !important; }
-}
-
-/* @media screen and (min-width: 1280px) */
-@media screen and (min-width: 80em) {
-  .is_audio figure { width: 400px }
-  .is_audio .audio_embed { margin: 0; padding: 30px 30px 0 90px; }
-  .is_audio .audio_details { margin-left: 400px; padding-right: 30px; }
-  .is_audio_embed .audio_details { margin-left: 90px; padding: 0; }
-  .is_audio.is_spotify_embed .audio_details { margin-left: 490px; padding: 10px 0 0 30px; }
-  .is_audio .audio_embed .spotify_audio_player { width: 400px !important; height: 480px !important; }
-}
-
-/* ===[ Jplayer skin ]=== */
-.jp-audio { width: 235px; height: 27px; overflow: hidden; position: relative; }
-.jp-interface { position: relative; width: 100%; }
-.jp-controls { margin: 0; padding: 0; position: relative; }
-.jp-controls li { display: inline; float: left; }
-.jp-controls li a { background: transparent url(/images/jplayer_skin.png) no-repeat; display: block; opacity: 0.9; outline: none; overflow: hidden; padding: 0; text-indent: 100%; white-space: nowrap; width: 27px; height: 27px; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
-.jp-controls li a:hover { opacity: 0.7 }
-.jp-controls .jp-play { background-position: 0 0 }
-.jp-controls .jp-pause { background-position: -27px 0 }
-.jp-progress { position: absolute; left: 40px; top: 0; width: 195px; height: 21px; margin: 3px 0; overflow: hidden; }
-.jp-seek-bar { background-color: #333; width: 0; height: 100%; overflow: hidden; cursor: pointer; }
-.jp-play-bar { background-color: #666; border-right: 2px solid #e6e6e6; width: 0; height: 100%; overflow: hidden; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
-.jp-no-solution { background: #000; color: #fff; display: none; font-size: 12px; line-height: 1.1; position: absolute; left: 40px; top: 0; }
-.jp-no-solution a { color: #fff; text-decoration: underline; }
-.is_audio.html_solution .playcount { display: none }
-
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  .jp-controls li a { background-image: url(/images/jplayer_skin_2x.png); background-size: 54px 27px; }
-}
-
-/*
-@group Video Posts
---------------------------------------------------------------------- */
-.is_video .video_holder { background-color: rgba(0, 0, 0, 0.8); position: relative; }
-.is_video .video_holder::after { background-color: rgba(0, 0, 0, 0.1); content: ""; display: block; width: 100%; height: 4px; position: absolute; left: 0; bottom: -4px; }
-.is_video .video_wrapper { margin: 0 auto; width: auto; }
-.is_video .tumblr_video_container { width: 100% !important; height: auto !important; }
-.js .video_wrapper { opacity: 0; }
-
-/*
 @group Chat, Link, Quote & Text Posts
 --------------------------------------------------------------------- */
 .post.no_media .caption h2 { font-size: $post-header-font-size-phone; line-height: 1.1em; margin: 0 0 0.75em 0; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1); }
 .post.no_media .caption h2 a { border-bottom: none !important; -webkit-transition: color 0.2s ease-in-out; -moz-transition: color 0.2s ease-in-out; -o-transition: color 0.2s ease-in-out; -ms-transition: color 0.2s ease-in-out; transition: color 0.2s ease-in-out; }
-.is_chat .conversation { list-style: none }
 .quote .quote_source::before { content: "\2014 \2009" }
 .quote_medium .post_title span { font-size: 85% }
 .quote_long .post_title span { font-size: 75% }
@@ -595,8 +471,6 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
   .post.no_media .caption p + p { margin-top: 0; text-indent: 0; }
   .post.no_media .caption.has_title { margin-top: 0 }
   .post.no_media .caption.has_title p { margin-top: 0; text-indent: 0; }
-  .is_chat .conversation { margin-top: 72px }
-  .is_chat .caption.has_title .conversation { margin-top: 0 }
   .is_permalink_page .post.no_media .caption.has_title { margin-top: 1em }
   .is_permalink_page .post.no_media .caption h2 { margin-left: 30px }
   .is_permalink_page .post.no_media .caption p { text-indent: 0 }
@@ -708,11 +582,6 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 .cont ol, .cont ul { margin-left: 1.5em }
 .cont blockquote { border-top: 2px solid white; border-bottom: 2px solid white; margin: 20px 0; padding: 20px 20px 0 70px; position: relative; }
 .cont blockquote::before { content: ""; display: block; position: absolute; top: 0; left: 0; width: 60px; height: 60px; }
-.is_chat .cont ol, .is_chat .cont ul { margin-left: 0 }
-.no_search_results { min-height: 30em }
-.no_search_results .cont { margin: 40px 0 }
-.no_search_results .search_query::before { content: '\201C' }
-.no_search_results .search_query::after { content: '\201D' }
 
 /* Page Title */
 .post_title { font-family: 'Open Sans', sans-serif; font-weight: 700 !important; }
@@ -720,7 +589,7 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 /* Post Title */
 .post_title { font-family: $post-header-font-family, sans-serif; font-weight: $post-header-font-weight !important; }
 
-.is_text .post_title, .is_link .post_title, .is_chat .post_title { text-transform: $post-header-text-transform; }
+.is_text .post_title { text-transform: $post-header-text-transform; }
 
 /* Post Footer */
 .post_footer { font-size: 0.875em; line-height: 1.4286em; }

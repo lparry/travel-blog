@@ -26,13 +26,7 @@ Fallback styles for old versions of Explorer
 .flex-direction-nav a { background-image: url(http://static.tumblr.com/6nxvfxq/csnmel1nc/luomo_icons.png); }
 
 #posts .is_text   .icon_link a { background-position: 0 -240px !important; }
-#posts .is_photo  .icon_link a { background-position: -40px -240px !important; }
 #posts .is_quote  .icon_link a { background-position: -80px -240px !important; }
-#posts .is_link   .icon_link a { background-position: -120px -240px !important; }
-#posts .is_chat   .icon_link a { background-position: -160px -240px !important; }
-#posts .is_audio  .icon_link a { background-position: -200px -240px !important; }
-#posts .is_video  .icon_link a { background-position: -240px -240px !important; }
-#posts .is_answer .icon_link a { background-position: -280px -240px !important; }
 
 .post .timestamp         .icon { background-position: 0 -310px !important; }
 .post .notecount         .icon { background-position: -30px -310px !important; }

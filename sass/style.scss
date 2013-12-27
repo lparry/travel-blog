@@ -164,8 +164,33 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
   }
   li:last-child { float: none; position: absolute; top: 0; right: 0; }
 }
-.post_info_bar::before { background: transparent url(/images/shadow.png) no-repeat right bottom; content: ""; display: block; position: absolute; left: 0; top: 0; width: 100%; height: 100%; padding: 0 7px 8px 0; pointer-events: none; z-index: 1111; opacity: 0.7; }
-.post_info_bar::after { background: transparent url(/images/info_bar_shadow.png) repeat-y; content: ""; display: block; position: absolute; left: 40px; top: 0; width: 20px; height: 100%; pointer-events: none; z-index: 3333; }
+.post_info_bar::before {
+  background: transparent url(/images/shadow.png) no-repeat right bottom;
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0 7px 8px 0;
+  pointer-events: none;
+  z-index: 1111;
+  opacity: 0.7;
+}
+
+.post_info_bar::after {
+  background: transparent url(/images/info_bar_shadow.png) repeat-y;
+  content: "";
+  display: block;
+  position: absolute;
+  left: 40px;
+  top: 0;
+  width: 20px;
+  height: 100%;
+  pointer-events: none;
+  z-index: 3333;
+}
 
 /* Retina stuff */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -202,68 +227,44 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 /* Post types and post actions */
 
 /* Dark backgrounds */
-.post.dark.is_photo .icon_link a              { background-position: -40px -200px; }
-.post.dark.is_quote .icon_link a              { background-position: -80px -200px; }
-.post.dark .timestamp .icon                   { background-position: 0 -280px; }
-.post.dark .notecount .icon                   { background-position: -30px -280px; }
-.post.dark .dsq-comment-count .icon           { background-position: -60px -280px; }
-.post.dark .sharethis .icon                   { background-position: -90px -280px; }
-.post.dark .reblogthis .icon                  { background-position: -120px -280px; }
-.post.dark .post_footer .timestamp::before    { background-position: 0 -340px; }
 .post.dark .cont blockquote::before           { background-position: -120px 0; }
 .post.dark .cont ol.notes blockquote::before  { background-position: -80px -200px; }
+.post.dark .post_footer .timestamp::before    { background-position: 0 -340px; }
+.post.dark.is_quote .icon_link a        { background-position: -120px 0; }
+.post.dark.is_text .icon_link a         { background-position: 0 0; }
+.post.dark .timestamp .icon             { background-position: 0 -120px; }
+.post.dark .notecount .icon             { background-position: -40px -120px; }
+.post.dark .dsq-comment-count .icon     { background-position: -80px -120px; }
+.post.dark .sharethis .icon             { background-position: -120px -120px; }
+.post.dark .reblogthis .icon            { background-position: -160px -120px; }
 
 /* Light backgrounds */
-.post.light.is_text .icon_link a              { background-position: 0 -240px; }
-.post.light.is_quote .icon_link a             { background-position: -80px -240px; }
-.post.light .timestamp .icon                  { background-position: 0 -310px; }
-.post.light .notecount .icon                  { background-position: -30px -310px; }
-.post.light .dsq-comment-count .icon          { background-position: -60px -310px; }
-.post.light .sharethis .icon                  { background-position: -90px -310px; }
-.post.light .reblogthis .icon                 { background-position: -120px -310px; }
-.post.light .post_footer .timestamp::before   { background-position: 0 -360px; }
 .post.light .cont blockquote::before          { background-position: -120px -60px; }
 .post.light .cont ol.notes blockquote::before { background-position: -80px -240px; }
+.post.light .dsq-comment-count .icon    { background-position: -80px -160px; }
+.post.light .notecount .icon            { background-position: -40px -160px; }
+.post.light .post_footer .timestamp::before   { background-position: 0 -360px; }
+.post.light .reblogthis .icon           { background-position: -160px -160px; }
+.post.light .sharethis .icon            { background-position: -120px -160px; }
+.post.light .timestamp .icon            { background-position: 0 -160px; }
+.post.light.is_quote .icon_link a       { background-position: -120px -60px; }
+.post.light.is_text .icon_link a        { background-position: 0 -60px; }
 
-/* @media screen and (min-width: 1280px) */
-@media screen and (min-width: 64em) {
-  /* Dark backgrounds */
-  .post.dark.is_text .icon_link a         { background-position: 0 0; }
-  .post.dark.is_quote .icon_link a        { background-position: -120px 0; }
-  .post.dark .timestamp .icon             { background-position: 0 -120px; }
-  .post.dark .notecount .icon             { background-position: -40px -120px; }
-  .post.dark .dsq-comment-count .icon     { background-position: -80px -120px; }
-  .post.dark .sharethis .icon             { background-position: -120px -120px; }
-  .post.dark .reblogthis .icon            { background-position: -160px -120px; }
-
-  /* Light backgrounds */
-  .post.light.is_text .icon_link a        { background-position: 0 -60px; }
-  .post.light.is_quote .icon_link a       { background-position: -120px -60px; }
-  .post.light .timestamp .icon            { background-position: 0 -160px; }
-  .post.light .notecount .icon            { background-position: -40px -160px; }
-  .post.light .dsq-comment-count .icon    { background-position: -80px -160px; }
-  .post.light .sharethis .icon            { background-position: -120px -160px; }
-  .post.light .reblogthis .icon           { background-position: -160px -160px; }
-}
 
 /*
 @group Comments & Notes
 --------------------------------------------------------------------- */
-ol.notes { margin: 60px 0 !important; padding: 0; }
-ol.notes li.note { display: block; list-style: none; margin: 0.5em 0 0.5em 40px; position: relative; }
-ol.notes li.note > a:first-child { background: rgba(0, 0, 0, 0.1) !important; border: none !important; display: block; position: absolute; top: 0; left: -40px; }
-ol.notes li.note > a:first-child img { display: block; margin: 0 2px 2px 0; width: 30px; height: auto; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
-ol.notes li.note > a:first-child:hover { background: rgba(0, 0, 0, 0.1) !important }
-ol.notes li.note > a:first-child:hover img { opacity: 0.8 }
-ol.notes li.note blockquote { border: none !important; margin: 0; padding: 0 0 0 40px; }
-ol.notes li.note blockquote::before { width: 40px; height: 40px; }
-ol.notes li.note .clear { clear: both }
-
-/* @media screen and (min-width: 768px) */
-@media screen and (min-width: 48em) {
-  ol.notes li.note { margin-left: 50px }
-  ol.notes li.note > a:first-child { left: -50px }
-  ol.notes li.note > a:first-child img { width: 40px }
+ol.notes {
+  margin: 60px 0 !important;
+  padding: 0;
+  li.note { display: block; list-style: none; margin: 0.5em 0 0.5em 40px; position: relative; margin-left: 50px }
+  li.note > a:first-child { background: rgba(0, 0, 0, 0.1) !important; border: none !important; display: block; position: absolute; top: 0; left: -50px; }
+  li.note > a:first-child img { display: block; margin: 0 2px 2px 0; width: 40px; height: auto; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
+  li.note > a:first-child:hover { background: rgba(0, 0, 0, 0.1) !important }
+  li.note > a:first-child:hover img { opacity: 0.8 }
+  li.note blockquote { border: none !important; margin: 0; padding: 0 0 0 40px; }
+  li.note blockquote::before { width: 40px; height: 40px; }
+  li.note .clear { clear: both }
 }
 
 #disqus_thread { background-color: #333333; background-color: rgba(51, 51, 51, 0.7); color: white; margin: 60px 0 40px; padding: 20px; }
@@ -458,21 +459,28 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 .pagination {
   font-family: '$pagination-font-family', sans-serif;
   font-weight: $pagination-font-weight !important;
+  background-color: $pagination-background;
+  color: $pagination-text;
+  position: relative;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.2);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+
+  .inner { background: none !important; padding: 20px 10px 20px 10px; height: 18px; }
+  p { margin: 0 !important; position: relative; }
+  a, .current_page { font-size: 1.5em; line-height: 1em; padding: 16px 0 20px; }
+  a { color: $pagination-text; display: block; position: absolute; text-decoration: none; top: 0; opacity: 0.7; z-index: 6666; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
+  a:hover { color: $pagination-text; opacity: 1; }
+  a.next::before, a.previous::before { content: ""; display: block; position: absolute; width: 60px; height: 60px; top: 0; }
+  a.previous { left: 0px; padding-left: 60px; }
+  a.previous::before { left: 0; background-position: 0 -720px; }
+  a.archive { position: relative; text-align: center; margin-top: -20px}
+  a.next { right: 0px; padding-right: 60px; }
+  a.next::before { right: 0; background-position: -60px -720px; }
+  .current_page { display: block; font-style: italic; text-align: center; opacity: 0.4; margin-top: -20px; }
 }
-.pagination { background-color: $pagination-background; color: $pagination-text; position: relative; text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.2); -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
 .pagination::after { background-color: rgba(0, 0, 0, 0.05); content: ""; display: block; position: absolute; left: 0; bottom: -4px; width: 100%; height: 4px; z-index: 4444; }
-.pagination .inner { background: none !important; padding: 20px 10px 20px 10px; height: 18px; }
-.pagination p { margin: 0 !important; position: relative; }
-.pagination a, .pagination .current_page { font-size: 1.5em; line-height: 1em; padding: 16px 0 20px; }
-.pagination a { color: $pagination-text; display: block; position: absolute; text-decoration: none; top: 0; opacity: 0.7; z-index: 6666; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
-.pagination a:hover { color: $pagination-text; opacity: 1; }
-.pagination a.next::before, a.previous::before { content: ""; display: block; position: absolute; width: 60px; height: 60px; top: 0; }
-.pagination a.previous { left: 0px; padding-left: 60px; }
-.pagination a.previous::before { left: 0; background-position: 0 -720px; }
-.pagination a.archive { position: relative; text-align: center; margin-top: -20px}
-.pagination a.next { right: 0px; padding-right: 60px; }
-.pagination a.next::before { right: 0; background-position: -60px -720px; }
-.pagination .current_page { display: block; font-style: italic; text-align: center; opacity: 0.4; margin-top: -20px; }
 
 /*
 @group Typography

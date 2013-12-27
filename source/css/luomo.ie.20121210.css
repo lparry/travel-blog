@@ -55,7 +55,3 @@ span.hide_from_mobile { display: inline !important; }
 
 .blog_footer .links li { display: inline !important; }
 .blog_footer .links a { display: inline; *display: block; }
-
-.flex-direction-nav a { background-color: #b3b3b3; border: none; }
-.flex-direction-nav .flex-prev { left: 0; background-position: 0 -600px !important; }
-.flex-direction-nav .flex-next { right: 0; background-position: -40px -600px !important; }

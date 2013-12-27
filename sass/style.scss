@@ -1,16 +1,5 @@
 /* Pixel Moxie's LUOMO Tumblr Theme - v1.2.1 */
 
-$mobile-filter-label-background:  #f2f2f2;
-$mobile-filter-label-border:      #d9d9d9;
-$mobile-filter-label-inset:       #ffffff;
-$mobile-filter-dropdown-bg:       #d9d9d9;
-$mobile-filter-dropdown-bg-hover: #cccccc;
-$mobile-filter-text-color:        #666666;
-$mobile-filter-text-color:        #333333;
-$desktop-filter-border:           #cccccc;
-$desktop-filter-item-bg:          #cccccc;
-$desktop-filter-item-bg-hover:    #999999;
-$desktop-filter-text-color:       #f5f5f5;
 $dark-post-text:                  #f5f5f5;
 $dark-post-accent:                #00ccff;
 $dark-post-link:                  #00ccff;
@@ -41,10 +30,6 @@ $body-font-stack:                "'Segoe UI', Tahoma, Helvetica, sans-serif";
 $body-font-size-phone:           16px;
 $body-font-size-tablet:          18px;
 $body-font-size-desktop:         24px;
-$post-filter-font-family:        'Open Sans Condensed';
-$post-filter-font-weight:        600;
-$post-filter-font-size:          16px;
-$post-filter-text-transform:     uppercase;
 $post-info-font-family:          'Open Sans Condensed';
 $post-info-font-weight:          700;
 $post-header-font-family:        'Open Sans';
@@ -81,30 +66,24 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 /*
 @group Icon Sources
 --------------------------------------------------------------------- */
-.flex-direction-nav a,
 .pagination a::before,
 .post .cont blockquote::before,
 .post .cont ol.notes blockquote::before,
 .post .icon,
 .post .icon_link a,
 .post_footer .timestamp::before,
-#back_to_top a,
-#filter_tags_desktop li a,
-#filter_tags_mobile .trigger span.icon { background-image: url(/images/luomo_icons.png); }
+#back_to_top a { background-image: url(/images/luomo_icons.png); }
 #social_links li a { background-image: url(/images/social_icons.png); }
 
 /* 2 dpr and 1.5 dpr */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  .flex-direction-nav a,
   .pagination a::before,
   .post .cont blockquote::before,
   .post .cont ol.notes blockquote::before,
   .post .icon,
   .post .icon_link a,
   .post_footer .timestamp::before,
-  #back_to_top a,
-  #filter_tags_desktop li a,
-  #filter_tags_mobile .trigger span.icon { background-image: url(/images/luomo_icons_2x.png); background-size: 480px 860px }
+  #back_to_top a { background-image: url(/images/luomo_icons_2x.png); background-size: 480px 860px }
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -120,68 +99,11 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 #title_link a { text-decoration: none; color: gray; }
 #title_link h1 { text-align: center; padding: 0px; line-height:1em; font-size: 84px; font-style: italic; }
 
-/* Post Type Filter */
-#blog_header_filter { position: relative }
-#filter_tags_mobile {
-  margin-right: 34px; padding-bottom: 20px;
-  .trigger { background-color: $mobile-filter-label-background; border: 1px solid $mobile-filter-label-border; box-shadow: inset 0 1px 0 $mobile-filter-label-inset; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-  .trigger span.icon { background-position: -120px -380px; display: block; position: absolute; top: -1px; right: 0; width: 30px; height: 30px; opacity: 0.7; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
-  .trigger.is_open span.icon { background-position: -150px -380px }
-  .trigger, #filter_tags_mobile .dropdown a { color: $mobile-filter-text-color; cursor: pointer; display: block; font-size: 0.875em; font-weight: bold; height: 30px; letter-spacing: 1px; line-height: 30px; padding: 0 10px; text-decoration: none; text-transform: uppercase; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-  .trigger:hover span.icon, #filter_tags_mobile .dropdown a:hover span.icon { opacity: 1 }
-  .dropdown { display: none; position: relative; }
-  .dropdown::before { opacity: 0.15 !important; top: -1px !important; }
-  .dropdown li { display: block; list-style: none; }
-  .dropdown a { background-color: $mobile-filter-dropdown-bg }
-  .dropdown a:hover { background-color: $mobile-filter-dropdown-bg-hover }
-};
-
-#filter_tags_desktop {
-  display: none; text-align: center;
-  li { display: inline-block; list-style: none; margin: 0 -2px; vertical-align: top; }
-  li a { background-color: $desktop-filter-item-bg; display: block; width: 60px; height: 60px; margin: 1px 1px 1px 0; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-  li a:hover { background-color: $desktop-filter-item-bg-hover; box-shadow: inset 2px 2px 0 rgba(0, 0, 0, 0.1); }
-  li.text a { background-position: 0 0 }
-  li.photo a { background-position: -60px 0 }
-  li.quote a { background-position: -120px 0 }
-  li.link a { background-position: -180px 0 }
-  li.chat a { background-position: -240px 0 }
-  li.audio a { background-position: -300px 0 }
-  li.video a { background-position: -360px 0 }
-  li.answer a { background-position: -420px 0 }
-}
-
-#filter_tags_desktop.text_based_filter a { background-image: none; color: $desktop-filter-text-color; width: auto; height: auto; font-family: '$post-filter-font-family', sans-serif; font-size: $post-filter-font-size; font-weight: $post-filter-font-weight; line-height: 20px; padding: 20px; text-decoration: none; text-indent: 0 !important; text-shadow: 1px 1px 0 $desktop-filter-item-bg, 2px 2px 0 rgba(0, 0, 0, 0.2); text-transform: $post-filter-text-transform; }
-#filter_tags_desktop.text_based_filter a:hover { padding: 19px 20px 21px; text-shadow: 1px 1px 0 $desktop-filter-item-bg-hover, 2px 2px 0 rgba(0, 0, 0, 0.2); }
-
-#filter_tags_desktop.icon_based_filter .custom { display: none }
-
 
 /* @media screen and (min-width: 1024px) */
 @media screen and (min-width: 64em) {
   #blog_header_top { padding: 0 }
   #social_links { padding-bottom: 20px }
-  #blog_header_filter { border-top: 1px solid $desktop-filter-border }
-  #filter_tags_mobile { display: none }
-  #filter_tags_desktop { display: block }
-}
-
-@media screen and (min-width: 80em) {
-  #blog_header_filter { border-top: 1px solid $desktop-filter-border }
-  #filter_tags_mobile { display: none }
-  #filter_tags_desktop { display: block }
-}
-
-@media screen and (min-width: 90em) {
-  #blog_header_filter { border-top: 1px solid $desktop-filter-border }
-  #filter_tags_mobile { display: none }
-  #filter_tags_desktop { display: block }
-}
-
-@media screen and (min-width: 100em) {
-  #blog_header_filter { border-top: 1px solid $desktop-filter-border }
-  #filter_tags_mobile { display: none }
-  #filter_tags_desktop { display: block }
 }
 
 /* ==================================================================
@@ -197,7 +119,7 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 /*.js .post { display: none } */
 .post .inner { padding-bottom: 2em }
 .post .read_more_container { margin: 0 }
-#filter_tags_mobile .dropdown::before, .is_permalink_page .post .inner::before { background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.65)), color-stop(100%, rgba(0, 0, 0, 0))); background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: -o-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: -ms-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 5px; z-index: 6666; pointer-events: none; opacity: 0.4; }
+.is_permalink_page .post .inner::before { background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.65)), color-stop(100%, rgba(0, 0, 0, 0))); background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: -o-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: -ms-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%); content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 5px; z-index: 6666; pointer-events: none; opacity: 0.4; }
 
 /*
 @group Post Info Bar
@@ -207,15 +129,39 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
   .icon_link { position: absolute; left: 0; top: 0; width: 40px; height: 40px; z-index: 3333; }
   .icon_link a { cursor: pointer; display: block; width: 100%; height: 100%; }
   ul { list-style: none; margin: 0; padding: 0 0 0 40px; position: relative; width: 100%; z-index: 2222; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; overflow: hidden; *zoom: 1; }
-  li { display: block; float: left; }
-  li a { background: transparent url(/images/info_bar_button_bg.png) no-repeat 0 -9999em; display: block; font-size: 0.875em; font-weight: 700; height: 40px; line-height: 40px; padding: 0 5px; text-decoration: none; text-transform: uppercase; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2); -webkit-transition: background-color 0.2s ease-in-out; -moz-transition: background-color 0.2s ease-in-out; -o-transition: background-color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out; }
-  li a {
-    font-family: '$post-info-font-family', sans-serif;
-    font-weight: $post-info-font-weight !important;
+  li {
+    display: block;
+    float: left;
+    a {
+      background: transparent url(/images/info_bar_button_bg.png) no-repeat 0 -9999em;
+      display: block;
+      font-size: 0.875em;
+      font-weight: 700;
+      height: 40px;
+      line-height: 40px;
+      padding: 0 5px;
+      text-decoration: none;
+      text-transform: uppercase;
+      text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+      -webkit-transition: background-color 0.2s ease-in-out;
+      -moz-transition: background-color 0.2s ease-in-out;
+      -o-transition: background-color 0.2s ease-in-out;
+      -ms-transition: background-color 0.2s ease-in-out;
+      transition: background-color 0.2s ease-in-out;
+      font-family: '$post-info-font-family', sans-serif;
+      font-weight: $post-info-font-weight !important;
+
+      .icon {
+        display: block;
+        float: left;
+        width: 30px;
+        height: 30px;
+        margin: 5px 0;
+      }
+      .legend { margin: 0 7px 0 0 }
+    }
+    a:hover { background-position: 0 0; }
   }
-  li a:hover { background-position: 0 0; }
-  li a .icon { display: block; float: left; width: 30px; height: 30px; margin: 5px 0; }
-  li a .legend { margin: 0 7px 0 0 }
   li:last-child { float: none; position: absolute; top: 0; right: 0; }
 }
 .post_info_bar::before { background: transparent url(/images/shadow.png) no-repeat right bottom; content: ""; display: block; position: absolute; left: 0; top: 0; width: 100%; height: 100%; padding: 0 7px 8px 0; pointer-events: none; z-index: 1111; opacity: 0.7; }
@@ -381,14 +327,6 @@ ol.notes li.note .clear { clear: both }
 .post.light .post_footer a:hover { color: $light-post-link }
 .post.light .post_footer .tag_list a { background-color: $light-post-text; color: $light-post-background !important; }
 
-/*
-FlexSlider Necessary Styles
---------------------------------------------------------------------- */
-.flexslider { margin: 0; padding: 0; position: relative; }
-.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
-.flexslider .slides img { width: 100%; display: block; }
-.flex-pauseplay span { text-transform: capitalize }
-
 /* Clearfix for the .slides element */
 .slides:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 html[xmlns] .slides { display: block }
@@ -396,60 +334,6 @@ html[xmlns] .slides { display: block }
 
 /* No JavaScript Fallback */
 .no-js .slides > li:first-child { display: block }
-
-/*
-FlexSlider Theme Styles
---------------------------------------------------------------------- */
-
-/* Direction Nav */
-.flex-direction-nav { *height: 0 }
-.flex-direction-nav a { background-repeat: no-repeat; border: 1px solid #f5f5f5; box-shadow: 0 1px 12px rgba(0, 0, 0, 0.5); cursor: pointer; display: block; position: absolute; top: 50%; width: 40px; height: 40px; margin: -20px 0 0; opacity: 0; z-index: 10; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-.flex-direction-nav a::before { background-image: url(/images/info_bar_button_bg.png); content: ""; display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
-.flex-direction-nav a:hover::before { display: block }
-.flex-direction-nav .flex-prev { left: -20px; border-left: none; }
-.flex-direction-nav .flex-prev::after { background-position: right top }
-.flex-direction-nav .flex-next { right: -20px; border-right: none; }
-.flex-direction-nav .flex-next::after { background-position: left top }
-.post.dark .flex-direction-nav a { background-color: #494f50 }
-.post.dark .flex-direction-nav a:hover { background-color: $dark-post-accent !important; }
-.post.dark .flex-direction-nav .flex-prev { background-position: 0 -560px }
-.post.dark .flex-direction-nav .flex-next { background-position: -40px -560px }
-.post.light .flex-direction-nav a { background-color: $light-post-background }
-.post.light .flex-direction-nav a:hover { background-color: $light-post-accent !important; }
-.post.light .flex-direction-nav .flex-prev { background-position: 0 -600px }
-.post.light .flex-direction-nav .flex-next { background-position: -40px -600px }
-
-/* Retina stuff */
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  .flex-direction-nav a::before { background-image: url(/images/info_bar_button_bg_2x.png); background-size: 280px 65px; }
-}
-
-/* @media screen and (min-width: 1280px) */
-@media screen and (min-width: 80em) {
-  .flex-direction-nav a { width: 60px; height: 60px; margin: -30px 0 0; }
-  .post.dark .flex-direction-nav .flex-prev { background-position: 0 -440px }
-  .post.dark .flex-direction-nav .flex-next { background-position: -60px -440px }
-  .post.light .flex-direction-nav .flex-prev { background-position: 0 -500px }
-  .post.light .flex-direction-nav .flex-next { background-position: -60px -500px }
-}
-
-.flexslider:hover .flex-prev { opacity: 1; left: 0; }
-.flexslider:hover .flex-next { opacity: 1; right: 0; }
-.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover { opacity: 1 }
-.flex-direction-nav .flex-disabled { opacity: .3 !important; filter: alpha(opacity=30); cursor: default; }
-
-/* Control Nav */
-.flex-control-nav { width: 100%; position: absolute; bottom: 20px; text-align: center; }
-.flex-control-nav li { margin: 0 6px; display: inline-block; zoom: 1; *display: inline; }
-.flex-control-nav li a { width: 11px; height: 11px; display: block; background: $slider-control-nav-normal; cursor: pointer; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; -webkit-transition: background-color 0.2s ease-in-out; -moz-transition: background-color 0.2s ease-in-out; -o-transition: background-color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out; }
-.flex-control-nav li a:hover { background-color: $slider-control-nav-hover }
-.post.dark .flex-control-nav li a.flex-active { background-color: $dark-post-accent; cursor: default; }
-.post.light .flex-control-nav li a.flex-active { background-color: $light-post-accent; cursor: default; }
-
-@media screen and (max-width: 64em) {
-  .flex-direction-nav .flex-prev { opacity: 1; left: 0; }
-  .flex-direction-nav .flex-next { opacity: 1; right: 0; }
-}
 
 /*
 @group Chat, Link, Quote & Text Posts

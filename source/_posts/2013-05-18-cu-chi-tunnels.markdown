@@ -2,7 +2,7 @@
 layout: post
 title: "Cu Chi Tunnels"
 date: 2013-05-18 22:24
-tags: vietnam, motorbikes, food, massages
+tags: Vietnam
 
 priority: 0.5
 ---

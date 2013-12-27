@@ -2,7 +2,7 @@
 layout: post
 title: "Day 1: Melbourne to Saigon"
 date: 2013-05-13 22:52
-tags: airplanes, airports, travel, vietnam
+tags: planes airports Vietnam
 priority: 0.5
 ---
 I spent my entire last night in Melbourne with my mind racing, completely unable to sleep. I think I nearly feel asleep for a bit at around 5am, and then was woken not long after by a notification on my phone lighting up the room.

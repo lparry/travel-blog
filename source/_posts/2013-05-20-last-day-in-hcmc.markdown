@@ -2,7 +2,7 @@
 layout: post
 title: "Last Day in HCMC"
 date: 2013-05-20 22:24
-tags: vietnam, motorbikes, food, massages
+tags: Vietnam
 
 priority: 0.5
 ---

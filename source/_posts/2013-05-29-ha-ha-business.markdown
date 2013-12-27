@@ -2,7 +2,7 @@
 layout: post
 title: "HA HA! BUSINESS!"
 date: 2013-05-29 22:24
-tags: vietnam, motorbikes, food, massages
+tags: vietnam planes
 
 priority: 0.5
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Motorbikes in HCMC"
 date: 2013-05-19 22:24
-tags: vietnam, motorbikes, food, massages
+tags: Vietnam motorbikes
 
 priority: 0.5
 ---

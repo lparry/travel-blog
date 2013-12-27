@@ -26,7 +26,7 @@ machine and air conditioning felt very luxurious after having just spent 5 weeks
 camping in tents.
 
 As soon as we'd put our bags down we headed out in search of food and quickly
-located our first kebaps of the trip. Very delicious and super cheap too. We
+located our first kebabs of the trip. Very delicious and super cheap too. We
 continued up to Taksim square and found that the top corner of the square
 consisted of about 6-7 kebab shops all side by side, which we soon dubbed the
 kebab district. We made pretty regular trips to the kebab district on a quest to
@@ -42,8 +42,8 @@ All of us headed over to the Egyptian bazaar the next morning to do some
 exploring. The Egyptian bazaar is right next to the grand bazaar, but a bit
 smaller and (apparently) a bit less tourist focused although looking back I'm
 not remembering a lot of stuff there I could imagine the locals coming to buy.
-Maybe the bulk tobbaco and spices, but not the 100s of hookahs or the Kilos of
-turkish delight.
+Maybe the bulk tobacco and spices, but not the 100s of hookahs or the Kilos of
+Turkish delight.
 
 We all agreed the place felt fairly busy and bustling, but people seemed a lot
 less forceful about getting your attention or dragging you into their shops than
@@ -53,9 +53,9 @@ complain about how invasive the touts are and how they couldn't cope with it
 all, and it really goes to show just how subjective all the reviews on there are
 and how much each individuals past experiences factor in.
 
-We went an wandered around the Grand Bazar, which as the name implies is a
-really huge market. The place had a strange air of familarity to it and
-eventually it clicked that Constantinople that Assasin's Creed Revelations is
+We went an wandered around the Grand Bazaar, which as the name implies is a
+really huge market. The place had a strange air of familiarity to it and
+eventually it clicked that Constantinople that Assassin's Creed Revelations is
 set in, is the same city that eventually became Istanbul. I realised I'd already
 visited the Topkapi palace virtually, and even assassinated a Czar there. I find
 it thoroughly impressive that I can start to feel like I know my way around the
@@ -104,55 +104,64 @@ We met up that afternoon with Leigh and Nicolette for our last drinks together
 as it was their last night before they were leaving us and heading back home to
 Scotland :(
 
-Luke, Amanda and myself went out on an evening boat cruise on the Bosporus, which was a beautiful chance to see the city at night from the water.
+Luke, Amanda and myself went out on an evening boat cruise on the Bosporus,
+which was a beautiful chance to see the city at night from the water.
 
-We'd seen that a dentist convention was being held in town, and we actually passed it, lit up Colgate sign being the give-away.
+We'd seen that a dentist convention was being held in town, and we actually
+passed it, lit up Colgate sign being the give-away.
 
-We passed under the 
-colgate signs. passed under the bridges, got to see their light shows. Amanda
-feeling pretty unwell, taxi home.
+We passed under the first bridge with it's lit up cables and got a really good
+view of it's light show.
 
+Having lost Leigh and Nic, we moved from our AirBNB apartment to a hostel over
+in the old part of the city. The place had very friendly staff, the room was
+pretty nice, and up on the top floor of the hostel there was a rooftop bar with
+a pretty amazing view of the Hagia Sofia.
 
-move from our airbnb apartment to a hostel over in the old city, friendly staff,
-nice room and a rooftop bar with an amazing view of the blue mosque.
+I did some solo exploration of some of the museums and palaces as Amanda was
+unwell and Luke wanted to work on some HCTP videos. I got a Museum card and
+headed to the Archaeology museum which had an interesting exhibit on excavated
+shipwrecks, well preserved because they'd been buried in silt, but they'd been
+wet so long that they could not let them dry out naturally without the wood
+warping, so they'd had to spend many weeks making them dry extremely slowly.
 
-archeology museum, exhibit on underwater shipwrecks, with the wood preserved by
-being covered in silt, so completely wet they cant dry it without it warping.
-need to dry the wood very gradually.
+After that I went into the Topkapi Palace, a huge site with pretty magnificent
+grounds showing off the lovely mix of colours, patterns and architecture from
+the periods when it had been inhabited.
 
+I had a slight misunderstanding about the museum card, thinking it allowed me to
+enter any of the museums for the three days it was valid, but it turned out it
+only let you into each place once during those 3 days. To get to the Harem you
+needed to already be inside the Topkapi Palace, so my plan to look around the
+palace that afternoon and come back and check out the Harem got changed up and I
+had to rush a bit through both to fit them into the already late afternoon.
 
-went into topaki palace, magnificent grounds, some nice cafes and restaurants.
-lovely mix of colours and architechture
+The Haram consisted of some beautifully decorated quarters for the sultan, his
+family and his concubines, but quite a number of interesting sounding areas (for
+example the concubine baths) were completely closed off for restoration works.
 
-misunderstanding about the musuem card, only valid for a single entry at each
-place , so I had to rush through the Harem (only accessible from inside the
-palace) too.
+One evening in Istanbul I decided to find a barber to get my beard trimmed
+properly since it was pretty long at this point, and extremely shaggy. It was
+probably the first time I'd paid a barber in about a decade.  The guy was very
+thorough, thinning the sides and giving it a much better shape. He also shaved
+my head with a straight razor, trimmed my nose hairs, my eye brows, and my ear
+hairs, then waved a lit cotton tip soaked in something flammable around my ears
+to burn off hair and wax. Afterwards I felt the neatest I had in many months.
 
-interesting quarters for the sultan and his family and his concubines, but many
-secetions (ie. concubine baths) were completely closed off for restoration
-works.
+On our last day there I went into the Hagia Sofia "Museum", a huge building that
+used to be a mosque. Calling it a museum was a bit of stretch because there
+wasn't really any much information about anything to be found inside. It was in
+the same realm of size as the Blue Mosque, but felt for more vast and open
+without all the wires and lights that cluttered up the Blue Mosque.
 
+We went out for a nice dinner on that last night and had our first Testi kebabs.
+They're a kebab that is cooked in a clay pot shaped like a vase, which during
+the serving they make quite a show of turning the pot upside down with foil over
+the top to keep everything inside, and then smashing the bottom of the pot off
+carefully and then pouring the casserole out through the smashed off bottom.
+They'd obviously been slow cooked for a very long time as the meat was so
+incredibly tender it just felt apart on your fork, and the whole thing was super
+delicious.
 
-
-went through the ancient religious relics section, rather dull IMO but it was
-interesting to see a guy sitting at a desk doing prayers live into a microphone
-that was being piped around the exhibit. I'd assumed they were prerecorded
-
-beard trim from a barber, first time I've paid a barber in probably a decade.
-very thorough work, thinning sides and gave it a better shape. shaved head with
-a straight razor, trimmed nose hairs, eye brows, ear hairs, then waved a lit
-cotton tip around my ears to burn off hair and wax. much neater.
-
-went to hagia sofia "museum", used to be a mosque, not really very much info.
-much more open feeling, aside from the half of the space that was full of
-scaffolding.
-
-went out for dinner and had testi kebabs. comes out in a clay pot that they
-smash the neck off to serve your meal. amazingly tender meat, so delicious.
-
-traded off some of my left over duty free raki at the hostel bar for some free
-beers! saved me trying to deal with the extra weight on super budget flights low
-luggage allowance
-
-
-up early the next day for our flight to Goreme, capadocia.
+We were up before sunrise the next day to catch our flight to Goreme in
+Capadocia, home of the fairy chimneys and hundreds of hot air balloons.

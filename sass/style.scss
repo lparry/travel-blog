@@ -20,7 +20,6 @@ $pagination-background:           #40403f;
 $pagination-text:                 #f5f5f5;
 $disqus-thread-accent:            #00ccff;
 $slider-control-nav-normal:       #333333;
-$slider-control-nav-hover:        #f5f5f5;
 
 $page-header-font-family:        'Open Sans';
 $page-header-font-weight:        700;
@@ -54,7 +53,12 @@ $pagination-font-weight:         300;
 ===================================================================== */
 
 /* @media screen and (min-width: 1280px) */
-@media screen and (min-width: 80em) { #blog_header .inner, .post .inner, .pagination .inner, .blog_footer .inner { width: 61.5em; } } /* 14 column grid. */
+/* @media screen and (min-width: 80em) { */
+  #blog_header .inner,
+  .post .inner,
+  .pagination .inner,
+  .blog_footer .inner { width: 61.5em; }
+/* } /* 14 column grid. */
 
 /* ==================================================================
 
@@ -421,45 +425,52 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 /*
 @group Footer
 --------------------------------------------------------------------- */
-.blog_footer { border-top: 1px solid $footer-text; background-color: $footer-background; color: $footer-text; }
-.blog_footer .inner { padding: 10px 0 }
-.blog_footer a { color: $footer-link; text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-.blog_footer a:hover { color: $footer-link-hover }
-.blog_footer li { list-style: none }
-
-.blog_footer .footer_column { min-height: 100px }
-.blog_footer .widget { padding: 20px 0; position: relative; }
-.blog_footer .widget::before, .blog_footer .widget::after { content: ""; display: block; position: absolute; width: 100%; height: 1px; left: 0; }
-.blog_footer .widget::before { background-color: rgba(255, 255, 255, 0.1); top: 0; }
-.blog_footer .widget::after { background-color: rgba(0, 0, 0, 0.2); bottom: 0; }
-.blog_footer .widget:first-child::before { display: none }
-.blog_footer .widget:last-child::after { display: none }
-
-.blog_footer .links { font-size: 0.75em; font-style: normal; font-weight: bold; line-height: 1em; margin: 0 0 0 -2px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
-.blog_footer .links li { display: inline-block; margin: 4px 2px; }
-.blog_footer .links a { background-color: $footer-text; border: none !important; color: $footer-background; display: block; padding: 4px 10px; text-decoration: none; text-transform: capitalize; border-radius: 999em; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-.blog_footer .links a:hover { opacity: 0.7 }
-.blog_footer .profile_portrait, .blog_footer .tweet_avatar { background-color: rgba(0, 0, 0, 0.1); border: none !important; float: left; margin: 5px 15px 10px 0; padding: 0 4px 4px 0; }
-.blog_footer .profile_portrait img, .blog_footer .tweet_avatar img { width: 100%; height: auto; }
-.blog_footer .tweet_avatar { margin: 5px 10px 5px 0; width: 48px; }
-.blog_footer .tweet_avatar img { display: block }
-.blog_footer .tweet_list li { min-height: 60px; padding: 1em 0; position: relative; }
-.blog_footer .tweet_list li::before, .blog_footer .tweet_list li::after { content: ""; display: block; position: absolute; width: 100%; height: 1px; left: 0; }
-.blog_footer .tweet_list li::before { background-color: rgba(255, 255, 255, 0.1); top: 0; }
-.blog_footer .tweet_list li::after { background-color: rgba(0, 0, 0, 0.2); bottom: 0; }
-.blog_footer .tweet_list li.tweet_first { padding-top: 0 }
-.blog_footer .tweet_list li.tweet_first::before { display: none }
-.blog_footer .tweet_list li:last-child { padding-bottom: 0 }
-.blog_footer .tweet_list li:last-child::after { display: none }
-
-.blog_footer .image_feed { margin: 0; padding-top: 5px; }
-.blog_footer .image_feed li { float: left; max-width: 120px; width: 33.3333%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-.blog_footer .image_feed .feed_item { background: rgba(0, 0, 0, 0.1); display: block; padding: 0 4px 4px 0; -webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none; }
-.blog_footer .image_feed .feed_item img { display: block; width: 100%; height: auto; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
-.blog_footer .image_feed .feed_item:hover img { opacity: 0.7 }
-.blog_footer .image_feed.alt_styling .feed_item { margin: 0 10px 10px 0 }
-
 .blog_footer {
+  border-top: 1px solid $footer-text;
+  background-color: $footer-background;
+  color: $footer-text;
+
+  .inner { padding: 10px 0 }
+  a { color: $footer-link; text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
+  a:hover { color: $footer-link-hover }
+  li { list-style: none }
+
+  .footer_column { min-height: 100px }
+  .widget { padding: 20px 0; position: relative; }
+  .widget::before,
+  .widget::after { content: ""; display: block; position: absolute; width: 100%; height: 1px; left: 0; }
+  .widget::before { background-color: rgba(255, 255, 255, 0.1); top: 0; }
+  .widget::after { background-color: rgba(0, 0, 0, 0.2); bottom: 0; }
+  .widget:first-child::before { display: none }
+  .widget:last-child::after { display: none }
+
+  .links { font-size: 0.75em; font-style: normal; font-weight: bold; line-height: 1em; margin: 0 0 0 -2px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
+  .links li { display: inline-block; margin: 4px 2px; }
+  .links a { background-color: $footer-text; border: none !important; color: $footer-background; display: block; padding: 4px 10px; text-decoration: none; text-transform: capitalize; border-radius: 999em; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
+  .links a:hover { opacity: 0.7 }
+  .profile_portrait,
+  .tweet_avatar { background-color: rgba(0, 0, 0, 0.1); border: none !important; float: left; margin: 5px 15px 10px 0; padding: 0 4px 4px 0; }
+  .profile_portrait img,
+  .tweet_avatar img { width: 100%; height: auto; }
+  .tweet_avatar { margin: 5px 10px 5px 0; width: 48px; }
+  .tweet_avatar img { display: block }
+  .tweet_list li { min-height: 60px; padding: 1em 0; position: relative; }
+  .tweet_list li::before,
+  .tweet_list li::after { content: ""; display: block; position: absolute; width: 100%; height: 1px; left: 0; }
+  .tweet_list li::before { background-color: rgba(255, 255, 255, 0.1); top: 0; }
+  .tweet_list li::after { background-color: rgba(0, 0, 0, 0.2); bottom: 0; }
+  .tweet_list li.tweet_first { padding-top: 0 }
+  .tweet_list li.tweet_first::before { display: none }
+  .tweet_list li:last-child { padding-bottom: 0 }
+  .tweet_list li:last-child::after { display: none }
+
+  .image_feed { margin: 0; padding-top: 5px; }
+  .image_feed li { float: left; max-width: 120px; width: 33.3333%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+  .image_feed .feed_item { background: rgba(0, 0, 0, 0.1); display: block; padding: 0 4px 4px 0; -webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none; }
+  .image_feed .feed_item img { display: block; width: 100%; height: auto; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
+  .image_feed .feed_item:hover img { opacity: 0.7 }
+  .image_feed.alt_styling .feed_item { margin: 0 10px 10px 0 }
+
   .profile_portrait { width: 100px }
   .profile_info { margin-bottom: 2em; min-height: 175px; }
   .footer_bottom { margin-top: 2em; text-align: center; }

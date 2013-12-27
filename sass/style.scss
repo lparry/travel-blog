@@ -66,20 +66,9 @@ $pagination-font-weight:         300;
 @group Responsive Grid
 
 ===================================================================== */
-/* @media screen and (min-width: 480px) */
-@media screen and (min-width: 30em) { #blog_header .inner, .post .inner, .pagination .inner, .blog_footer .inner { width: 25.5em; } } /* 6 column grid. */
-
-/* @media screen and (min-width: 768px) */
-@media screen and (min-width: 48em) { #blog_header .inner, .post .inner, .pagination .inner, .blog_footer .inner { width: 34.5em; } } /* 8 column grid. */
-
-/* @media screen and (min-width: 1024px) */
-@media screen and (min-width: 64em) { #blog_header .inner, .post .inner, .pagination .inner, .blog_footer .inner { width: 52.5em; } } /* 12 column grid. */
 
 /* @media screen and (min-width: 1280px) */
 @media screen and (min-width: 80em) { #blog_header .inner, .post .inner, .pagination .inner, .blog_footer .inner { width: 61.5em; } } /* 14 column grid. */
-
-/* @media screen and (min-width: 1440px) */
-@media screen and (min-width: 90em) { #blog_header .inner, .post .inner, .pagination .inner, .blog_footer .inner { width: 70.5em; } } /* 16 column grid. */
 
 /* ==================================================================
 
@@ -99,7 +88,6 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 .post .icon,
 .post .icon_link a,
 .post_footer .timestamp::before,
-.search_button span.icon,
 #back_to_top a,
 #filter_tags_desktop li a,
 #filter_tags_mobile .trigger span.icon { background-image: url(/images/luomo_icons.png); }
@@ -114,7 +102,6 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
   .post .icon,
   .post .icon_link a,
   .post_footer .timestamp::before,
-  .search_button span.icon,
   #back_to_top a,
   #filter_tags_desktop li a,
   #filter_tags_mobile .trigger span.icon { background-image: url(/images/luomo_icons_2x.png); background-size: 480px 860px }
@@ -166,19 +153,6 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
 #filter_tags_desktop.icon_based_filter .custom { display: none }
 
 /* Search */
-.search_button { background-color: $mobile-filter-label-background; border: 1px solid $mobile-filter-label-border; box-shadow: inset 0 1px 0 $mobile-filter-label-inset; cursor: pointer; position: absolute; width: 30px; height: 30px; right: 0; top: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-.search_button span.icon { background-position: -90px -380px; display: block; position: absolute; width: 30px; height: 30px; top: -1px; left: -1px; opacity: 0.7; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; }
-.search_button:hover span.icon { opacity: 1 }
-#modal_search_box { visibility: hidden; background: #fff; position: fixed; top: 120px; left: 50%; width: 90%; margin: -12px 0 0 -45%; padding: 10px 0; box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2); z-index: 9999; border-radius: 999em; }
-#modal_search_box input { background: transparent; border: none; color: #666666; font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif; font-size: 1.2em; line-height: 1; text-align: center; width: 100%; }
-#modal_search_box input:focus { outline: none }
-.reveal-modal-bg { position: fixed; height: 100%; width: 100%; background: #fff; background: rgba(255, 255, 255, 0.8); z-index: 8888; display: none; top: 0; left: 0; }
-
-/* @media screen and (min-width: 768px) */
-@media screen and (min-width: 48em) {
-  #modal_search_box { margin: -40px 0 0 -240px; padding: 20px 40px; top: 10em; width: auto; }
-  #modal_search_box input { font-size: 1.5em; line-height: 1em; width: 400px; }
-}
 
 /* @media screen and (min-width: 1024px) */
 @media screen and (min-width: 64em) {
@@ -187,32 +161,24 @@ body { background-color: #343332; font-family: 'Segoe UI', Tahoma, Helvetica, sa
   #blog_header_filter { border-top: 1px solid $desktop-filter-border }
   #filter_tags_mobile { display: none }
   #filter_tags_desktop { display: block }
-  .search_button { background: transparent; border: none; box-shadow: none; width: 60px; height: 60px; top: 1px; }
-  .search_button span.icon { background-position: 0 -380px; width: 60px; height: 60px; opacity: 0.5; top: 0; left: 0; }
 }
 
 @media screen and (min-width: 80em) {
   #blog_header_filter { border-top: 1px solid $desktop-filter-border }
   #filter_tags_mobile { display: none }
   #filter_tags_desktop { display: block }
-  .search_button { background: transparent; border: none; box-shadow: none; width: 60px; height: 60px; top: 1px; }
-  .search_button span.icon { background-position: 0 -380px; width: 60px; height: 60px; opacity: 0.5; top: 0; left: 0; }
 }
 
 @media screen and (min-width: 90em) {
   #blog_header_filter { border-top: 1px solid $desktop-filter-border }
   #filter_tags_mobile { display: none }
   #filter_tags_desktop { display: block }
-  .search_button { background: transparent; border: none; box-shadow: none; width: 60px; height: 60px; top: 1px; }
-  .search_button span.icon { background-position: 0 -380px; width: 60px; height: 60px; opacity: 0.5; top: 0; left: 0; }
 }
 
 @media screen and (min-width: 100em) {
   #blog_header_filter { border-top: 1px solid $desktop-filter-border }
   #filter_tags_mobile { display: none }
   #filter_tags_desktop { display: block }
-  .search_button { background: transparent; border: none; box-shadow: none; width: 60px; height: 60px; top: 1px; }
-  .search_button span.icon { background-position: 0 -380px; width: 60px; height: 60px; opacity: 0.5; top: 0; left: 0; }
 }
 
 /* ==================================================================
@@ -620,13 +586,10 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
   .post.no_media.light .inner { background-image: url(/images/text_post_bg_light_2x.png); background-size: 984px 492px; }
 }
 
-@media screen and (min-width: 80em) {
-  .post.no_media .caption h2 { margin: 0 0 24px 80px; padding: 0; }
-}
-
 /* @media screen and (min-width: 1280px) */
 @media screen and (min-width: 80em) {
   .post.no_media .conversation, .post.no_media .content_source, .post.no_media .post_body, .post.no_media .post_footer, .post.no_media .post_footer, .post.no_media .quote_source { padding: 0 30px }
+  .post.no_media .caption h2 { margin: 0 0 24px 80px; padding: 0; }
   .post.no_media .caption h2 { font-size: $post-header-font-size-desktop; line-height: 40px; margin: 12px 0 24px 80px; padding: 0; }
   .post.no_media .caption p { margin-top: 36px; text-indent: 50px; }
   .post.no_media .caption p + p { margin-top: 0; text-indent: 0; }
@@ -700,8 +663,6 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
   .blog_footer.cols3 .footer_column:last-child { float: right }
   /*.blog_footer .footer_block::before, .blog_footer .footer_block::after { display: none }*/
 }
-@media screen and (min-width: 30em) { .blog_footer .image_feed li { width: 25% } }
-@media screen and (min-width: 48em) { .blog_footer .image_feed li { width: 16.6666% } }
 @media screen and (min-width: 64em) { .blog_footer .image_feed li { width: 33.3333% } }
 
 /* Back to top button */
@@ -712,11 +673,6 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 
 @media screen and (min-width: 48em) {
   #back_to_top a { background-position: -80px -780px; width: 60px; height: 60px; }
-}
-
-@media screen and (min-width: 100em) {
-  #back_to_top { right: 20px; bottom: 20px; }
-  #back_to_top a { background-position: 0 -780px; width: 80px; height: 80px; }
 }
 
 /*
@@ -783,14 +739,10 @@ only screen and (min-resolution: 144dpi)              and (min-width: 48em) {
 .blog_footer h4 { font-size: $footer-header-font-size; font-weight: normal; line-height: 1.1em; margin-bottom: 1em; text-transform: $footer-header-text-transform; }
 .blog_footer ol, .blog_footer ul, .blog_footer p { font-size: $footer-font-size; line-height: 1.5em; margin-bottom: 1em; }
 
-/* @media screen and (min-width: 768px) */
-@media screen and (min-width: 48em) {
-  .cont { font-size: 18px; }
-  .post_footer { font-size: 1em; font-style: italic; line-height: 1.5em; }
-  .post_footer .timestamp::before, .post_footer .tag_list::before { margin: 2px 2px 0 -2px }
-}
 
 /* @media screen and (min-width: 1280px) */
 @media screen and (min-width: 80em) {
+  .post_footer { font-size: 1em; font-style: italic; line-height: 1.5em; }
+  .post_footer .timestamp::before, .post_footer .tag_list::before { margin: 2px 2px 0 -2px }
   .cont { font-size: 24px; }
 }

@@ -14,10 +14,6 @@ Fallback styles for old versions of Explorer
 #filter_tags_mobile { display: none; }
 #filter_tags_desktop { display: block; }
 #filter_tags_desktop li { *display: inline; *margin: 0; }
-.search_button { background: transparent; border: none; box-shadow: none; width: 60px; height: 60px; top: 1px; }
-.search_button span.icon { background-position: 0 -380px; width: 60px; height: 60px; opacity: 0.5; top: 0; left: 0; } }
-.reveal-modal-bg { background-color: whitesmoke; }
-#modal_search_box { margin: -40px 0 0 -240px; padding: 20px 40px; top: 40%; width: 400px; }
 
 .post { background: #b3b3b3 !important; color: #333 !important; display: block !important; }
 .post .post_info_bar { background-color: #b3b3b3 !important; color: #333 !important; }

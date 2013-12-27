@@ -71,7 +71,7 @@ textarea { overflow: auto; }
 ===================================================================== */
 
 /* Image replacemnt stuff */
-#social_links a, #filter_tags_desktop a, .search_button { text-indent: 100%; white-space: nowrap; overflow: hidden; }
+#social_links a, #filter_tags_desktop a { text-indent: 100%; white-space: nowrap; overflow: hidden; }
 
 /* Social Media Icons */
 #social_links { text-align: center; }

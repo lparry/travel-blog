@@ -23,29 +23,24 @@ $slider-control-nav-normal:       #333333;
 
 $page-header-font-family:        'Open Sans';
 $page-header-font-weight:        700;
-$page-header-font-size-phone:    18px;
-$page-header-font-size-tablet:   24px;
 $page-header-font-size-desktop:  36px;
 $body-font-stack:                "'Segoe UI', Tahoma, Helvetica, sans-serif";
-$body-font-size-phone:           16px;
-$body-font-size-tablet:          18px;
-$body-font-size-desktop:         24px;
+$body-font-size-desktop:         18px;
 $post-info-font-family:          'Open Sans Condensed';
 $post-info-font-weight:          700;
 $post-header-font-family:        'Open Sans';
 $post-header-font-weight:        700;
-$post-header-font-size-phone:    18px;
-$post-header-font-size-tablet:   24px;
-$post-header-font-size-desktop:  36px;
+$post-header-font-size-desktop:  24px;
 $post-header-text-transform:     none;
 $footer-header-font-family:      'Open Sans';
 $footer-header-font-weight:      300;
 $footer-header-font-size:        24px;
 $footer-header-text-transform:   uppercase;
-$footer-font-size:               14px;
+$footer-font-size:               12px;
 $pagination-font-family:         Open Sans;
 $pagination-font-weight:         300;
 
+$tags-text-transform:            capitalize;
 /* ==================================================================
 
 @group Responsive Grid
@@ -273,6 +268,7 @@ ol.notes {
     font-style: normal;
     font-weight: bold;
     line-height: 1em;
+    text-transform: $tags-text-transform;
     margin-left: -2px;
     li { display: inline-block; margin: 2px; }
     a { display: block; padding: 4px 10px; border-radius: 999em; }
@@ -516,14 +512,31 @@ transition: opacity 0.2s ease-in-out;
 /*
 @group Typography
 --------------------------------------------------------------------- */
-.cont { font-size: 16px; line-height: 1.5em; margin: 20px 0; }
-.cont a { text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-.cont p, .cont ol, .cont ul, .cont dl, .cont pre, .cont h1, .cont h2, .cont h3, .cont h4, .cont h5, .cont h6, .cont blockquote, .cont img, .cont embed, .cont object { margin: 0 0 1em 0 }
-.cont p:empty { display: none }
-/*.cont p.id3 { font-size: 0.75em; font-style: italic; line-height: 1.5; }*/
-.cont ol, .cont ul { margin-left: 1.5em }
-.cont blockquote { border-top: 2px solid white; border-bottom: 2px solid white; margin: 20px 0; padding: 20px 20px 0 70px; position: relative; }
-.cont blockquote::before { content: ""; display: block; position: absolute; top: 0; left: 0; width: 60px; height: 60px; }
+.cont {
+  font-size: $body-font-size-desktop;
+  line-height: 1.5em;
+  margin: 20px 0;
+  a { text-decoration: none; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
+  p,
+  ol,
+  ul,
+  dl,
+  pre,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  blockquote,
+  img,
+  embed,
+  object { margin: 0 0 1em 0 }
+  p:empty { display: none }
+  ol, .cont ul { margin-left: 1.5em }
+  blockquote { border-top: 2px solid white; border-bottom: 2px solid white; margin: 20px 0; padding: 20px 20px 0 70px; position: relative; }
+  blockquote::before { content: ""; display: block; position: absolute; top: 0; left: 0; width: 60px; height: 60px; }
+}
 
 /* Page Title */
 .post_title { font-family: 'Open Sans', sans-serif; font-weight: 700 !important; }
@@ -562,4 +575,3 @@ transition: opacity 0.2s ease-in-out;
 }
 
 
-.cont { font-size: 24px; }

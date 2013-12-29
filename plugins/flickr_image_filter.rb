@@ -24,7 +24,7 @@ module Jekyll
       end
 
       def line_with_p_tags_stripped(line)
-        line.chomp.gsub(/<\/?p>/,"")
+        line.chomp.gsub(/<\/?p>/,"").sub(/<img src=/, "<img class='img-responsive' src=")
       end
 
       def line_needs_formatting?(line)

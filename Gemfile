@@ -15,6 +15,8 @@ group :development do
   gem 'liquid', '~> 2.3.0'
   gem 'directory_watcher', '~> 1.4.1'
   gem 'susy', '1.0.3'
+  gem 'pry'
+  gem 'pry-stack_explorer'
 end
 
 gem 'sinatra', '~> 1.3.2'

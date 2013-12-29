@@ -1,18 +1,11 @@
-<article class="post  is_text no_media dark">
-<div class="inner">
+<article>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p><span class="glyphicon glyphicon-time"></span> Posted on August 24, 2013 at 9:00 PM</p>
+  <hr>
 
-  {% include _post_info_bar.html %}
+  {{ content }}
 
-  <div class="cont caption has_title">
-    <h2 class="post_title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="post_body">
-      {{ content }}
-    </div>
-    <p style="float:right;"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Leave a comment</a></p>
-  </div>
-
-  {% include _post_footer.html %}
+  <hr>
 
 
-</div><!-- /.inner -->
 </article><!-- /.post -->

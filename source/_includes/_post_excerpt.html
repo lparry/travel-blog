@@ -1,22 +1,12 @@
-<article class="post  is_text no_media dark">
-<div class="inner">
+<article>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p><span class="glyphicon glyphicon-time"></span> Posted on August 24, 2013 at 9:00 PM</p>
+  <hr>
 
-  {% include _post_info_bar.html %}
+  {{ content | excerpt }}
 
-  <div class="cont caption has_title">
-    <h2 class="post_title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="post_body">
-      {{ content | excerpt }}
-    </div>
-    {% if content | has_excerpt %}
-    <p class="excerpt-link"><a href="{{ post.url }}">Read more&hellip;</a></p>
-    {% endif %}
-    <p class="comment-link"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Leave a comment</a></p>
-    <div class="clear"></div>
-  </div>
-
-  {% include _post_footer.html %}
-
-
-</div><!-- /.inner -->
+  {% if content | has_excerpt %}
+  <p class="excerpt-link"><a href="{{ post.url }}">Read more&hellip;</a></p>
+  {% endif %}
+  <hr>
 </article><!-- /.post -->

@@ -19,6 +19,8 @@ searched through too much by dodgy characters, and it allows you to use crowded
 public transport much easier, or even just walk distances that you wouldnt want
 to get stuck lugging a heavy pack.
 
+<!-- more -->
+
 I’ve been looking at this bag in particular, the Osprey Farpoint 40: 
 
 <a href="http://www.flickr.com/photos/83213379@N00/11423921684/" title="osprey-farpoint by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7460/11423921684_a8bab84fd1.jpg" width="270" height="382" alt="Osprey Farpoint 40"></a>

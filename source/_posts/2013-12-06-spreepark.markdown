@@ -16,6 +16,8 @@ There's a lot of old abandoned things in Berlin; there are entire sites dedicate
 
 One of the places in Berlin that really sounded unique was an old theme park, the Spreepark, which existed way back in the days of East German, becoming more westernised after the reunification of Germany. It was abandoned in 2001 and has since become thoroughly derelict. I read that you can get in to the site through gaps in the fence, but there are often security you have to watch out for, possibly with dogs, so when I found out that they'd started doing tours of the place on Sundays I decided to take the easy way out and pay to get in there legitimately.
 
+<!-- more -->
+
 <a href="http://www.flickr.com/photos/83213379@N00/11224505586/" title="Oranised tours, not truely &quot;abandoned&quot; anymore by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5525/11224505586_8ede3a76f0_c.jpg" width="800" height="601" alt="Oranised tours, not truely &quot;abandoned&quot; anymore"></a>
 
 The tour was in German, and boy did they have a lot of information/stories/something to share. Each time we'd stop somewhere the guide would talk for like 20 minutes, and to be honest the first two places we stopped weren't intrinsically interesting or photogenic, so all of the non-German speakers started to drift off further along to get a sneak peak until eventually I was no longer "just a bit ahead" but instead I was off exploring by myself proper the way I really wanted to do it anyway.

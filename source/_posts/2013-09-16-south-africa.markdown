@@ -19,6 +19,8 @@ I asked quite a few locals about safety in Johannesburg and if the whole danger 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9760054951/" title="Who the fuck attacks a blind busker? This city is nuts by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2890/9760054951_8cd9c15f6d_c.jpg" width="600" height="800" alt="Who the fuck attacks a blind busker? This city is nuts"></a><br>
 <em>Totes safe</em></p>
 
+<!-- more -->
+
 I decided the most cost effective way to get to the Apartheid Museum was to get on the city site-seeing bus which stopped there, and would also let me see a few other sites. The tour gave some interesting trivia, but felt like they were really stretching for content in a lot of places where they'd point out pretty but unimportant building X, and boarded up building Y.
 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9760170266/" title="Derelict building in Johannesburg by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7307/9760170266_f676b216a9_c.jpg" width="601" height="800" alt="Derelict building in Johannesburg"></a><br>

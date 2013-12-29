@@ -13,6 +13,8 @@ A lot of the big/valuable stuff has been easy to let go of, and find buyers
 for, but once you remove all that stuff from your life you’re left with a
 massive amount of “little things”.
 
+<!-- more -->
+
 Individually, almost all of it is probably worth less an $50 an item; a lot of
 it is probably not even worth $10 per piece. This makes it not worth trying to
 sell most of it. But the sheer amount of stuff matching that description means

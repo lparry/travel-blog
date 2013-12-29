@@ -15,6 +15,8 @@ I went to queue up in the immigration line, proud to show off my fancy new visa 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9852999483/" title="Dar Es Salaam Sunset by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2838/9852999483_bd51867ef4_c.jpg" width="800" height="450" alt="Dar Es Salaam Sunset"></a><br>
 <em>Dar Es Salaam Sunset</em></p>
 
+<!-- more -->
+
 I waited for a few hours for Kat's flight to arrive, after which we shared a taxi through some incredibly gridlocked traffic to the Hotel where Amanda, Luke, Leigh and Nicci were already checked in an waiting for us. I'd actually already had some advanced warning about the hotel's "No Alcohol" policy, but didn't remember to warn Kat to hide her duty-free booze until we arrived there, so she had to try and hide it behind a backpack as we went past the very prominent sign in the lobby. We managed to sneak in both our bottles of spirits without a hitch, and disrespectfully drank some of that booze in the hotel that night, the heathens we are.
 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/9853002513/" title="Alcohol Strictly Prohibited in our hotel by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5340/9853002513_47760b0ac4_c.jpg" width="600" height="800" alt="Alcohol Strictly Prohibited in our hotel"></a><br>

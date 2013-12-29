@@ -15,6 +15,8 @@ As we approached Rwanda, the terrain started getting a lot more hilly than that 
 
 This was our single slowest border crossing, taking over 90 minutes to get some simple ink stamp "visas" put in our passports. Most of the truck was starving by the time we finally got our passports back, but there was still more driving to do before we arrived in Ruhengeri and stopped to make lunch. We were staying in dorm rooms so nobody had to put up tents for a change!
 
+<!-- more -->
+
 The next morning we were all up early for the big day, gorilla trekking! We were all ready to go well before the sun was up. I'd woken to hear heavy rain during the night which had me a bit concerned about what the weather might be like but once the sun came up the weather stabilised as just mostly overcast.
 
 The gorillas are only allowed one hour of visiting time per day, during which a group of a maximum of 8 people can come and see them. I think there was something like 10 groups of gorillas that tourists are allowed to trek to see, which means only about 80 people get to experience this on any given day. During the rest of the day there are people employed to track them from a distance to keep an eye on them and protect them from poachers until quite late at night, coming back again early in the morning to figure out where they have moved to.

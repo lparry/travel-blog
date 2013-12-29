@@ -13,6 +13,8 @@ Up until I hit Africa I managed ok, but almost always had an overflow bag clippe
 
 Doing Africa overland demanded that I buy a sleeping bag, and air mattress, which meant I could no longer squeeze just into the two bags. I tried strapping a now quite heavy overflow bag on the back of my pack, but it just mean that weight distribution was terrible and I wasn’t carrying any less shit.
 
+<!-- more -->
+
 I’d planned on chucking out the sleeping bag and roll-mat after Africa, but I couldn’t bring myself to do it knowing that day to day packing would still be a pain in the ass without the overflow bag, and they will probably come in handy couch surfing, and so I decided it was time to buy a bigger bag.
 
 I went on an epic search in Istanbul and found countless shitty quality hiking bags (top-loaders), and nearly gave up, before finding a Deuter distributer who had a 70+10L travel pack which can hold all my stuff without expanding it.

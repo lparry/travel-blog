@@ -14,6 +14,8 @@ I get dropped off at the airport by a taxi and head towards the door in which I 
 
 There's a guy in there on his phone, but he doesn't look over when I say nameste, nor when I knock on the window. A rather stressed out looking Indian man comes over and tries as well but the guy inside completely ignores both of us. Nice to know it's not just because I'm a foreigner.
 
+<!-- more -->
+
 Finally, after waiting at the window for ages wondering if maybe I got there too late, another guy shows up in the window. I read out the confirmation number and he asks me to pass my phone in through the slot. I'm not keen on this, but don't have another option, and he gives it back after entering something in his computer. He disappears for 5 minutes, then comes back and asks for my passport. He writes some stuff on a scrap of paper, stamps it and hands it to me.
 
 I go back to the front door (keeping in mind, everything so far has occurred with me being completely outside the airport) this time armed with my hand written piece of paper; and this time I'm allowed in.

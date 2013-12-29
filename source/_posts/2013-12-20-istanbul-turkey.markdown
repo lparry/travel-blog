@@ -6,6 +6,8 @@ author:
 categories: 
 description: 
 priority: 0.5
+
+tags: Turkey, Istanbul
 ---
 
 After flying into Istanbul Attaturk airport we spent the morning hiding out at
@@ -19,11 +21,14 @@ their lanes for the most part. It's amazing how much your direct prior
 experiences can colour your perceptions of a place, the Turkey we were seeing
 was at odds to the reputation that the place generally has for it's drivers.
 
+
 The apartment we stayed in was located very close to Taksim Square, consisting
 of the whole top floor of the building and a rooftop courtyard and a fantastic
 view of the Bosporus. Having modern conveniences like a fridge, a washing
 machine and air conditioning felt very luxurious after having just spent 5 weeks
 camping in tents.
+
+<!-- more -->
 
 As soon as we'd put our bags down we headed out in search of food and quickly
 located our first kebabs of the trip. Very delicious and super cheap too. We

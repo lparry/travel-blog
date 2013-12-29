@@ -13,6 +13,8 @@ I was picked up from the "hostel" I was staying in (It was really just a guys ho
 
 The bus arrived on time and I was the first person to be picked up. Our guide David, an friendly guy with a goofy laugh and a missing front tooth, introduced himself and we headed off to pick up more people, two Australian sisters from Sydney, then two English guys, then two Swiss sisters and two American cousins. Quite a few pairs of relatives!
 
+<!-- more -->
+
 We drove for a while before stopping for breakfast at a large service station, where we met up with another mini-bus full of people also on the tour. I picked up some suspect biltong to snack on during the trip here, which may have been a huge mistake.
 
 We drove another few hours before stopping for lunch, still in South Africa just before the Botswanan border. Just after lunch, while talking with some of the people from the other bus, I suddenly felt a bit dizzy and had to sit down. As the day went on I started to feel really bloated and got some really nasty stomach cramps; it felt like the symptoms of diarrhea except every time I went to the toilet I couldn't do any more than a fart.

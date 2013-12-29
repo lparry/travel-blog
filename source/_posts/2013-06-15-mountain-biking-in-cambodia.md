@@ -11,6 +11,7 @@ On my last day in Siem Reap I decided to rent myself a mountain bike and pedal m
 
 The trail leading up to it was rough and bumpy with lots of large rocks and didn't seem like it got too much traffic. Upon reaching the gate, I was met by the spectacular sight of the massive gate poking out of the jungle, without a huge clearing around both sides as all the other gates seem to have. I got off my bike and explored for a bit, and sat down to reapply sunscreen and got hassled by a bunch of butterflies that just kept on landing on me and my stuff, the bullies!
 
+<!-- more -->
 
 
 Just as I was nearly leaving I saw the first other people since I left the main roads; what appeared to be two people and a tour guide, also on mountain bikes, heading off through the gate. This gave me confidence to continue down the path a few minutes later when I had my stuff together and was ready to leave.

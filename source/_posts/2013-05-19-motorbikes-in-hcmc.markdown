@@ -12,6 +12,7 @@ The war museum was interesting, but not catered to someone who knows next to not
 
 <a href="http://www.flickr.com/photos/83213379@N00/9689702796/" title="A Chinook helicopter by Lucas the nomad, on Flickr"><img alt="A Chinook helicopter" height="601" src="http://farm8.staticflickr.com/7399/9689702796_82b43c01e7_c.jpg" width="800" /></a>
 
+<!-- more -->
 
 Not long after I arrived, so did a huge group of screaming primary school aged children. Just as annoying in any language. The children kept walking up to me and saying hello and then running off giggling, which felt a bit like being famous but got annoying very quickly. As a contrast, Later a group of boys that looked like they might be going to a military high school or something came through and they were silent and respectful. It must be a big job transforming the out of control kids into such upstanding citizens.
 

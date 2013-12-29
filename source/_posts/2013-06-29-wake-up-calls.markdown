@@ -13,6 +13,8 @@ I rode to work in a bit of a hurry, and on my way got cut off by a car. Getting 
 
 This moment, at five to nine in the morning on a Friday, changed my life in a number of unexpected ways. Being completely crippled and dependant on others got me seriously thinking about the things I'd like to do but had been putting off until "the right time", many of which are dependant on being able-bodied, and I wondered a lot about how well I would recover and how those things I'd like to do might now never happen.
 
+<!-- more -->
+
 My being such a burden put extra strain on my relationship with Kelly, and I believe at least in some part contributed to it's demise.
 
 Right at the peak of things going to shit, Amanda and Miss Fish came around and cooked me dinner and tried to lift my spirits. In what was probably just an off-hand comment, trying to distract me Amanda said I should go to Africa with her and the small group that were planning on going in July 2013.

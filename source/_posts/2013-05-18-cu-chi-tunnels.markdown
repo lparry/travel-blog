@@ -16,6 +16,8 @@ When we arrived at the tunnels we sat and watched a video that was so nationalis
 
 The after the propaganda film we moved onto the actual site, were shown huge B-52 bomb craters which were all over the place. We were shown one of the "manhole" entrances to the tunnels. People were allowed to hop in for a photo but the hole looked crazy small and I didnt think my shoulders would fit through so I didn't give it a go. Next we saw a variety of different booby traps they used with the intention of perforating the Viet Cong's enemy soldiers and dogs; they were pretty vicious looking contraptions.
 
+<!-- more -->
+
 <a href="http://www.flickr.com/photos/83213379@N00/9686439099/" title="Boobie traps by Lucas the nomad, on Flickr"><img alt="Boobie traps" height="601" src="http://farm8.staticflickr.com/7376/9686439099_f42af69472_c.jpg" width="800" /></a>
 
 We saw some ammunition making and hospital trenches/holes, then arrived at the shooting range. Having a shooting range on site means there's always the sound of gunfire in the trees, maybe giving the place an atmosphere somewhat like it would have been back in the war. I paid to fire 10 shots with an AK-47 at a whopping $1.60 per bullet. For a rifle that's claimed to be so reliable you can submerge it in water and it will still shoot, the one I had seemed to keep fucking up and not actually firing so we'd take the unfired bullet and put it back in the clip. Having seen the [youtube video by that guy fpsrussia where he slathers one in bacon and then slops soft serve all over it and it still fires](http://www.youtube.com/watch?v=4Ovyeoyl29I&list=PL9ED6B6AA7A8C2CDC&index=2), I can only assume the one I shot was incredibly old (maybe genuinely from the war?) and was overdue for retirement.

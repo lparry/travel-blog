@@ -13,6 +13,8 @@ So the main draw card for visiting Tanzania was in fact not to go and laze about
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/10000707374/" title="Serengeti official gate by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2831/10000707374_6b3b8cb833_c.jpg" width="800" height="601" alt="Serengeti official gate"></a><br>
 <em>The Serengeti</em></p>
 
+<!-- more -->
+
 We left our overland truck behind and divided off into a number of safari Landrovers with just enough clothing and food for the few days we'd be in the parks.
 
 <p class="centered"><a href="http://www.flickr.com/photos/83213379@N00/10001160445/" title="Safari trucks by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5447/10001160445_64e82f1512_c.jpg" width="800" height="600" alt="Safari trucks"></a><br>

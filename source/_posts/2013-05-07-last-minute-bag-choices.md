@@ -11,6 +11,8 @@ So I bought the 40L bag I’d been eyeing off last week. After doing a few trial
 
 I can just about fit everything in the 40L bag, but it’s stuffed so tight that I have concerns about my laptop getting cracked if the bag were dropped, or something was dropped on it; and it doesnt give me any excess room whatsoever.
 
+<!-- more -->
+
 If I pull out my laptop & camera bag, it feels like a better fit (still without a lot of room to spare, but I’m not scared stuff is going to get broken) so I think I’m giving up on keeping the possibility of doing carry-on only flights and resigning myself to having a separate daypack. With the laptop no longer in the 40L bag, it seems like a waste of space to have the separate front pocket & laptop pocket, hence why I’m looking at swapping the 40L bag too instead of just supplementing it with a proper day pack.
 
 Options I’m considering now (looking mostly within the same brand) are:

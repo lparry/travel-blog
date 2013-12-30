@@ -2,38 +2,11 @@
 layout: default
 priority: 1.0
 ---
+<h1>Archive</h1>
 
-<section id="posts">
-<article class="post  is_answer no_media dark">
-<div class="inner">
-
-  <aside class="post_info_bar">
-  <div class="icon_link">
-    <a href="{{ site.url }}{{ post.url }}" title="Permalink">Archive</a>
-  </div>
-  <ul class="post_info">
-    <li>
-      <a href="#">
-        <span class="legend">Archive</span>
-      </a>
-    </li>
-    <li>
-      <a href="#">
-        <span class="legend"><span></span></span>
-      </a>
-    </li>
-  </ul>
-  </aside><!-- /.post_info_bar -->
-  <div class="cont caption has_title">
-    <h2 class="post_title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="post_body">
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ post.url }}">{{ post.date_formatted }} - {{ post.title }}</a></li>
 {% endfor %}
 </ul>
-</div>
-</div>
-</article>
-</section><!-- /#posts -->
 

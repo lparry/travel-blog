@@ -7,17 +7,11 @@
 
 <footer class="post_footer">
   {% if post.tags | has_tags %}
-  <p><span class="glyphicon glyphicon-tags"></span>Tags</p>
-  <ul class="tags">
-    {% for tag in post.tags %}
-    <li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
-    {% endfor %}
-  </ul>
+  {% include _tags.html %}
   {% endif %}
 </footer><!-- /.post_footer -->
   <hr>
 
-  <div id="disqus_thread"></div>
-  <script type="text/javascript" src="http://lucasthenomad.disqus.com/embed.js"></script>
-  <noscript><a href="http://lucasthenomad.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+  {% include _disqus_comments.html %}
+
 </article><!-- /.post -->

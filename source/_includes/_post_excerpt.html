@@ -11,12 +11,7 @@
 
 <footer class="post_footer">
   {% if post.tags | has_tags %}
-  <p><span class="glyphicon glyphicon-tags"></span>Tags</p>
-  <ul class="tags">
-    {% for tag in post.tags %}
-    <li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
-    {% endfor %}
-  </ul>
+  {% include _tags.html %}
   {% endif %}
 </footer><!-- /.post_footer -->
   <hr>

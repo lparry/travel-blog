@@ -25,22 +25,23 @@ footer {
 
 .pagination {
   width: 100%;
+  font-size: 20px;
 
   .page-previous {
     position: absolute;
-    left: 10%;
+    left: 1%;
   }
 
   .page-current {
     position: absolute;
     left: 50%;
-    width: 130px;
-    margin-left: -65px;
+    width: 160px;
+    margin-left: -80px;
   }
 
   .page-next {
     position: absolute;
-    right: 10%;
+    right: 1%;
   }
 }
 

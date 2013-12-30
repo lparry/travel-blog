@@ -18,12 +18,12 @@ priority: 1.0
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a class="page-previous" href="{{paginator.previous_page}}">Newer Posts</a>
+    <a class="page-previous" href="{{paginator.previous_page}}"><i class="fa fa-arrow-circle-left fa-lg"></i> Newer</a>
   {% endif %}
 
   <span class="page-current">— Page {{paginator.page}} of {{paginator.total_pages}} —</span>
 
   {% if paginator.next_page %}
-    <a class="page-next" href="{{paginator.next_page}}">Older Posts</a>
+  <a class="page-next" href="{{paginator.next_page}}">Older <i class="fa fa-arrow-circle-right fa-lg"></i></a>
   {% endif %}
 </div>

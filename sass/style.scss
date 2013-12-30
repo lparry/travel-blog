@@ -63,8 +63,16 @@ footer {
    padding-right: 10px;
    a {
      font-size: 10px;
-     padding: 3px 7px;
+     padding: 1px 5px;
      font-weight: bold;
+     color: $tag-background-color !important;
+     background-color: $tag-color;
+     margin-bottom: 6px;
+   }
+
+   a:hover {
+     color: $tag-color !important;
+     background-color: $tag-background-color;
    }
  }
 }
@@ -79,10 +87,10 @@ ul.tags {
       color: $tag-color !important;
       background-color: $tag-background-color;
       display: block;
-      padding: 6px 12px;
+      padding: 4px 8px;
       text-decoration: none;
       text-transform: capitalize;
-      border-radius: 999em;
+      border-radius: 4px;
       -webkit-transition: all 0.2s ease-in-out;
       -moz-transition: all 0.2s ease-in-out;
       -o-transition: all 0.2s ease-in-out;
@@ -95,15 +103,5 @@ ul.tags {
       background-color: $tag-color;
     }
 
-    a.tag-invert {
-      color: $tag-background-color !important;
-      background-color: $tag-color;
-      margin-bottom: 6px;
-    }
-
-    a.tag-invert:hover {
-      color: $tag-color !important;
-      background-color: $tag-background-color;
-    }
   }
 }

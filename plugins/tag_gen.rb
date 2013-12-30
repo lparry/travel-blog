@@ -27,4 +27,30 @@ module Jekyll
       site.pages << TagIndex.new(site, site.source, dir, tag)
     end
   end
+
+  # Hax for tags by usages, and plain alphabetical
+  class Site
+    def ordered_tags
+      tags.to_a.sort do |pair1, pair2|
+        pair2.last.size <=> pair1.last.size
+      end.reject do |pair|
+        pair.last.count < 2
+      end.map(&:first)
+    end
+
+    def sorted_tags
+      tags.keys.sort
+    end
+
+    alias :site_payload_orig :site_payload
+
+    def site_payload
+      payload = site_payload_orig
+      payload["site"].tap do |site|
+        site["ordered_tags"] = ordered_tags
+        site["sorted_tags"]  = sorted_tags
+      end
+      payload
+    end
+  end
 end

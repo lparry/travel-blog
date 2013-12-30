@@ -1,0 +1,108 @@
+
+$tag-color:            white;
+$tag-background-color: #1c1e22;
+
+body {
+  margin-top: 100px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
+}
+
+footer {
+  margin: 50px 0;
+}
+
+.flickr-image {
+  text-align: center;
+}
+.flickr-image a img {
+  display: inline;
+}
+
+.excerpt-link {
+  text-align:    right;
+  padding-right: 30px;
+  font-size:     20px;
+}
+
+.pagination {
+  width: 100%;
+
+  .page-previous {
+    position: absolute;
+    left: 10%;
+  }
+
+  .page-current {
+    position: absolute;
+    left: 50%;
+    width: 130px;
+    margin-left: -65px;
+  }
+
+  .page-next {
+    position: absolute;
+    right: 10%;
+  }
+}
+
+
+.well {
+  img.avatar {
+  float: right;
+  margin: 10px;
+  border: 2px solid #0c0d0e;
+  border-radius: 25px;
+ }
+
+ .blurb {
+   text-align: justify;
+   font-size:  12px;
+ }
+
+ .tags {
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+}
+
+ul.tags {
+  padding: 0px;
+
+  li {
+    display: inline-block;
+
+    a {
+      color: $tag-color !important;
+      background-color: $tag-background-color;
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none;
+      text-transform: capitalize;
+      border-radius: 999em;
+      -webkit-transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out;
+      -ms-transition: all 0.2s ease-in-out;
+      transition: all 0.2s ease-in-out; 
+    }
+
+    a:hover {
+      color: $tag-background-color !important;
+      background-color: $tag-color;
+    }
+
+    a.tag-invert {
+      color: $tag-background-color !important;
+      background-color: $tag-color;
+      margin-bottom: 6px;
+    }
+
+    a.tag-invert:hover {
+      color: $tag-color !important;
+      background-color: $tag-background-color;
+    }
+  }
+}
+
+.glyphicon:empty {
+  width: 1.5em;
+}

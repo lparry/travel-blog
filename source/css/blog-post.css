@@ -1,9 +1,9 @@
 body {
-	margin-top: 100px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
+  margin-top: 100px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
 }
 
 footer {
-	margin: 50px 0;
+  margin: 50px 0;
 }
 
 .flickr-image {
@@ -50,4 +50,36 @@ footer {
 .well .blurb {
   text-align: justify;
   font-size:  12px;
+}
+
+ul.tags {
+  padding: 0px;
+}
+
+ul.tags li {
+  display: inline-block;
+}
+
+ul.tags li a {
+  color: white !important;
+  background-color: #1c1e22;
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  text-transform: capitalize;
+  border-radius: 999em;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; 
+}
+
+ul.tags li a:hover {
+  color: #1c1e22 !important;
+  background-color: white;
+}
+
+.glyphicon:empty {
+  width: 1.5em;
 }

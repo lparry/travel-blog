@@ -56,6 +56,11 @@ ul.tags {
   padding: 0px;
 }
 
+.well .tags {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 ul.tags li {
   display: inline-block;
 }
@@ -78,6 +83,22 @@ ul.tags li a {
 ul.tags li a:hover {
   color: #1c1e22 !important;
   background-color: white;
+}
+
+ul.tags li a:hover {
+  color: #1c1e22 !important;
+  background-color: white;
+}
+
+ul.tags li a.tag-invert {
+  color: #1c1e22 !important;
+  background-color: white;
+  margin-bottom: 6px;
+}
+
+ul.tags li a.tag-invert:hover {
+  color: white !important;
+  background-color: #1c1e22;
 }
 
 .glyphicon:empty {

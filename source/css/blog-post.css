@@ -6,3 +6,36 @@ footer {
 	margin: 50px 0;
 }
 
+.flickr-image {
+  text-align: center;
+}
+.flickr-image a img {
+  display: inline;
+}
+
+.excerpt-link {
+  text-align:    right;
+  padding-right: 30px;
+  font-size:     20px;
+}
+
+.pagination {
+  width: 100%;
+}
+
+.pagination .page-previous {
+  position: absolute;
+  left: 10%;
+}
+
+.pagination .page-current {
+  position: absolute;
+  left: 50%;
+  width: 130px;
+  margin-left: -65px;
+}
+
+.pagination .page-next {
+  position: absolute;
+  right: 10%;
+}

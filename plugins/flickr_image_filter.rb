@@ -20,7 +20,7 @@ module Jekyll
       end
 
       def format_image(line)
-        %(<p class="centered">#{line_with_p_tags_stripped(line)}<br/>\n<em>#{get_title(line)}</em></p>\n)
+        %(<div class="flickr-image">#{line_with_p_tags_stripped(line)}<br/>\n<em>#{get_title(line)}</em></div>\n)
       end
 
       def line_with_p_tags_stripped(line)
@@ -31,7 +31,7 @@ module Jekyll
         #it's a flickr image link
         line.match(/flickr\.com.*\.jpg"/) &&
           #and we havent already formatted it
-          !line.include?(%(p class="centered">))
+          !line.include?(%(div class="flickr-image">))
       end
 
       def captionize(content)

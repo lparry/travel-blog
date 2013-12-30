@@ -17,15 +17,13 @@ priority: 1.0
 </section><!-- /#posts -->
 
 <div class="pagination">
-<div class="inner">
   {% if paginator.previous_page %}
-    <a class="previous" href="{{paginator.previous_page}}">Newer Posts</a>
+    <a class="page-previous" href="{{paginator.previous_page}}">Newer Posts</a>
   {% endif %}
 
-  <span class="current_page">— Page {{paginator.page}} of {{paginator.total_pages}} —</span>
+  <span class="page-current">— Page {{paginator.page}} of {{paginator.total_pages}} —</span>
 
   {% if paginator.next_page %}
-    <a class="next" href="{{paginator.next_page}}">Older Posts</a>
-  {% endif %}  
-</div>
+    <a class="page-next" href="{{paginator.next_page}}">Older Posts</a>
+  {% endif %}
 </div>

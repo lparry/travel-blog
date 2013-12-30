@@ -57,14 +57,8 @@
 
         <div class="col-lg-4">
           <div class="well">
-            <h4><i class="fa fa-tags fa-lg"></i> Tags</h4>
-             <div class="row">
-                  <ul class="tags">
-                    {% for tag in site.tags %}
-                    <li><a class="tag-invert" href="/tag/{{ tag | first }}">{{ tag | first }}</a></li>
-                    {% endfor %}
-                  </ul>
-              </div>
+            {% assign tags = site.sorted_tags %}
+            {% include _tags.html %}
           </div>
           <div class="well">
             <img src="/images/beardy.jpg" class="avatar" width="125px">

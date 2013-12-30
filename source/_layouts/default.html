@@ -10,7 +10,7 @@
 
     <link href="/css/css.css" rel="stylesheet">
 
-    <link href="/css/font-awesome/font-awesome.css" rel="stylesheet">
+    <link href="{{ "" | fontawesome_url_for_environment }}" rel="stylesheet">
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
@@ -95,7 +95,7 @@
     </div><!-- /.container -->
 
     <!-- JavaScript -->
-    <script src="/js/jquery-1.10.2.js"></script>
+    <script src="{{"" | jquery_url_for_environment }}"></script>
     <script src="/js/bootstrap.js"></script>
 
   </body>

@@ -150,7 +150,27 @@ module OctopressLiquidFilters
   def titlecase(input)
     input.titlecase
   end
-
 end
 Liquid::Template.register_filter OctopressLiquidFilters
 
+
+# not true filters
+module CDNLiquidFilters
+  def fontawesome_url_for_environment(_)
+    if ENV["OCTOPRESS_ENV"] == "preview"
+      "/css/font-awesome/font-awesome.css"
+    else
+      "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
+    end
+  end
+
+  def jquery_url_for_environment(_)
+    if ENV["OCTOPRESS_ENV"] == "preview"
+      "/js/jquery-1.10.2.js"
+    else
+      "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
+    end
+  end
+
+end
+Liquid::Template.register_filter CDNLiquidFilters

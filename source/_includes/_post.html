@@ -1,11 +1,15 @@
 <article>
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p><span class="glyphicon glyphicon-time"></span> Posted on August 24, 2013 at 9:00 PM</p>
+  <p><span class="glyphicon glyphicon-time"></span> Posted on {{ post.date |date_to_long_string }} </p>
   <hr>
 
   {{ content }}
 
   <hr>
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript" src="http://lucasthenomad.disqus.com/embed.js"></script>
+  <noscript><a href="http://lucasthenomad.disqus.com/?url=ref">View the discussion thread.</a></noscript>
 
 
 </article><!-- /.post -->

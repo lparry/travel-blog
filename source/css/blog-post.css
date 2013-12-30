@@ -39,3 +39,15 @@ footer {
   position: absolute;
   right: 10%;
 }
+
+.well img.avatar {
+  float: right;
+  margin: 10px;
+  border: 2px solid #0c0d0e;
+  border-radius: 25px;
+}
+
+.well .blurb {
+  text-align: justify;
+  font-size:  12px;
+}

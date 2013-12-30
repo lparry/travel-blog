@@ -17,6 +17,7 @@ group :development do
   gem 'susy', '1.0.3'
   gem 'pry'
   gem 'pry-stack_explorer'
+  gem 'pry-plus'
   gem 'nokogiri'
 end
 

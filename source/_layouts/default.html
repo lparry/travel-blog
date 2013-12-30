@@ -13,6 +13,7 @@
 
     <!-- Add custom CSS here -->
     <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/font-awesome/font-awesome.css" rel="stylesheet">
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
@@ -29,17 +30,17 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">Lucas The Nomad</a>
+          <a class="navbar-brand" href="/"><i class="fa fa-globe fa-lg fa-fw"></i> Lucas The Nomad</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="https://www.facebook.com/lucasparry">Facebook</a></li>
-            <li><a href="https://www.twitter.com/lucas_parry">Twitter</a></li>
+            <li><a href="https://www.facebook.com/lucasparry"><i class="fa fa-facebook-square fa-lg fa-fw"></i> Facebook</a></li>
+            <li><a href="https://www.twitter.com/lucas_parry"><i class="fa fa-twitter-square fa-lg fa-fw"></i> Twitter</a></li>
+            <li><a href="https://www.flickr.com/photos/83213379@N00/"><i class="fa fa-flickr fa-lg fa-fw"></i> Flickr</a></li>
+            <li><a href="http://instagram.com/lparry"><i class="fa fa-instagram fa-lg fa-fw"></i> Instagram</a></li>
             <li><a href="https://www.couchsurfing.org/people/lucasthenomad/">Couchsurfing</a></li>
-            <li><a href="https://www.flickr.com/photos/83213379@N00/">Flickr</a></li>
-            <li><a href="http://instagram.com/lparry">Instagram</a></li>
           </ul>
         </div>
       </div><!-- /.container -->
@@ -55,17 +56,8 @@
         </div>
 
         <div class="col-lg-4">
-          <!-- <div class="well"> -->
-          <!--   <h4>Blog Search</h4> -->
-          <!--   <div class="input-group"> -->
-          <!--     <input type="text" class="form-control"> -->
-          <!--     <span class="input-group-btn"> -->
-          <!--       <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button> -->
-          <!--     </span> -->
-          <!--   </div> -->
-          <!-- </div> -->
           <div class="well">
-<h4><span class="glyphicon glyphicon-tags"></span>Tags</h4>
+            <h4><i class="fa fa-tags fa-lg"></i> Tags</h4>
              <div class="row">
                   <ul class="tags">
                     {% for tag in site.tags %}
@@ -76,7 +68,7 @@
           </div>
           <div class="well">
             <img src="/images/beardy.jpg" class="avatar" width="125px">
-            <h4>About Lucas</h4>
+            <h4><i class="fa fa-user fa-lg"></i> About Lucas</h4>
             <p class="blurb">The story of an irresponsible thirty year old man-child
               who decided he didn't want to wait until he was old to have
               a turn at enjoying retirement.</p>
@@ -89,8 +81,8 @@
           </div>
 
           <div class="well">
-            <h4>Navigate</h4>
-            <ul class="list-unstyled">
+            <h4><i class="fa fa-search fa-lg"></i> Navigate</h4>
+            <ul>
               <li><a href="/archive" class="archive">Archive</a></li>
               <li><a href="/atom.xml" class="rss">RSS</a></li>
             </ul>

@@ -106,3 +106,28 @@ ul.tags {
 
   }
 }
+
+.quote {
+  font-size: x-large;
+  font-weight: lighter;
+}
+.quote:before {
+  content: "\f10d  ";
+  font-family: FontAwesome;
+}
+
+.quote:after {
+  content: " \f10e";
+  font-family: FontAwesome;
+}
+
+.quote-attribution {
+  font-size: large;
+  font-weight: lighter;
+  text-align: right;
+  padding-right: 50px;
+}
+
+.quote-attribution:before {
+  content: "– "
+}

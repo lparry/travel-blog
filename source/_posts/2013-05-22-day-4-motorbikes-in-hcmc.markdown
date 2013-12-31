@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/51072652718/day-4-motorbikes-in-
 author:
 categories:
 description:
-tags:
+tags: vietnam, hcmc, motorbikes
 priority: 0.5
 ---
 

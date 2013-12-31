@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/54267962277/thailand
 author: 
 categories: 
 description: 
-tags: thailand, koh-tao, diving, boats, airports
+tags: thailand, koh-tao, diving, boats, airports, motorbikes
 priority: 0.5
 ---
 

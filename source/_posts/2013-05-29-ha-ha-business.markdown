@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/51642662499/ha-ha-business
 author: 
 categories: 
 description: 
-tags: 
+tags: flying, business, vietnam
 priority: 0.5
 ---
 For the trip to Phu Quoc I decided to fly since it was only $80 and it would save me many many hours on buses and ferries. For a laugh I looked at business class prices and they were only $30 more. I'd never flown business class before so I though "[YOLO!](http://www.youtube.com/watch?v=z5Otla5157c)" and booked myself a business class ticket.

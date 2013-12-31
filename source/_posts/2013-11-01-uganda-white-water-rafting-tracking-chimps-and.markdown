@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/65711162014/uganda-white-water-r
 author:
 categories:
 description:
-tags: uganda, jinja, white-water-rafting, africa
+tags: uganda, jinja, white-water-rafting, africa, chimpanzees
 priority: 0.5
 ---
 

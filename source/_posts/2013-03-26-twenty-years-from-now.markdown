@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/46320033660/twenty-years-from-no
 author: 
 categories: 
 description: 
-tags: quote
+tags: quote, inspiration
 priority: 0.5
 ---
 <div class="quote">Twenty years from now you will be more disappointed by the things that you

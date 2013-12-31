@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/51070375595/day-2-ho-chi-minh-ci
 author:
 categories:
 description:
-tags:
+tags: vietnam, hcmc
 priority: 0.5
 ---
 

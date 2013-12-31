@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/62720573154/serengeti-national-p
 author:
 categories:
 description:
-tags: tanzania, serengeti, ngorongoro-crater
+tags: tanzania, serengeti, ngorongoro-crater, africa
 priority: 0.5
 ---
 

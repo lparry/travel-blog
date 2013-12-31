@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/54155961141/wake-up-call
 author: 
 categories: 
 description: 
-tags: 
+tags: introspection, inspiration
 priority: 0.5
 ---
 

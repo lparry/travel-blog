@@ -6,9 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/51721236151/phu-qouc-island-viet
 author:
 categories:
 description:
-tags:
-- vietnam
-- pho quoc
+tags: vietnam pho-quoc
 priority: 0.5
 ---
 

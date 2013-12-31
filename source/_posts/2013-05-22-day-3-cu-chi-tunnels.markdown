@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/51071392530/day-3-cu-chi-tunnels
 author: 
 categories: 
 description: 
-tags: 
+tags: vietnam, cu-chi-tunnels
 priority: 0.5
 ---
 

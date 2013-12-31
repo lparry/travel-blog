@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Zanzibar and Tanzania"
-date: 2013-09-23 16:01
+title: "Zanzibar & Tanzania"
+date: 2013-09-23 00:03
+old_blog_url: http://www.lucasthenomad.com/post/62012492702/zanzibar-tanzania
 author: 
 categories: 
 description: 
+tags: tanzania, zanzibar
 priority: 0.5
 ---
 

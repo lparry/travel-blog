@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Kenya "
-date: 2013-10-07 16:18
-author: 
-categories: 
-description: 
+title: "Kenya: The Masai Mara and Lake Nakuru"
+date: 2013-10-07 10:43
+old_blog_url: http://www.lucasthenomad.com/post/63364021465/kenya-the-masai-mara-and-lake-nakuru
+author:
+categories:
+description:
+tags: kenya, masai-mara, lake-nakuru
 priority: 0.5
 ---
 So after leaving Tanzania we were destined for Kenya to visit the Masai Mara, however we ran into a bit of trouble actually getting into Kenya. Everyone's visa got sorted out nice and quickly, but there was some sort of hold up involving the truck. Something to do with the truck's registration being changed over from English to Namibian and us not having the right [Carnet de Passage](http://en.wikipedia.org/wiki/Carnet_de_Passages) to go with it.

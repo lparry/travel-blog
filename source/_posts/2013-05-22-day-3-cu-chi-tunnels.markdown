@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Cu Chi Tunnels"
-date: 2013-05-18 22:24
-tags: Vietnam
-
+title: "Day 3 - Cu Chi Tunnels"
+date: 2013-05-22 14:44
+old_blog_url: http://www.lucasthenomad.com/post/51071392530/day-3-cu-chi-tunnels
+author: 
+categories: 
+description: 
+tags: 
 priority: 0.5
 ---
 
@@ -24,7 +27,6 @@ We saw some ammunition making and hospital trenches/holes, then arrived at the s
 
 <a href="http://www.flickr.com/photos/83213379@N00/9686453205/" title="Me shooting an AK-47 by Lucas the nomad, on Flickr"><img alt="Me shooting an AK-47" height="601" src="http://farm4.staticflickr.com/3804/9686453205_d906d609cb_c.jpg" width="800" /></a>
 
-
 After the shooting range we went down into the enlarged tourist tunnels, and to be honest they were bigger than I expected. I thought we'd be forced to crawl on our hands and knees the whole way but we could walk bent over flat at the waist pretty OK. There was only one tight spot that required hands and knees. I guess in the real ones someone my size would have gone hands and knees all the time, and gotten stuck at the choke points.
 
 Interesting fact we were told about the tunnels is that the Americans would apparently pump a bunch of gasoline into them and chuck in a match to try and flush out the Viet Cong, who would happily escape out to the river, but because the soil was all clay, the fire from the gasoline would effectively kiln the tunnel walls making them harder and the tunnels stronger.
@@ -36,4 +38,3 @@ Once we got back to HCMC I had a quick shower then headed down the lane and foun
 I lazily had dinner at some place that claimed they were recommended on trip advisor on their sign. I had a duck curry which was ok, but the place only had westerners eating there so either the food was bad or overpriced. I notice more and more how much American tastes and expectations differ from other western countries and wish that there was a way to filter out their reviews on such sites. Seeing a place in Vietnam get a high rating on trip advisor and then seeing the review say something like "the cheeseburgers here are amazing, the burritos are good too!" just makes me wonder why these people left home in the first place.
 
 I looked up a good massage place and started walking over towards it when my attention was stolen by the smell of waffles. I traced it to a little old lady on the side of the road making these little pillows of waffle-like/pancake-ish deliciousness. I continued on my quest and eventually found the massage place. It was fairly pricey in comparison to the ones on the main strip, but the Swedish therapy massage I got was totally worth it. It was just like the fancy hotel massages you always see in movies.
-

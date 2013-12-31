@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "South Africa"
-date: 2013-09-16 21:28
+date: 2013-09-16 00:02
+old_blog_url: http://www.lucasthenomad.com/post/61358245398/south-africa
 author: 
 categories: 
 description: 
+tags: south-africa, johannesburg, cape-town
 priority: 0.5
 ---
 

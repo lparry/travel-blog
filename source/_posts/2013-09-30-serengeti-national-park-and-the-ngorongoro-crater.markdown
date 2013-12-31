@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Serengeti National Park and the Ngorongoro Crater"
-date: 2013-10-01 13:59
-author: 
-categories: 
-description: 
+date: 2013-09-30 15:14
+old_blog_url: http://www.lucasthenomad.com/post/62720573154/serengeti-national-park-and-the-ngorongoro-crater
+author:
+categories:
+description:
+tags: tanzania, serengeti, ngorongoro-crater
 priority: 0.5
 ---
 

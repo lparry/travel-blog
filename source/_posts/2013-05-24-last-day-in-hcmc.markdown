@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Last Day in HCMC"
-date: 2013-05-20 22:24
-tags: Vietnam
-
+date: 2013-05-24 15:51
+old_blog_url: http://www.lucasthenomad.com/post/51229927949/last-day-in-hcmc
+author: 
+categories: 
+description: 
+tags: 
 priority: 0.5
 ---
 For my final morning in Saigon I got up and ventured out north in search of something different for breakfast than the noodles and mystery meat I'd been having. I stopped along the way a few times to sit in tiny plastic chairs with the locals and drink iced coffee while the traffic did it's crazy thing. I ended up buying a half kilo of mangostein for breakfast with which I made a huge mess before the owner of one of the coffee stand I was sitting at came over with a knife and helped me out. Ugly fruit, but so very tasty.

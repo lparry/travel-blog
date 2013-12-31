@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Uganda"
-date: 2013-11-02 18:07
-author: 
-categories: 
-description: 
+title: "Uganda - White Water Rafting, Tracking Chimps and Teaching Orphans"
+date: 2013-11-01 19:02
+old_blog_url: http://www.lucasthenomad.com/post/65711162014/uganda-white-water-rafting-tracking-chimps-and
+author:
+categories:
+description:
+tags: uganda, jinja, white-water-rafting, africa
 priority: 0.5
 ---
 

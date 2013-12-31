@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Rwanda, Gorillas, Genocide"
-date: 2013-11-25 17:23
+date: 2013-11-24 18:39
+old_blog_url: http://www.lucasthenomad.com/post/67976058475/rwanda-gorillas-genocide
 author: 
 categories: 
 description: 
+tags: rwanda, gorillas, africa
 priority: 0.5
 ---
 

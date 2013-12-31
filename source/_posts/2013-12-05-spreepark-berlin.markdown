@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "SpreePark"
-date: 2013-12-06 18:34
+title: "Spreepark, Berlin"
+date: 2013-12-05 20:11
+old_blog_url: http://www.lucasthenomad.com/post/69096515505/spreepark-berlin-2013
 author: 
 categories: 
 description: 
+tags: germany, berlin, abandoned, theme-park
 priority: 0.5
 ---
 

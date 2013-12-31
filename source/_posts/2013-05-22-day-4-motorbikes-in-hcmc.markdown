@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Motorbikes in HCMC"
-date: 2013-05-19 22:24
-tags: Vietnam motorbikes
-
+title: "Day 4 Motorbikes in HCMC"
+date: 2013-05-22 15:11
+old_blog_url: http://www.lucasthenomad.com/post/51072652718/day-4-motorbikes-in-hcmc
+author:
+categories:
+description:
+tags:
 priority: 0.5
 ---
+
 On the third day I finally took first motorbike taxi, which was a fun, cheap and fast way of getting the War Remnants Museum (Previously knows as the American War Crimes museum), plus the breeze from zooming around is nice and cooling. Why was I walking everywhere like a schmuck!? And yes Mum, I wore a helmet, although they're all so small in Vietnam I half think it might actually make things worse if there was actually an accident, concentrating the force in a ring around the top of my head.
 
 The war museum was interesting, but not catered to someone who knows next to nothing about the history of the war. There was lots of stuff about the specifics that happened, but very little about the motives of either side. There was a load of stuff about the after effects of agent orange on people of both sides of the war, but I needed to look up it up online to find it was a herbicide being sprayed to kill off all the vegetation so the Viet Cong couldn't hide among it.

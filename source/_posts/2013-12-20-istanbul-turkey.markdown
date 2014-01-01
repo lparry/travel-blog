@@ -5,6 +5,7 @@ date: 2013-12-20 19:52
 author: 
 categories: 
 description: 
+published: false
 priority: 0.5
 
 tags: Turkey, Istanbul

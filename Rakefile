@@ -95,15 +95,19 @@ task :publish_post, :filename do |t, args|
   raise "file not found" unless File.exist?(args[:filename])
   filename = args[:filename]
   time = Time.now
-  new_filename = filename.sub(/\d\d\d\d-\d\d-\d\d/, "#{time.strftime("%Y-%m-%d")}")
-  `git mv "#{filename}" "#{new_filename}"`
-  lines = File.read(new_filename).lines
+  lines = File.read(filename).lines
 
   lines.select{|l| l =~ /date: /}.first.sub!(/date: \d\d\d\d-\d\d-\d\d \d\d:\d\d/, "date: #{Time.now.strftime("%Y-%m-%d %H:%M") }")
   lines.select{|l| l =~ /published: /}.first.sub!(/published: false/, "published: true")
-  File.open(new_filename, 'w') do |file|
+  title =  lines.select{|l| l =~ /title: /}.first.sub(/title: /, "").gsub(/"/,"").chomp.to_url
+
+  new_filename = "#{source_dir}/#{posts_dir}/#{time.strftime("%Y-%m-%d")}-#{title.to_url}.markdown"
+
+  File.open(filename, 'w') do |file|
     file.write(lines.join)
   end
+
+  `git mv "#{filename}" "#{new_filename}"`
 end
 
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")

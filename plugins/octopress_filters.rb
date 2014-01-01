@@ -177,5 +177,9 @@ module CDNLiquidFilters
     end
   end
 
+  def octopress_env(_)
+    ENV["OCTOPRESS_ENV"]
+  end
+
 end
 Liquid::Template.register_filter CDNLiquidFilters

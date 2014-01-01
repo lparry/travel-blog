@@ -1,18 +1,17 @@
-<article class="post  is_text no_media dark">
-<div class="inner">
+<article>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p><i class="fa fa-clock-o"></i> Posted on {{ post.date | date_to_long_string }}</p>
+  <br>
+  {{ content }}
 
-  {% include _post_info_bar.html %}
+<footer class="post_footer">
+  {% if post.tags | has_tags %}
+  {% assign tags = post.tags %}
+  {% include _tags.html %}
+  {% endif %}
+</footer><!-- /.post_footer -->
+  <hr>
 
-  <div class="cont caption has_title">
-    <h2 class="post_title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="post_body">
-      {{ content }}
-    </div>
-    <p style="float:right;"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Leave a comment</a></p>
-  </div>
+  {% include _disqus_comments.html %}
 
-  {% include _post_footer.html %}
-
-
-</div><!-- /.inner -->
 </article><!-- /.post -->

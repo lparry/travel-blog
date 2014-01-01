@@ -1,0 +1,139 @@
+
+$tag-color:            white;
+$tag-background-color: #1c1e22;
+
+body {
+  margin-top: 70px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
+}
+
+footer {
+  margin: 50px 0;
+}
+
+.flickr-image {
+  text-align: center;
+}
+.flickr-image a img {
+  display: inline;
+}
+
+.excerpt-link {
+  text-align:    right;
+  padding-right: 30px;
+  font-size:     20px;
+}
+
+.pagination {
+  width: 100%;
+  font-size: 20px;
+
+  .page-previous {
+    position: absolute;
+    left: 1%;
+  }
+
+  .page-current {
+    position: absolute;
+    left: 50%;
+    width: 160px;
+    margin-left: -80px;
+  }
+
+  .page-next {
+    position: absolute;
+    right: 1%;
+  }
+}
+
+
+.well {
+  img.avatar {
+  float: right;
+  margin: 10px;
+  border: 2px solid #0c0d0e;
+  border-radius: 25px;
+ }
+
+ .blurb {
+   text-align: justify;
+   font-size:  12px;
+ }
+
+ .tags {
+   padding-left: 10px;
+   padding-right: 10px;
+   a {
+     font-size: 10px;
+     padding: 1px 5px;
+     font-weight: bold;
+     color: $tag-background-color !important;
+     background-color: $tag-color;
+     margin-bottom: 6px;
+   }
+
+   a:hover {
+     color: $tag-color !important;
+     background-color: $tag-background-color;
+   }
+ }
+}
+
+ul.tags {
+  padding: 0px;
+
+  li {
+    display: inline-block;
+
+    a {
+      color: $tag-color !important;
+      background-color: $tag-background-color;
+      display: block;
+      padding: 4px 8px;
+      text-decoration: none;
+      text-transform: capitalize;
+      border-radius: 4px;
+      -webkit-transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out;
+      -ms-transition: all 0.2s ease-in-out;
+      transition: all 0.2s ease-in-out; 
+    }
+
+    a:hover {
+      color: $tag-background-color !important;
+      background-color: $tag-color;
+    }
+
+  }
+}
+
+.quote {
+  font-size: x-large;
+  font-weight: lighter;
+}
+.quote:before {
+  content: "\f10d  ";
+  font-family: FontAwesome;
+}
+
+.quote:after {
+  content: " \f10e";
+  font-family: FontAwesome;
+}
+
+.quote-attribution {
+  font-size: large;
+  font-weight: lighter;
+  text-align: right;
+  padding-right: 50px;
+}
+
+.quote-attribution:before {
+  content: "– "
+}
+
+.excerpt {
+  font-weight: lighter;
+  margin-left: 20px;
+  font-size: larger;
+}

@@ -1,5 +1,6 @@
 #custom filters for Octopress
 require './plugins/post_filters'
+require 'nokogiri'
 
 module Jekyll
   class FlickrImageCaptionFilter < PostFilter
@@ -15,23 +16,20 @@ module Jekyll
         new.captionize(content)
       end
 
-      def get_title(line)
-        line.sub(/.* alt="([^"]*)".*/,'\1').chomp
-      end
-
       def format_image(line)
-        %(<p class="centered">#{line_with_p_tags_stripped(line)}<br/>\n<em>#{get_title(line)}</em></p>\n)
-      end
-
-      def line_with_p_tags_stripped(line)
-        line.chomp.gsub(/<\/?p>/,"")
+        doc = Nokogiri.parse(line)
+        (doc / "p").add_class("flickr-image")
+        (doc / "img").add_class("img-responsive")
+        title = (doc / "img").attr("alt")
+        (doc / "img").after("<br/><em>#{title}</em>")
+        doc.to_html
       end
 
       def line_needs_formatting?(line)
         #it's a flickr image link
         line.match(/flickr\.com.*\.jpg"/) &&
           #and we havent already formatted it
-          !line.include?(%(p class="centered">))
+          !line.include?(%(div class="flickr-image">))
       end
 
       def captionize(content)

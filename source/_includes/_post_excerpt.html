@@ -5,9 +5,7 @@
   {{ content | excerpt }}
 
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
-  {% if excerpted == 'true' %}
-  <p class="excerpt-link"><a href="{{ post.url }}">Read more&hellip;</a></p>
-  {% endif %}
+  <p class="excerpt-link"><a href="{{ post.url }}">{% if excerpted == 'true' %}Read more&hellip;{% else %}Leave a comment{% endif %}</a></p>
 
 <footer class="post_footer">
   {% if post.tags | has_tags %}

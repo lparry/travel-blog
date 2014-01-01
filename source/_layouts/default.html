@@ -8,12 +8,12 @@
 
     <meta property="og:site_name" content="www.lucasthenomad.com" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{site.subtitle}}{% endif %}" />
-    <meta property="og:description" content="{{ page.content | strip_html | truncate: 300 }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{site.title}}{% endif %}" />
+    {% if page.description %}<meta property="og:description" content="{{ page.description | strip_html | strip_newlines | truncate: 300 }}" />{% endif %}
     <meta property="og:determiner" content="a" />
     <meta property="og:type" content="blog" />
 
-    <title>{% if page.title %} {{ page.title }} {% else %} {{site.subtitle}} {% endif %} | {{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 
 
     <link href="{{ "" | fontawesome_url_for_environment }}" rel="stylesheet">

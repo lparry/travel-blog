@@ -150,6 +150,11 @@ module OctopressLiquidFilters
   def titlecase(input)
     input.titlecase
   end
+
+  # StandardFilters version concats words together, it's fucked
+  def strip_newlines(input)
+    input.to_s.gsub(/\n/, ' ')
+  end
 end
 Liquid::Template.register_filter OctopressLiquidFilters
 

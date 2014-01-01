@@ -90,6 +90,22 @@ task :preview do
   [jekyllPid, compassPid, rackupPid].each { |pid| Process.wait(pid) }
 end
 
+desc "mark a post as published, update the dates"
+task :publish_post, :filename do |t, args|
+  raise "file not found" unless File.exist?(args[:filename])
+  filename = args[:filename]
+  time = Time.now
+  new_filename = filename.sub(/\d\d\d\d-\d\d-\d\d/, "#{time.strftime("%Y-%m-%d")}")
+  `git mv "#{filename}" "#{new_filename}"`
+  lines = File.read(new_filename).lines
+
+  lines.select{|l| l =~ /date: /}.first.sub!(/date: \d\d\d\d-\d\d-\d\d \d\d:\d\d/, "date: #{Time.now.strftime("%Y-%m-%d %H:%M") }")
+  lines.select{|l| l =~ /published: /}.first.sub!(/published: false/, "published: true")
+  File.open(new_filename, 'w') do |file|
+    file.write(lines.join)
+  end
+end
+
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
 desc "Begin a new post in #{source_dir}/#{posts_dir}"
 task :new_post, :title do |t, args|
@@ -107,9 +123,9 @@ task :new_post, :title do |t, args|
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-    post.puts "author: "
-    post.puts "categories: "
+    post.puts "tags: "
     post.puts "description: "
+    post.puts "published: false"
     post.puts "priority: 0.5"
     post.puts "---"
   end

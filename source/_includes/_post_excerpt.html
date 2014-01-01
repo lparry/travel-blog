@@ -4,7 +4,8 @@
   <br>
   {{ content | excerpt }}
 
-  {% if content | has_excerpt %}
+  {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
+  {% if excerpted == 'true' %}
   <p class="excerpt-link"><a href="{{ post.url }}">Read more&hellip;</a></p>
   {% endif %}
 

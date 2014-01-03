@@ -93,9 +93,8 @@ of people, in at least getting them into the shop.
 
 One of the less commonly visited places we visited in Istanbul was the
 Australian consulate. Not because somebody lost their passport, but to vote in
-the Federal election. The consulate was on quite a high floor in a very fancy
-hotel (The Marriot? I have no internet right now to check) so the views were
-fantastic.
+the Federal election. The consulate was on quite a high floor in the Ritz
+Carlton hotel so the views were fantastic.
 
 <a href="http://www.flickr.com/photos/83213379@N00/11438326773/in/set-72157638802576105" title="Voting with a view by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7336/11438326773_eedbf2eff7_c.jpg" width="800" height="600" alt="Voting with a view"></a>
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Istanbul, Turkey"
-date: 2013-12-20 19:52
+date: 2014-01-03 15:01
 author: 
 categories: 
 description: 
-published: false
+published: true
 priority: 0.5
 
 tags: Turkey, Istanbul

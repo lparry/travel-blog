@@ -120,7 +120,7 @@ only from inside a little caged off part at the back where they cant be seen. So
 very progressive, nice one Islam! You've managed to make Tony Abbott seem a little
 less misogynistic in comparison.
 
-<a href="http://www.flickr.com/photos/83213379@N00/11438107334/in/set-72157638802576105" title="Inside the Blue Mosque, soooooo many wires by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5507/11438107334_f70f40591c_c.jpg" width="601" height="800" alt="Inside the Blue Mosque, soooooo many wires"></a>
+<a href="http://www.flickr.com/photos/83213379@N00/11438212153/in/set-72157638802576105" title="Blue Mosque by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7442/11438212153_27d52c7a5f_c.jpg" width="800" height="601" alt="Blue Mosque"></a>
 
 We met up that afternoon with Leigh and Nicolette for our last drinks together
 as it was their last night before they were leaving us and heading back home to

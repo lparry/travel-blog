@@ -1,4 +1,5 @@
 .pygments-cache
+.preview-mode
 .sass-cache
 .DS_Store
 public

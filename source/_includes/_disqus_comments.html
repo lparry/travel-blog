@@ -1,7 +1,11 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
-    var disqus_shortname = 'lucasthenomad{{"" | octopress_env}}';
+    var disqus_shortname = 'lucasthenomad';
+    {% if post.old_blog_url %}
+    var disqus_url = '{{ post.old_blog_url }}';
+    {% else %}
     var disqus_url = '{{ site.url }}{{ post.url }}';
+    {% endif %}
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

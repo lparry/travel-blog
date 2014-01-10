@@ -18,6 +18,7 @@ group :development do
   gem 'pry'
   gem 'pry-stack_explorer'
   gem 'pry-plus'
+  gem 'httparty'
   gem 'nokogiri'
 end
 

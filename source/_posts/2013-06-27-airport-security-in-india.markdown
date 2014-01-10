@@ -14,7 +14,7 @@ I'm jumping out of order for a bit for a quick story about the joys of security 
 
 I get dropped off at the airport by a taxi and head towards the door in which I can see signs pointing to departures and arrivals. I go to enter and the security guy on the door, holding what I think was an MP-5 machine gun, wants to see ticket and passport. Having only booked my ticket online hours earlier and having no printer I had no ticket to show him. He says I can show him on my phone, I pull up Trip-It and show him the flight details and confirmation number but he's not happy because there's no name listed so he sends me around to the ticket desk to get a ticket printed. After trying the next two entrances in the direction he gestured I realise the desks are basically just invisible slots in the glass front of the building.
 
-<img alt="image" src="http://media.tumblr.com/c4788b345ab4feb2d6068e42b1a3a8af/tumblr_inline_mp223quYeM1qz4rgp.jpg" /><br /><em>The "ticket desk"</em></p>
+<p class="flickr-image"><img alt="image" src="http://media.tumblr.com/c4788b345ab4feb2d6068e42b1a3a8af/tumblr_inline_mp223quYeM1qz4rgp.jpg" /><br /><em>The "ticket desk"</em></p>
 
 There's a guy in there on his phone, but he doesn't look over when I say nameste, nor when I knock on the window. A rather stressed out looking Indian man comes over and tries as well but the guy inside completely ignores both of us. Nice to know it's not just because I'm a foreigner.
 
@@ -22,7 +22,7 @@ There's a guy in there on his phone, but he doesn't look over when I say nameste
 
 Finally, after waiting at the window for ages wondering if maybe I got there too late, another guy shows up in the window. I read out the confirmation number and he asks me to pass my phone in through the slot. I'm not keen on this, but don't have another option, and he gives it back after entering something in his computer. He disappears for 5 minutes, then comes back and asks for my passport. He writes some stuff on a scrap of paper, stamps it and hands it to me.
 
-<img alt="image" src="http://media.tumblr.com/02c46cf105235e680b369095becfc110/tumblr_inline_mp227gohr21qz4rgp.jpg" /><br /><em>My "ticket." Good enough for security!</em></p>
+<p class="flickr-image"><img alt="image" src="http://media.tumblr.com/02c46cf105235e680b369095becfc110/tumblr_inline_mp227gohr21qz4rgp.jpg" /><br /><em>My "ticket." Good enough for security!</em></p>
 
 I go back to the front door (keeping in mind, everything so far has occurred with me being completely outside the airport) this time armed with my hand written piece of paper; and this time I'm allowed in.
 

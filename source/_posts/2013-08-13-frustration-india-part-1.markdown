@@ -36,13 +36,13 @@ The next day we went on a tour of the old city, and visited a large mosque where
 
 We next went to a Sikh temple, which was much cleaner, more welcoming, more attractive to look at, and was happy to give free meals to anyone regardless of gender, faith or skin colour; a bit of a stark contrast to the Mosque. We learned about how Sikh believers always carry some sort of a knife or spear, and never cut their hair or beards because they believe it shows their wisdom, and how large turbans are actually full of lots of hair. I guess I have got some good beard wisdom going on, but not so good hair wisdom :P
 
-<a href="http://www.flickr.com/photos/83213379@N00/9075998621/" title="Me wearing a pink headscarf thingy by Lucas the nomad, on Flickr"><img alt="Me wearing a pink headscarf thingy" src="http://farm8.staticflickr.com/7403/9075998621_efb66339e3_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9075998621/" title="Me wearing a pink headscarf thingy by Lucas the nomad, on Flickr"><img alt="Me wearing a pink headscarf thingy" src="http://farm8.staticflickr.com/7403/9075998621_efb66339e3_c.jpg" width="800" /></a>
 
 We then had breakfast in a little parantha shop that made some amazing food. I had a cashew nut parantha, a flat bread stuffed with cashews served with some vegetable curries, and it was really something special.
 
 In the afternoon Nicolle and I  went in search of snacks for the overnight train, and made a trip to the police station to make a report about Nicolle's camera that was stolen from her the day before.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9075995749/" title="McPunjabi's by Lucas the nomad, on Flickr"><img alt="McPunjabi's" src="http://farm8.staticflickr.com/7425/9075995749_9628591e4a_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9075995749/" title="McPunjabi's by Lucas the nomad, on Flickr"><img alt="McPunjabi's" src="http://farm8.staticflickr.com/7425/9075995749_9628591e4a_c.jpg" width="800" /></a>
 
 That night Moon took us to the train station where we boarded our overnight train where we had 3 beds out of a 6 berth sleeper carriage with a few regular Indian people in the other beds. For at least the first few hours the food and drink guys were constantly walking up and down the isle saying "Chai, chai, chai! garam chai!" (Hot tea) or "Omlette, Omlette, Omlette" and made it seem a bit pointless having brought our own snacks.
 
@@ -66,26 +66,26 @@ That evening we meet up with the rest of the group coming from Nepal at dinner.
 
 The next morning we get up before sunrise and head to the Ganges for a sunrise boat ride. It's supposed to be a slow journey where we are taken down the river by the running water, but the light wind over-powers that and we stay pretty much stationary until after about 20 minutes of not moving the boat boys give up and turn on the boat engine and take us up the river past all of the ghats. A ghat is basically a set of stairs leading to water, from with the locals do many things including bathe, do laundry and cremate their dead.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9075992245/" title="Bathing Ghat by Lucas the nomad, on Flickr"><img alt="Bathing Ghat" src="http://farm6.staticflickr.com/5512/9075992245_b617e2e46e_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9075992245/" title="Bathing Ghat by Lucas the nomad, on Flickr"><img alt="Bathing Ghat" src="http://farm6.staticflickr.com/5512/9075992245_b617e2e46e_c.jpg" width="800" /></a>
 
-<a href="http://www.flickr.com/photos/83213379@N00/9075955635/" title="Drying clothes by the Ganges by Lucas the nomad, on Flickr"><img alt="Drying clothes by the Ganges" src="http://farm8.staticflickr.com/7455/9075955635_ab1085277c_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9075955635/" title="Drying clothes by the Ganges by Lucas the nomad, on Flickr"><img alt="Drying clothes by the Ganges" src="http://farm8.staticflickr.com/7455/9075955635_ab1085277c_c.jpg" width="800" /></a>
 
 After a quick Chai on the side of the Ganges when we get back, in single use disposable ceramic cups none the less, Nicolle and I decided to head to the monkey temple which as the name implies is home to a lot of monkeys. The temple was... really just another temple. But the monkeys were cute and awesome. Unfortunately you're not allowed to take cameras inside at all, which is a shame since I had zero interest in photographing their holy shrine of flaking paint, but would have loved to get some photos of the baby monkeys and their mothers.
 
 Afterward we went for a wander about the street markets, where I took a photo of a guy charming a snake. I went to walk off and the guy stopped playing his flute, picked up his snake basket and started chasing after me and demanding money. I told him to put down the damn snake before giving him a few rupees.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9075943413/" title="Snake charmer by Lucas the nomad, on Flickr"><img alt="Snake charmer" height="800" src="http://farm4.staticflickr.com/3728/9075943413_849dda0a27_c.jpg" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9075943413/" title="Snake charmer by Lucas the nomad, on Flickr"><img alt="Snake charmer" height="800" src="http://farm4.staticflickr.com/3728/9075943413_849dda0a27_c.jpg" /></a>
 
-<a href="http://www.flickr.com/photos/83213379@N00/9078167438/" title="Chilled out goats by Lucas the nomad, on Flickr"><img alt="Chilled out goats" src="http://farm6.staticflickr.com/5459/9078167438_4d89737c8f_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9078167438/" title="Chilled out goats by Lucas the nomad, on Flickr"><img alt="Chilled out goats" src="http://farm6.staticflickr.com/5459/9078167438_4d89737c8f_c.jpg" width="800" /></a>
 
 That evening we went on another boat ride where we attempted to float little leaf boats with wish candles in them down the river, but the wind quickly extinguished everyone's wishes. India can be a cruel place :P
 
-<a href="http://www.flickr.com/photos/83213379@N00/9078156802/" title="Offering Boats by Lucas the nomad, on Flickr"><img alt="Offering Boats" src="http://farm8.staticflickr.com/7356/9078156802_f0f9a6078d_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9078156802/" title="Offering Boats by Lucas the nomad, on Flickr"><img alt="Offering Boats" src="http://farm8.staticflickr.com/7356/9078156802_f0f9a6078d_c.jpg" width="800" /></a>
 
 We then came back and watched a prayer ceremony on the ghat from the boat
 
-<a href="http://www.flickr.com/photos/83213379@N00/9075920423/" title="Prayer Ceremony by Lucas the nomad, on Flickr"><img alt="Prayer Ceremony" src="http://farm4.staticflickr.com/3691/9075920423_32f69b8262_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9075920423/" title="Prayer Ceremony by Lucas the nomad, on Flickr"><img alt="Prayer Ceremony" src="http://farm4.staticflickr.com/3691/9075920423_32f69b8262_c.jpg" width="800" /></a>
 
-<a href="http://www.flickr.com/photos/83213379@N00/9078141762/" title="Lotsa boats by Lucas the nomad, on Flickr"><img alt="Lotsa boats" src="http://farm4.staticflickr.com/3755/9078141762_156a665470_c.jpg" width="800" /></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9078141762/" title="Lotsa boats by Lucas the nomad, on Flickr"><img alt="Lotsa boats" src="http://farm4.staticflickr.com/3755/9078141762_156a665470_c.jpg" width="800" /></a>
 
 I ended up deciding I was overdue for a "weekend" the next day, and it was a day leading into an overnight train to be followed by the Taj Mahal and the Red Fort in Agra, so I chose to sit by the pool (accommodation on this tour was far fancier than I'm used to) and read for the day to relax and recuperate.

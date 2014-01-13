@@ -14,13 +14,13 @@ My arrival in Dar Es Salaam was pretty smooth and trouble free. I applied for my
 
 I went to queue up in the immigration line, proud to show off my fancy new visa sticker, but a guy came up and told me to just walk on through. So I walked straight past the desk where they check your passport without showing them anything, and nobody batted an eyelid. It really feels like you could get into the country without a visa very easily if you just walked on through with a bit of confidence, although I'm sure you'd have trouble leaving.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9852999483/" title="Dar Es Salaam Sunset by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2838/9852999483_bd51867ef4_c.jpg" width="800" height="450" alt="Dar Es Salaam Sunset"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9852999483/" title="Dar Es Salaam Sunset by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2838/9852999483_bd51867ef4_c.jpg" width="800" height="450" alt="Dar Es Salaam Sunset"></a>
 
 <!-- more -->
 
 I waited for a few hours for Kat's flight to arrive, after which we shared a taxi through some incredibly gridlocked traffic to the Hotel where Amanda, Luke, Leigh and Nicci were already checked in an waiting for us. I'd actually already had some advanced warning about the hotel's "No Alcohol" policy, but didn't remember to warn Kat to hide her duty-free booze until we arrived there, so she had to try and hide it behind a backpack as we went past the very prominent sign in the lobby. We managed to sneak in both our bottles of spirits without a hitch, and disrespectfully drank some of that booze in the hotel that night, the heathens we are.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853002513/" title="Alcohol Strictly Prohibited in our hotel by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5340/9853002513_47760b0ac4_c.jpg" width="600" height="800" alt="Alcohol Strictly Prohibited in our hotel"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853002513/" title="Alcohol Strictly Prohibited in our hotel by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5340/9853002513_47760b0ac4_c.jpg" width="600" height="800" alt="Alcohol Strictly Prohibited in our hotel"></a>
 
 Having been travelling solo for a few months by this point, it was really good to be among friends again although I have to admit that it took a few days before I really felt "right at home" again. I couldn't really put a finger on exactly why that was; it was almost like reverse culture shock, except still submerged in yet another strange culture but with familiar friends.
 
@@ -32,7 +32,7 @@ After what was probably twice as long as if people hadn't constantly been pushin
 
 We arrived at our hotel in Paje by taxi, about an hour from Stone Town, where the ferries arrive. Some guys were very quick to come over and welcome us, but then at the same time they appeared to not really be aware we were coming, even though Kat had been communicating with them right up to our arrival (They were supposed to do a transfer from the ferry terminal for us, but there was no-one there when we arrived and they stopped responding to message until we were already in a taxi). We needed to wait for an extra room to be made up because there weren't enough rooms ready.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9852961356/" title="Zanzibar, Paje Beach by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7398/9852961356_13c83808eb_c.jpg" width="800" height="600" alt="Paje Beach, Zanzibar"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9852961356/" title="Zanzibar, Paje Beach by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7398/9852961356_13c83808eb_c.jpg" width="800" height="600" alt="Paje Beach, Zanzibar"></a>
 
 We ordered some dinner that night, and it took hours to be prepared. I'll give them credit that it was probably the best meal they served us during out stay there, but the timeliness, or lack of it, was a sign of the week ahead of us.
 
@@ -47,45 +47,45 @@ You get warned about Africa time, and I went into this expecting things would be
 
 Amanda, Luke, Kat and I spent the day wandering up the beach and stopped in at one of the local bars "Teddy's" for a quick bite to eat. We noticed they had cheap long island ice tea's and ended up staying for quite a few of them.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853176176/" title="Teddy's Place! by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5468/9853176176_daf246a07c_c.jpg" width="800" height="601" alt="Teddy's Place!"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853176176/" title="Teddy's Place! by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5468/9853176176_daf246a07c_c.jpg" width="800" height="601" alt="Teddy's Place!"></a>
 
 Eventually we headed back to see what Leigh and Nicci were up to and decided to head down the beach the other direction and have a late lunch at the restaurant at the end of the long pier, attached to one of the fancier hotels in the area. The food came out quickly and was by all accounts delicious! This hotel ended up becoming our go-to place for food when were were hungry; it cost a little more than other places but it was consistently quick and delicious.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853195803/" title="The Pier Restaurant by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2844/9853195803_50670c1ee3_c.jpg" width="800" height="450" alt="The Pier, with a restaurant at the end"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853195803/" title="The Pier Restaurant by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2844/9853195803_50670c1ee3_c.jpg" width="800" height="450" alt="The Pier, with a restaurant at the end"></a>
 
 We rounded off the afternoon by heading to the zombie bar for a few more drinks, where ironically they don't serve and had never even heard of the cocktail "zombie."
 
-<a href="http://www.flickr.com/photos/83213379@N00/9852991526/" title="Leigh and Nicci, Planning to Abduct Some African Children by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7431/9852991526_c4f5452a1f_c.jpg" width="800" height="600" alt="Nicci planning to steal some African kids from the Zombie Bar"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9852991526/" title="Leigh and Nicci, Planning to Abduct Some African Children by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7431/9852991526_c4f5452a1f_c.jpg" width="800" height="600" alt="Nicci planning to steal some African kids from the Zombie Bar"></a>
 
 A few of us were hungry again by the time we got back to our hotel, so we ordered some pancakes with banana and chocolate as a going to bed snack. Except without banana because they were out of that. Oh, and no chocolate either, because that's obviously quite perishable and you don't want to keep too much of it on hand. We were offered sugar in place of the missing ingredients, we were hungry so we went with it. Ninety minutes later we had pancakes, which in our drunk state were pretty damn delicious, even lacking 2/3rds of the advertised ingredients.
 
 The net day Amanda, Kat and I went on a walking tour of the local village, led by a guy named Jamu that Amanda had met on the beach early the day before. Everyone else decided they were too hungover to go along and stayed back to get more sleep, which I probably should really have done too. I was definitely feeling pretty average for most of that day, but I'd decided to go and I'm stubborn like that.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9852947334/" title="Amanda Making Building Materials Out of Palm Leaf by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5465/9852947334_2ca399a553_c.jpg" width="601" height="800" alt="Amanda making building materials out of palm leaf"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9852947334/" title="Amanda Making Building Materials Out of Palm Leaf by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5465/9852947334_2ca399a553_c.jpg" width="601" height="800" alt="Amanda making building materials out of palm leaf"></a>
 
 Anyhow, the tour was quite good. We were shown how they braid the girls hair, which got demonstrated on the edge of my beard too. It was quite impressive how they make rope from the husks of a coconut, soaked in seawater for several weeks to soften it up. The finished product was really just like rope you'd buy at Bunnings! . We saw how palm tree leaves are thatched into building materials, and some very basic henna artwork.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853070813/" title="Me Getting some Beard Braids by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3731/9853070813_d862ddeece_c.jpg" width="800" height="601" alt="Me getting some beard braids"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853070813/" title="Me Getting some Beard Braids by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3731/9853070813_d862ddeece_c.jpg" width="800" height="601" alt="Me getting some beard braids"></a>
 
 Most days in that first week on Zanzibar followed a pretty similar schedule. Wake up, wait for ages for breakfast. Sit around reading and generally relaxing. Go somewhere for lunch. Relax some more. Sometime we'd go up to the fancy hotel to use their pool. It was a very chilled way to spend a week.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853146836/" title="G &amp; T and a book by the ocean by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7381/9853146836_083ceed16c_c.jpg" width="800" height="601" alt="Gin &amp; Tonic, and a book by the ocean"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853146836/" title="G &amp; T and a book by the ocean by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7381/9853146836_083ceed16c_c.jpg" width="800" height="601" alt="Gin &amp; Tonic, and a book by the ocean"></a>
 
 One other day of note was the day we went and had lunch at The Rock restaurant, which is as the name implies, a restaurant built on a rock! And that rock is in the ocean, so you have to get a boat there unless the tide is all the way out. It's extremely picturesque!
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853098706/" title="The Rock Restaurant by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7456/9853098706_eb5f8809f3_c.jpg" width="800" height="500" alt="The Rock Restaurant"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853098706/" title="The Rock Restaurant by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7456/9853098706_eb5f8809f3_c.jpg" width="800" height="500" alt="The Rock Restaurant"></a>
 
 The food there was fabulous. For an entrée I had some very tasty garlic queen prawns. For a main I shared "The Rock Special" with Kat, as the wait staff had made a big deal about how it was "for two". It came out with lobster, a huge king prawn, some Balmain bug, and some fish. Everything was really very tasty, but I could have devoured the whole meal by myself, and having looked at the menu beforehand had gone there expecting to. In the end I was cracking lobster legs, trying to get just every last bit of meat out to try and satisfy my hunger.
 
 It's a bit of a shame they made out it was enough for two people as my expectations for paying a fair bit for that meal had already been set and I would have been completely happy to order it for myself; but them pushing it as "for two" made all of us think it must have been heaps of food so everyone shared. In the end I think that they were just trying to get past the average person's aversion to spend a lot of money on a nice meal, which is unfortunate since we went away hungry having spent a lot less than what we went there expecting to spend.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853087865/" title="Leaving The Rock by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5469/9853087865_037c3392e8_c.jpg" width="800" height="601" alt="Leaving The Rock by boat"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853087865/" title="Leaving The Rock by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5469/9853087865_037c3392e8_c.jpg" width="800" height="601" alt="Leaving The Rock by boat"></a>
 
 After lunch, we went out on a small boat with an outboard motor to a reef a few hundred meters along the coast line to do a bit of snorkelling, a totally safe activity after just eating and having had a few beers :P We managed to see a number of nice bannerfish, some black and some pink anemone fish (think nemo), some parrot fish, and what I thought was a huge pipefish 40cm long, but I've since discovered is called a trumpetfish.
 
 After snorkelling, we came back to land and met a friendly Masai who called himself Mr Discount! He even claimed to have change! A rarity in Africa! If any of us had wanted a bracelet or other trinket, this is the guy we'd have bought it from.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853157923/" title="Mr Discount by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3811/9853157923_3b2d1771c1_c.jpg" width="601" height="800" alt="Mr Discount!"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853157923/" title="Mr Discount by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3811/9853157923_3b2d1771c1_c.jpg" width="601" height="800" alt="Mr Discount!"></a>
 
 After our very lazy week in Paje, we headed back to Stone Town to meet up with the Dragoman tour group that would be our family for the next 5 weeks. We very briefly met out English group leader Steve, before heading out to do a quick walking tour of Stone Town with our local guide for Zanzibar, Daniel.
 
@@ -93,7 +93,7 @@ We had some free time to explore the town that afternoon before meeting up with 
 
 Over the course of the trip I think these two became my favourite people on the tour, with Pete being a bit of a joker and making some insightful but almost Karl Pilkington like observations (and I say that in the kindest way, Karl is awesome) and Deb almost becoming like a bit of a mother to the group.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853073634/" title="Shipwreck Sunset by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7377/9853073634_fa6dda2b01_c.jpg" width="800" height="450" alt="Not the sunset described above"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853073634/" title="Shipwreck Sunset by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7377/9853073634_fa6dda2b01_c.jpg" width="800" height="450" alt="Not the sunset described above"></a>
 
 After the Sun had set, everyone headed to the night seafood market for dinner. There were loads of stalls set up, trying to get your business, each with a table full of fresh seafood that you could pick and choose that they'd fry up for you to eat. I had a number of skewers with different kinds of fish and tandoori lobster and some octopus and felt very full but satisfied afterwards.
 
@@ -101,7 +101,7 @@ After dinner we moved on to a bar called Mercury Bar, named so because Freddy Me
 
 The next day we did a bit of a local tour, we saw the site of the old slave markets (which the Christians craftily built a church at, so you can't visit without hearing a bunch of additional religious stuff as well), visited a real local fish and meat market, and went on a tour of a spice plantation where we got to smell and taste all sort of fresh spices. The biggest surprise for me was cinnamon roots, which smelt like tiger balm, while the bark and wood of the tree smelt... like cinnamon, how you'd expect it to smell.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853164744/" title="Statue at the site of the old slave market by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7322/9853164744_ac2b76a8d8_c.jpg" width="800" height="450" alt="Our local guide Daniel, with the statue at the site of the old slave market"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853164744/" title="Statue at the site of the old slave market by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7322/9853164744_ac2b76a8d8_c.jpg" width="800" height="450" alt="Our local guide Daniel, with the statue at the site of the old slave market"></a>
 
 We stopped in for lunch at Daniel's house for lunch, where one of his neighbours had cooked up a very tasty curry, with some nice mango as a desert. As seems to be the case with all construction in Africa, Daniel's house was still a work in progress with some of the rooms being finished off while other were still being worked on when he had the time and money to do some more work.
 
@@ -111,11 +111,11 @@ We had a meeting that evening where were were given the low-down on trip kitty a
 
 Money in Tanzania is a royal pain in the ass. Their largest note is 10,000 shillings, which sounds like heaps, but is actually less than USD $7. This means that getting out a few hundred dollars is a giant thick wad of cash. And nobody in Tanzania ever seems to have change, even though they're in the business of trying to sell you stuff. Apparently it's you the customer's job to have the right money, or just buy more stuff!
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853184525/" title="1.4M Tanzanian Shillings, next to 100T Zimbabwe Dollars by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2875/9853184525_8312cc1ef4_c.jpg" width="800" height="450" alt="1.4M Tanzanian Shillings, next to 100T Zimbabwe Dollars"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853184525/" title="1.4M Tanzanian Shillings, next to 100T Zimbabwe Dollars by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2875/9853184525_8312cc1ef4_c.jpg" width="800" height="450" alt="1.4M Tanzanian Shillings, next to 100T Zimbabwe Dollars"></a>
 
 Upon joining the trip we were told that the trip kitty is strongly preferred in USD, because although all these countries we are visiting have their own currency, they all charge park fees in the currency from a country on the other side of the planets, which of course is not readily available from ATMs. ATMs dispense local currency, in thick wads that only amount to about USD$200. The ATMs have a very low per-transaction limit (which I think is actually a physical limit, more money would not fit in the money dispensing slot), but then have a fairly low total per day limit too (about $600). Combined this with the large time difference between Africa and Australia, and our Australian banks daily withdrawal limits that reset based on Australian time-zones... let's just say it made getting the large sums of money needed for the kitty quite challenging. In the end it took probably 15-20 separate ATM withdrawals to get the money required(ignoring the attempts where the ATMs were just plain out of money, because an ATM can only hold so much paper, and when your biggest note is worth $7 an ATM really doesn't hold very much), and then a few visits to banks to actually get the USD (Leigh and Nicci managed to clean our a few money changing places of all their USD). I found it doubley annoying because I'd only just been in Zimbabwe a few weeks earlier, where the ATMs dispense USD and I could have stocked up there, but the trip notes had misled us into thinking local currency would be acceptable and it seemed a lot safer than carrying thousands of dollars in cash around South Africa.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853209666/" title="Rolling in cash by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7434/9853209666_b33a72fd54_c.jpg" width="601" height="800" alt="Rolling in cash"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853209666/" title="Rolling in cash by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7434/9853209666_b33a72fd54_c.jpg" width="601" height="800" alt="Rolling in cash"></a>
 
 On the plus side though, how often do you get the chance to literally roll around on a bed covered in millions of shillings in hundred of bills?
 
@@ -144,7 +144,7 @@ I can't count the number of times the truck braked extremely hard to try soften 
 
 Anyway, after escaping the nightmare traffic, we found a gas station in the middle of nowhere where we could stop and have the first of many roadside meals. The process of everyone getting out the tables, cooking gear and stools, prepping food and is quite a sight to see, and got to be really quite efficient as we got in the swing of things. For side-of-the-road breakfast, it was pretty fancy. We had cooked eggs, cereal, baked beans and toast. A good sign of things to come from our jovial truck cook, Charles.
 
-<a href="http://www.flickr.com/photos/83213379@N00/9853307193/" title="Our overland truck, setting up for roadside breakfast by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3710/9853307193_2b5bdbd636_c.jpg" width="800" height="450" alt="Our overland truck, setting up for roadside breakfast"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/9853307193/" title="Our overland truck, setting up for roadside breakfast by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3710/9853307193_2b5bdbd636_c.jpg" width="800" height="450" alt="Our overland truck, setting up for roadside breakfast"></a>
 
 Bureaucracy anywhere is generally a nuisance set up to make someone feel important, and Tanzania has it's fair share of it. At one point during out travels we were waved through a weigh station by a policeman, then chased down the road 10KM by a weigh station official who wanted to know why we didn't go through. He didn't care that the cop waved us through and made to turn around on a very narrow road to go back and get weighed.
 

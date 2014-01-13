@@ -17,7 +17,7 @@ woken not long after by a notification on my phone lighting up the room.
 By 6:30am when I planned to get up I'd completely given up hope of getting any
 sleep and got up and made myself a coffee, then zipped up my bag fully packed.
 
-<a href="http://www.flickr.com/photos/83213379@N00/11423926246/" title="photo 1 by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3791/11423926246_98bcd832c4_c.jpg" width="800" height="600" alt="Packed bags"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/11423926246/" title="photo 1 by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3791/11423926246_98bcd832c4_c.jpg" width="800" height="600" alt="Packed bags"></a>
 
 <!-- more -->
 
@@ -57,7 +57,7 @@ short flight, but on the ~8 hours to Singapore I managed to sleep and sit lazily
 for the whole flight with my neck feeling great. So the pillow may not get
 turfed quite so early.
 
-<a href="http://www.flickr.com/photos/83213379@N00/11425205114/" title="photo 2 by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2875/11425205114_aa105b3d09_c.jpg" width="600" height="800" alt="Neck pillow"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/11425205114/" title="photo 2 by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2875/11425205114_aa105b3d09_c.jpg" width="600" height="800" alt="Neck pillow"></a>
 
 The stopover in Singapore was brief, only about 1 hour, so I didn't really get
 to look around, but they had free wifi so I checked the internets and filled in
@@ -72,7 +72,7 @@ After about 40 minutes, there were no seats left and new-commers started lining
 up at the collection window as though that was going to get theirs processed
 faster.
 
-<a href="http://www.flickr.com/photos/83213379@N00/11424065713/" title="photo 3 by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3764/11424065713_96436ea67e_c.jpg" width="800" height="600" alt="People waiting for visas"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/11424065713/" title="photo 3 by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3764/11424065713_96436ea67e_c.jpg" width="800" height="600" alt="People waiting for visas"></a>
 
 After just over an hour they finally called my name and gave me my passport
 back, with which I could go through immigration and finally collect my bag,

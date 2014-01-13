@@ -25,7 +25,7 @@ to get stuck lugging a heavy pack.
 
 I've been looking at this bag in particular, the Osprey Farpoint 40:
 
-<a href="http://www.flickr.com/photos/83213379@N00/11423921684/" title="osprey-farpoint by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7460/11423921684_a8bab84fd1.jpg" width="270" height="382" alt="Osprey Farpoint 40"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/11423921684/" title="osprey-farpoint by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7460/11423921684_a8bab84fd1.jpg" width="270" height="382" alt="Osprey Farpoint 40"></a>
 
 It's a 40L backpack small enough to be allowed on airplanes as cabin luggage. It
 seems pretty sturdy and from my searching, reviews seem to be generally
@@ -36,7 +36,7 @@ time, if it broke for any reason.
 
 If I do get this bag, I'm planning on getting one of these neato dry daypacks:
 
-<a href="http://www.flickr.com/photos/83213379@N00/11423899315/" title="dry-daypack by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2882/11423899315_dd6cce348f.jpg" width="294" height="350" alt="Sea To Summit Dry Daypack"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/11423899315/" title="dry-daypack by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2882/11423899315_dd6cce348f.jpg" width="294" height="350" alt="Sea To Summit Dry Daypack"></a>
 
 It's a lightweight bag that I could use day to day for carrying my camera and a
 jacket, it's water proof and it folds down into a tiny little sack roughly the

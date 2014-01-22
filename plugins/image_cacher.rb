@@ -6,7 +6,7 @@ require 'httparty'
 module Jekyll
   class ImageCacher < PostFilter
     def post_render(post)
-      if post.ext.match('html|textile|markdown|md|haml|slim|xml') && post.data["dont_cache_images"].nil?
+      if post.ext.match('html|textile|markdown|md|haml|slim|xml') && post.data["dont_cache_images"].nil? && post.is_post?
         post.content = ImageFetcher.cache_images(post.content)
       end
     end

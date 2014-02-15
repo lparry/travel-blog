@@ -5,7 +5,6 @@ date: 2014-02-14 18:17
 tags: Greece, Samos, Ikaria, Syros, Mykonos, Athens
 description: 
 published: true
-dont_cache_images: true
 priority: 0.5
 ---
 Leaving Turkey I took a ferry from Selçuk to Samos, the main gateway into the

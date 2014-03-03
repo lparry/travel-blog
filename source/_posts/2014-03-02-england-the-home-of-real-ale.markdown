@@ -217,10 +217,11 @@ a few drinks until the trains would have quietened down. We said our goodbyes
 and wished Amanda and Luke well on their American travels, before making the
 long drive back to Nottingham.
 
-For my penultimate weekend Matt kindly sorted us out some transport so we could
-go and check out the one real thing on my list of stuff to see in England,
-Stonehenge. I think the desire to see it stemmed from the movie European Vacation,
-which is kind of lame, but seeing the real deal was pretty cool.
+For my penultimate weekend in England, Matt kindly sorted us out some transport
+so we could go and check out the one real thing on my list of stuff to see in
+England: Stonehenge. I think the desire to see it stemmed from the movie
+European Vacation, which is kind of lame, but seeing the real deal was pretty
+cool.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/12844633393/in/set-72157641676939995" title="Stonehenge by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3791/12844633393_fd765e5877_c.jpg" width="800" height="450" alt="Stonehenge"></a>
 
@@ -230,7 +231,7 @@ while we were waiting in line to get in. The blue skies lasted for nearly our
 whole visit. The weather while we were there was stunning, some of the best I
 saw during this visit to England.
 
-<a href="http://www.flickr.com/photos/lucasthenomad/12844601435/in/set-72157641676939995" title="Matt watched a lot of "My name is Earl" and it affected his abillity to be photographed with his eyes open by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7346/12844601435_d5f7d734c1_c.jpg" width="800" height="601" alt="Matt watched a lot of "My name is Earl" and it affected his abillity to be photographed with his eyes open"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/12844601435/in/set-72157641676939995" title='Matt watched a lot of "My name is Earl" and it affected his abillity to be photographed with his eyes open by Lucas the nomad, on Flickr'><img src="http://farm8.staticflickr.com/7346/12844601435_d5f7d734c1_c.jpg" width="800" height="601" alt='Matt watched a lot of "My name is Earl" and it affected his abillity to be photographed with his eyes open'></a>
 
 I learnt some interesting stuff from the far too verbose audio guides. There's
 third of each pillar buried underground, meaning that the already quite large

@@ -12,9 +12,25 @@ footer {
 
 .flickr-image {
   text-align: center;
-}
-.flickr-image a img {
-  display: inline;
+
+  // centered Polaroid-like look
+  padding: 5px;
+  background: white;
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow:         5px 5px 2px 0px #222;
+  border-radius: 2px;
+
+  a img {
+    display: inline;
+    margin-bottom: 5px
+  }
+
+  em {
+    color: black;
+  }
+
 }
 
 .excerpt-link {

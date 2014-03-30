@@ -1,15 +1,13 @@
-
---
+---
 layout: post
-title: "berlin"
+title: "Berlin"
 date: 2014-03-03 14:31
-tags: example, tag
+tags: Berlin, Germany
 description:
 published: false
 dont_cache_images: true
 priority: 0.5
-
---
+---
 
 Flying to Berlin was my first flight with Ryanair on this trip, and it was
 pretty much trouble free. It did seem absurd that they still mess about with
@@ -64,21 +62,23 @@ interesting but there was just too much information there to process it all, so
 by 3/4 of the way through I was skipping reading 90% of the text and was pretty
 well museum-fatigued.
 
-To combat that we went into a nearby bar and had a few beers and got talking
+To combat that we went into a nearby bar for a rest and a few beers. We got talking
 with the bartender, a girl from Birmingham named Carley, who gave us some good
-tips for neighbourhood to go exploring later in the evening.
+tips for some neighbourhoods to go exploring later in the evening.
 
-We and to the Topography of Terror museum, built on/next to the foundations of
-the SS and gestapo HQ, which was conincidentally right next to a long chunk of
-the berlin wall that was still in place, wiht some large holes smashed in the
+After we felt able to tackle another museum we headed to the Topography of
+Terror museum, a museum built right next to the foundations of the headquarters
+of the Secret State Police, the SS and the Reich Security Main Office of the
+Third Reich.  Its also coincidentally right next to a long segment of the Berlin
+wall that was still in place, complete with some large holes smashed in the
 concrete.
 
 It was great having Harmon there to fill in the massive gaps in my knowledge
-about german history. I know we covered WWI and WWII in high school, but I don't
-think we ever even touched on the cold war (I guess because australia played no
-part in it, and our history always seemed (to me) to be biased towards things
-that australia took part in, rather than important events that shaped the world
-as it is today.
+about German history. I know we covered the world wars in high school, but I
+don't think we ever even touched on the cold war (I guess because Australia
+played no part in it, and our history classes seemed to have been biased towards
+things that Australia took part in, rather than important events that shaped the
+world as it is today.
 
 I never enjoyed history at school, but I now think that was largely because of
 the stupidly narrow focus that my small rural high school had in its classes.

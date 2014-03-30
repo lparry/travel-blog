@@ -2,10 +2,6 @@
 $tag-color:            white;
 $tag-background-color: #1c1e22;
 
-body {
-  margin-top: 70px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
-}
-
 footer {
   margin: 50px 0;
 }
@@ -159,7 +155,3 @@ ul.tags {
 article p {
   text-align: justify;
 }
-
-nav.navbar-fixed-top {
-  position: absolute;
-};

@@ -2,6 +2,26 @@
 $tag-color:            white;
 $tag-background-color: #1c1e22;
 $photo-padding: 6px;
+$normal-font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$light-font-weight:  100;
+$normal-font-weight: 300;
+$bold-font-weight:   700;
+
+body {
+  font-family: $normal-font-family;
+  font-weight: $normal-font-weight;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4 {
+  font-family: $normal-font-family;
+  font-weight: $bold-font-weight;
+}
+
+nav, .navbar-brand {
+  font-weight: $bold-font-weight;
+  font-size: 18px;
+}
 
 footer {
   margin: 50px 0;
@@ -27,7 +47,7 @@ footer {
 
   em {
     color: black;
-    font-family: 'Swanky and Moo Moo', cursive;
+    font-family: 'Swanky and Moo Moo', fantasy, cursive;
     font-size: 24px;
   }
   a:hover {
@@ -76,16 +96,18 @@ footer {
 
  .blurb {
    text-align: justify;
-   font-size:  11px;
+   font-size:  13px;
+   font-family: $normal-font-family;
+   font-weight: $light-font-weight;
  }
 
  .tags {
    padding-left: 10px;
    padding-right: 10px;
    a {
-     font-size: 11px;
+     font-size: 12px;
      padding: 1px 5px;
-     font-weight: bold;
+     font-weight: $bold-font-weight;
      color: $tag-background-color !important;
      background-color: $tag-color;
      margin-bottom: 6px;
@@ -130,7 +152,7 @@ ul.tags {
 
 .quote {
   font-size: x-large;
-  font-weight: lighter;
+  font-weight: $light-font-weight;
 }
 .quote:before {
   content: "\f10d  ";
@@ -144,7 +166,7 @@ ul.tags {
 
 .quote-attribution {
   font-size: large;
-  font-weight: lighter;
+  font-weight: $light-font-weight;
   text-align: right;
   padding-right: 50px;
 }
@@ -154,7 +176,7 @@ ul.tags {
 }
 
 .excerpt {
-  font-weight: lighter;
+  font-weight: $light-font-weight;
   margin-left: 20px;
   font-size: larger;
 }

@@ -104,6 +104,10 @@ module OctopressLiquidFilters
     end
   end
 
+  def rewrite_flickr_urls(input, url)
+    input.gsub %r(href=["']http://www\.flickr\.com/[^'"]*["']), %(href="#{url}")
+  end
+
   # Improved version of Liquid's truncate:
   # - Doesn't cut in the middle of a word.
   # - Uses typographically correct ellipsis (…) insted of '...'

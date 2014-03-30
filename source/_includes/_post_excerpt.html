@@ -2,7 +2,7 @@
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p><i class="fa fa-clock-o"></i>&nbsp;Posted on {{ post.date | date_to_long_string }}</p>
   <br>
-  {{ content | excerpt }}
+  {{ content | excerpt | rewrite_flickr_urls: post.url}}
 
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
   <p class="excerpt-link"><a href="{{ post.url }}">{% if excerpted == 'true' %}Read more&hellip;{% else %}Leave a comment{% endif %}</a></p>

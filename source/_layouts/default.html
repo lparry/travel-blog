@@ -63,10 +63,6 @@
 
         <div class="col-lg-4">
           <div class="well">
-            {% assign tags = site.sorted_tags %}
-            {% include _tags.html %}
-          </div>
-          <div class="well">
             <img src="/images/avatar.jpg" class="avatar" width="125px">
             <h4><i class="fa fa-info-circle fa-lg fa-fw"></i> About Lucas</h4>
             <p class="blurb">An account of Lucas' epic travels, exciting
@@ -75,6 +71,11 @@
             just take care of themselves and I just enjoy the ride.</p>
 
             <p class="blurb">I try to post something to this blog at least once a month (I'm trying to get better), and it tends to run several months behind real-time.</p>
+          </div>
+
+          <div class="well">
+            {% assign tags = site.sorted_tags %}
+            {% include _tags.html %}
           </div>
 
           <div class="well">

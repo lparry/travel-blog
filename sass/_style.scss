@@ -17,11 +17,12 @@ footer {
   margin-right: auto;
   margin-left: auto;
   box-shadow:         $photo-padding $photo-padding $photo-padding 0px #111;
-  border-radius: 2px;
+  border-radius: 3px;
 
   a img {
     display: inline;
     margin-bottom: $photo-padding;
+    border-radius: 2px;
   }
 
   em {

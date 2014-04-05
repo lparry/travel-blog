@@ -49,7 +49,7 @@ module Jekyll
       def cache(url, local_path)
         destination = "source#{local_path}"
         if File.exist?(destination)
-          puts %(already downloaded "#{destination}")
+          # puts %(already downloaded "#{destination}")
         else
           download_file(url, destination)
         end

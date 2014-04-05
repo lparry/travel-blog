@@ -173,6 +173,24 @@ module CDNLiquidFilters
     end
   end
 
+  def swanky_and_moo_moo_url_for_environment(_)
+    if ENV["OCTOPRESS_ENV"] == "preview"
+      "/fonts/google-webfonts/swanky-and-moo-moo.css"
+    else
+      "http://fonts.googleapis.com/css?family=Swanky+and+Moo+Moo"
+    end
+  end
+
+  def lato_url_for_environment(_)
+    if ENV["OCTOPRESS_ENV"] == "preview"
+      "/fonts/google-webfonts/lato.css"
+    else
+      "http://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,700,700italic"
+    end
+  end
+
+
+
   def jquery_url_for_environment(_)
     if ENV["OCTOPRESS_ENV"] == "preview"
       "/js/jquery-1.10.2.js"

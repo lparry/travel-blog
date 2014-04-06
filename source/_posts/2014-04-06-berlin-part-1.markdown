@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Berlin, Part 1"
-date: 2014-03-03 14:31
+date: 2014-04-06 16:17
 tags: Berlin, Germany
-published: false
+published: true
 description:
 priority: 0.5
 ---

@@ -195,6 +195,15 @@ through under East Berlin city centre, but to stop people escaping through the
 metro tunnels the stations in East Berlin were bricked up and abandoned.
 Bernauer Straße station was one such station, but you wouldn't know it today.
 
+I snuck in an amazing last lunch at a nice little place not far from the heart
+of the city, and ate this amazingly good pork knuckle. The meat was so tender it
+just fell apart; I could have eaten it with just a fork.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/13787696054" title="Amazing pork knuckle, the meat was so very tender by Lucas Parry, on Flickr"><img src="https://farm4.staticflickr.com/3766/13787696054_4316f8a490_c.jpg" width="800" height="600" alt="Amazing pork knuckle, the meat was so very tender"></a>
+
+My bill came and it was mysteriously discounted by 20%, and I was so happy with
+the meal I tipped the 20% right back to them. :D
+
 My last night in Berlin I hit a few more of the more traditional style Christmas
 markets at PrenzlauerBerg and Charlottenburg. These ones were far less fun-park
 like and had even more variety in food and handicrafts.

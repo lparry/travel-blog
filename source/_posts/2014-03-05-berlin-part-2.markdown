@@ -193,12 +193,14 @@ There was a ramp spiralling up around the dome, with an audio guide that is
 automatically activated as you walk around, giving you a nice (but hard to
 photograph) view of the city in all directions.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/13569107935/in/set-72157643245435323" title="Checkpoint Charlie looks like a tourist trap on the street by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7038/13569107935_690ccf05dc_c.jpg" width="800" height="450" alt="Checkpoint Charlie looks like a tourist trap on the street"></a>
+
 One place I had hesitations about visiting the was Checkpoint Charlie Museum,
 because the street outside makes the whole area feel like an awful tourist trap.
 Inside it turned out to be nothing of the sort and was way better than I
 expected.
 
-<a href="http://www.flickr.com/photos/lucasthenomad/13569107935/in/set-72157643245435323" title="Checkpoint Charlie looks like a tourist trap on the street by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7038/13569107935_690ccf05dc_c.jpg" width="800" height="450" alt="Checkpoint Charlie looks like a tourist trap on the street"></a>
+<a href="https://www.flickr.com/photos/lucasthenomad/13782271403" title="Wall of passports by Lucas Parry, on Flickr"><img src="https://farm8.staticflickr.com/7118/13782271403_70cfe1090f_c.jpg" width="600" height="800" alt="Wall of passports inside Checkpoint Charlie"></a>
 
 It contained lots of interesting stories about the many successful and
 unsuccessful attempts to escape from East Germany to flee to the west.  There

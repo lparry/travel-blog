@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "Spain"
+title: "Barcelona, Spain"
 date: 2014-04-08 16:43
-tags: Spain, Barcelona, Grenada, Cordoba, Seville, Malaga
+tags: Spain, Barcelona
 description: 
 published: false
 dont_cache_images: true
 priority: 0.5
 ---
-Intro
 
-Sniffing and blcoked up with a cold, a hold over from berlin
+Even in winter the weather is Barcelona is nice. As soon as I landed and got my
+bag through customs I put my heavy winter jacket away and was quite happy in
+just a T-shirt. It seemed like the warm weather would be great for helping me
+kick a cold that had been hanging around for my last few weeks in Berlin,
+leaving me sniffing and congested.
 
 <!-- more -->
 

@@ -52,6 +52,7 @@ module Jekyll
           # puts %(already downloaded "#{destination}")
         else
           download_file(url, destination)
+          compress_file(destination)
         end
       end
 
@@ -62,6 +63,10 @@ module Jekyll
           file.write(resp.body)
         end
         puts %(downloaded "#{destination}")
+      end
+
+      def compress_file(path)
+        `jpegoptim --strip-all -p -o -q "#{path}"`
       end
 
       def fetch(uri_str, limit = 10)

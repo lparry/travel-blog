@@ -71,7 +71,7 @@ module Jekyll
 
       def fetch(uri_str, limit = 10)
         response = HTTParty.get(uri_str)
-        raise "response: #{response.code}" unless response.code == 200
+        raise "response: #{response.code} for #{uri_str}" unless response.code == 200
         response
       end
 

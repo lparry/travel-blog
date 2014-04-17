@@ -67,6 +67,7 @@ module Jekyll
 
       def compress_file(path)
         `jpegoptim --strip-all -p -o -q "#{path}"`
+        `jpegtran -optimize -outfile "#{path}" "#{path}"`
       end
 
       def fetch(uri_str, limit = 10)

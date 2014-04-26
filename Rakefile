@@ -90,6 +90,20 @@ task :preview do
   [jekyllPid, compassPid, rackupPid].each { |pid| Process.wait(pid) }
 end
 
+desc "preview the production site in a web browser"
+task :preview_production do
+  puts "Starting to watch source with Jekyll and Compass. Starting Rack on port #{server_port}"
+  Rake::Task[:generate].execute
+  rackupPid = Process.spawn("rackup --port #{server_port}")
+
+  trap("INT") {
+    Process.kill(9, rackupPid) rescue Errno::ESRCH
+    exit 0
+  }
+
+  Process.wait(rackupPid)
+end
+
 desc "mark a post as published, update the dates"
 task :publish_post, :filename do |t, args|
   raise "file not found" unless File.exist?(args[:filename])

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Barcelona, Spain"
-date: 2014-04-08 16:43
+date: 2014-05-03 14:15
 tags: Spain, Barcelona
 description:
-published: false
+published: true
 priority: 0.5
 ---
 

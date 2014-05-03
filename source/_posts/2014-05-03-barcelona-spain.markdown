@@ -244,7 +244,7 @@ style that seems to dominate sculpture.
 <a href="http://www.flickr.com/photos/lucasthenomad/13810295075/in/set-72157643866689355" title="Model of the completed Sagrada Familia by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7096/13810295075_f30b748621_c.jpg" width="601" height="800" alt="Model of the completed Sagrada Familia"></a>
 
 I found this model and learnt that even though the building is already huge, the
-5 or 6 tallest towers are not build yet. The central "Jesus" tower alone is
+5 or 6 tallest towers are not built yet. The central "Jesus" tower alone is
 going to be nearly double the height of any of the existing ones. Epic!
 
 <a href="http://www.flickr.com/photos/lucasthenomad/13810099654/in/set-72157643866689355" title="Inside a tower through the doorway arch by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2895/13810099654_fd5569be9d_c.jpg" width="601" height="800" alt="Inside a tower through the doorway arch"></a>

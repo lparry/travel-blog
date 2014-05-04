@@ -2,7 +2,7 @@
 layout: post
 title: "Barcelona, Spain"
 date: 2014-05-03 14:15
-tags: Spain, Barcelona
+tags: Spain, Barcelona, Tapas
 description:
 published: true
 priority: 0.5

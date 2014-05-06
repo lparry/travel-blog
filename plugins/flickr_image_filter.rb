@@ -18,18 +18,17 @@ module Jekyll
 
       def format_image(line)
         doc = Nokogiri.parse(line)
-        (doc / "p").add_class("flickr-image")
         (doc / "img").add_class("img-responsive")
         title = (doc / "img").attr("alt")
-        (doc / "img").after("<br/><em>#{title}</em>")
-        doc.to_html
+        (doc / "img").after("<em>#{title}</em>")
+        %(<p class="flickr-image-container"><span class="polaroid">#{(doc / "a").to_html}</span></p>)
       end
 
       def line_needs_formatting?(line)
         #it's a flickr image link
         line.match(/flickr\.com.*\.jpg"/) &&
           #and we havent already formatted it
-          !line.include?(%(div class="flickr-image">))
+          !line.include?(%(div class="flickr-image-container">))
       end
 
       def captionize(content)

@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/51721236151/phu-qouc-island-viet
 author:
 categories:
 description:
-tags: vietnam pho-quoc
+tags: vietnam phu-quoc
 priority: 0.5
 ---
 
@@ -61,22 +61,22 @@ The next stop was right across the road, the fish sauce factory. It was interest
 
 Next stop was Sao beach. I walked up and down the beach taking a few photos, and found the sun had gotten really fierce now. I could hardly see at all without my sunglasses but I'd opted to wear contacts this day so there were not an option initially. Where all the sunglasses guys now, hey? I accidentally rubbed a contact out of my eye at one point, so i switched to prescription sunnies and things were a lot more pleasant. I went for a nice swim in the lovely warm water with a large number of Vietnamese tourists, and not another westerner to be seen. Afterward I set on a deck chair in the shade on the beach and had delicious shrimp and cashew nuts for lunch.
 
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/7c5999a7e51831b94b2bc6d33a974d2b/tumblr_inline_mnlavlEARR1qz4rgp.jpg" /></p>
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/c59a56fa6c1f06a8bb1d51d7a10d7d98/tumblr_inline_mnlawsOr2U1qz4rgp.jpg" /></p>
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/997ed48ce81cad41dfefeb31e218d619/tumblr_inline_mnlaxjFD8t1qz4rgp.jpg" /></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/7c5999a7e51831b94b2bc6d33a974d2b/tumblr_inline_mnlavlEARR1qz4rgp.jpg" /></span></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/c59a56fa6c1f06a8bb1d51d7a10d7d98/tumblr_inline_mnlawsOr2U1qz4rgp.jpg" /></span></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/997ed48ce81cad41dfefeb31e218d619/tumblr_inline_mnlaxjFD8t1qz4rgp.jpg" /></span></p>
 <p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/1e0e0e74d826ac1819f54dc85cc36e8c/tumblr_inline_mnlay89ZUl1qz4rgp.jpg" /><em>It was super bright!</em></span></p>
 
 After a few hours we headed off towards a temple along some rather sketchy roads, which I filmed a very shaky video of for a bit. The temple was in a beautiful location up on the hill overlooking the coast.
 
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/ff2ee92ea62303948137444165701afe/tumblr_inline_mnlazcu2rj1qz4rgp.jpg" /></p>
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/83a2a2c121a38324452b594ceb5f27c4/tumblr_inline_mnlb0pNAoR1qz4rgp.jpg" /></p>
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/fefb8664f21be341f284a0b6a9edb097/tumblr_inline_mnlb1sOSgW1qz4rgp.jpg" /></p>
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/e741b9586286704715ff1e5aab73494a/tumblr_inline_mnlb37FMQ61qz4rgp.jpg" /></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/ff2ee92ea62303948137444165701afe/tumblr_inline_mnlazcu2rj1qz4rgp.jpg" /></span></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/83a2a2c121a38324452b594ceb5f27c4/tumblr_inline_mnlb0pNAoR1qz4rgp.jpg" /></span></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/fefb8664f21be341f284a0b6a9edb097/tumblr_inline_mnlb1sOSgW1qz4rgp.jpg" /></span></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/e741b9586286704715ff1e5aab73494a/tumblr_inline_mnlb37FMQ61qz4rgp.jpg" /></span></p>
 
 Last planned stop for the day was a pepper farm. I got to eat some green peppercorns fresh from the tree, which have quite a delayed kick to them. I nibbled on one and thought it wasn't that hot so I chewed on the rest of it and it suddenly got very hot indeed.
 
 <p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/de93b3192f342c197b76a619855cce86/tumblr_inline_mnlbnhGAZZ1qz4rgp.jpg" /><em>Pepper!</em></span></p>
-<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/43abb888732f533e856bfc40a7db423d/tumblr_inline_mnlb65HcXW1qz4rgp.jpg" /></p>
+<p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/43abb888732f533e856bfc40a7db423d/tumblr_inline_mnlb65HcXW1qz4rgp.jpg" /></span></p>
 
 At one point a large group of Vietnamese tourist started trying to whack down some fruit from high up in a tree with piece of bamboo, which Nsit told me was apparently very sour. A little 11 year old boy shared some of the odd sour fruit with me and commented on my 1UP mushroom hanging off my bag, so later I got some ripe berries for him from one of the trees that were too high for anyone else to reach. He was from HCMC and spoke great English.
 

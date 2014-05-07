@@ -64,12 +64,11 @@ During the balloon flight we saw our first hippos of the Serengeti, probably 20-
 
 We got to see the sun rise from the air, after which the balloon started casting a nice shadow silhouette on the ground.
 
-<a href="http://www.flickr.com/photos/lucasthenomad/10014727023/" title="Balloon shadow by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2889/10014727023_74a73e4dfb_c.jpg" width="800" height="601" alt="Balloon shadow"></a></p>
-</p>
+<a href="http://www.flickr.com/photos/lucasthenomad/10014727023/" title="Balloon shadow by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2889/10014727023_74a73e4dfb_c.jpg" width="800" height="601" alt="Balloon shadow"></a>
 
-As we flew further over the park we passed over a few lioness' and one very majestic male lion with a huge big mane who just sort of looked up at us, wondering what the heck we were I guess. I stupidly had my camera recording video so here's a photo a friend took:
+As we flew further over the park we passed over a few lioness' and one very majestic male lion with a huge big mane who just sort of looked up at us, wondering what the heck we were I guess. I stupidly had my camera recording video so here's a photo <a href="https://www.facebook.com/david.fenton.507">a friend</a> took:
 
-<a href="http://www.flickr.com/photos/lucasthenomad/10020294715/" title="Male Lion looking up at our ballon by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3827/10020294715_3c7d55e66d_c.jpg" width="800" height="534" alt="Photo stolen from <a href="https://www.facebook.com/david.fenton.507">David Fenton</a>"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/10020294715/" title="Male Lion looking up at our ballon by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3827/10020294715_3c7d55e66d_c.jpg" width="800" height="534" alt='Photo stolen from David Fenton. Thanks Daaaave!'></a>
 
 Most of the animals didn't seem to pay us much attention although we did manage to startle some buffalo when we were flying quite low, firing the burners caused them to look up suddenly and then dash off a short distance before realising we weren't a threat. At one point we were gliding so low that the basket actually skimmed over the top of an Acacia.
 

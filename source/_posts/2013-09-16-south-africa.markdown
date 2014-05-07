@@ -59,15 +59,14 @@ There were some volunteers up on the top deck of the boat who were trying to ide
 
 After all the customers had a turn in the cage they let staff & volunteers have a turn, and there were two extra spots so I jumped back in for another round. It turned out to be a fantastic decision on my part, as I while I was in the cage the second time a shark charged at the bait directly towards the cage and was too slow to turn after the bait was yoinked and it rammed right into the cage. Directly in front of me. It was fucking nuts, and the level of excitement in the cage was through the roof! Probably just as well it was mostly volunteers as I think some of the other people on the boat might have freaked the fuck out.
 
-<p class="flickr-image"><img src="http://2.media.collegehumor.cvcdn.com/96/27/921d080be5f1bc3745a4a993c2556db4-cigar-smoking-tommy-gun-wielding-bear-riding-a-shark-is-probably-the-b.jpg" width="800px" class="img-responsive"><br>
-<em>I didn't take my camera, but this is pretty much exactly what I saw</em></p>
+<p class="flickr-image-container"><span class="polaroid"><img src="http://2.media.collegehumor.cvcdn.com/96/27/921d080be5f1bc3745a4a993c2556db4-cigar-smoking-tommy-gun-wielding-bear-riding-a-shark-is-probably-the-b.jpg" class="img-responsive"><em>I didn't take my camera, but this is pretty much exactly what I saw</em></span></p>
 
 Aside from the antics I witnessed from inside the cage, I was also privileged enough to see not one, but two sharks attacking seals on the surface (not sure if they got away, we didn't see much after the initial splash) and we had a whale come up 15 Metres from the boat (with a whale watching boat following it :P).
 
 On the way back to shore we went through a channel called "Shark Alley". We didn't see any sharks, but the rocks along the side were covered in literally 1000's of seals! Everywhere you looked there was blubber flapping around. I can imagine it's like a buffet for the sharks!
 
-<p class="flickr-image"><img src="http://newswatch.nationalgeographic.com/files/2012/01/IMG_5963-950x585.jpg" class="img-responsive" width="800px"><br>
-<em>Seals in Shark Alley - Another shamelessly stolen image</em></p>
+<p class="flickr-image-container"><span class="polaroid"><img src="http://newswatch.nationalgeographic.com/files/2012/01/IMG_5963-950x585.jpg" class="img-responsive" >
+<em>Seals in Shark Alley - Another shamelessly stolen image</em></span></p>
 
 That evening I met up with Erin again for gelati, an odd choice for the middle of winter but it was her last night in Cape Town and it was a delicious choice.
 
@@ -89,11 +88,9 @@ That afternoon I made it out to Robben island, where they kept Nelson Mandela an
 
 I met a pleasant Italian lady named Paola who was also travelling alone, and we decided to get the City Site-Seeing bus together to see some of the more distance sites of cape town. We made stops in at the botanical gardens for a walk about, at a winery for a tour and tasting, and at a bay called Houts bay, a surreal bay that feels like there's mountains surrounding you on all sides where we saw some seals frolicking in shallow water.
 
-<a href="http://www.flickr.com/photos/lucasthenomad/9760886255/" title="Bird of paradise in the botanical gardens by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3679/9760886255_e89d197678_c.jpg" width="800" height="601" alt="Bird of paradise in the botanical gardens"></a><br>
-<em>Bird of paradise in the botanical gardens</em></p>
+<a href="http://www.flickr.com/photos/lucasthenomad/9760886255/" title="Bird of paradise in the botanical gardens by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3679/9760886255_e89d197678_c.jpg" width="800" height="601" alt="Bird of paradise in the botanical gardens"></a>
 
-<a href="http://www.flickr.com/photos/lucasthenomad/9760903495/" title="Wine tasting at Groot Constantia winery by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7451/9760903495_82b10ca109_c.jpg" width="800" height="601" alt="Wine tasting at Groot Constantia winery"></a><br>
-<em>Wine tasting at Groot Constantia winery</em></p>
+<a href="http://www.flickr.com/photos/lucasthenomad/9760903495/" title="Wine tasting at Groot Constantia winery by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7451/9760903495_82b10ca109_c.jpg" width="800" height="601" alt="Wine tasting at Groot Constantia winery"></a><
 
 <a href="http://www.flickr.com/photos/lucasthenomad/9760987393/" title="Hout's Bay by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5461/9760987393_1eb09f1220_c.jpg" width="800" height="450" alt="Hout's Bay"></a>
 

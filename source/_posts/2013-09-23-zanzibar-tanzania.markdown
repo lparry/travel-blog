@@ -127,8 +127,7 @@ We took a speedboat out to the reef near Mnemba Island, and when we were nearly 
 
 The dives themselves were fantastic! I saw some cool looking long-nose butterfly fish and some smaller blue bat-fish (which I looked up and are actually called a red lips triggerfish, which I think is a stupid name because I didn't even notice the red lips, but I sure did notice they were blue and swam like bats :P). I saw quite a large octopus strobe colours a bit at me, and then slunk away and hide under a rock, and we also found a turtle just chilling out on the reef, not phased by us in the slightest.
 
-<p class="flickr-image"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2f/Redtoothed_triggerfish.jpg" width="800" class="img-responsive">
-<em>A red lips triggerfish. See what I mean about the name being dumb? - stolen from wikimedia cause my camera doesnt like water</em></p>
+<p class="flickr-image-container"><span class="polaroid"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2f/Redtoothed_triggerfish.jpg" width="800" class="img-responsive"><em>A red lips triggerfish. See what I mean about the name being dumb? - stolen from wikimedia cause my camera doesnt like water</em></span></p>
 
 After our time on Zanzibar was over, the tour group got the ferry back over to Dar, and then another local ferry to where our overland truck was waiting for us and we got our first look at the place we'd come to know as "home" over the next 5 weeks. It was a huge orange thing, sort of like what you'd get if a semi-trailer and a coach loved each other very much and made a baby. Except we weren't allowed to call it a bus, cause it doesn't like that and breaks down if you do.
 

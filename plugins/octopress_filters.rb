@@ -105,7 +105,7 @@ module OctopressLiquidFilters
   end
 
   def rewrite_flickr_urls(input, url)
-    input.gsub %r(href=["']http://www\.flickr\.com/[^'"]*["']), %(href="#{url}")
+    input.gsub %r(href=["']https?://www\.flickr\.com/[^'"]*["']), %(href="#{url}")
   end
 
   # Improved version of Liquid's truncate:

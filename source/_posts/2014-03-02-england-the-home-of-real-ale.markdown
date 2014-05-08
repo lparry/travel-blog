@@ -374,9 +374,9 @@ wardrobe, try out a completely new style (or just _have_ a style really).
 
 <a href="http://www.flickr.com/photos/lucasthenomad/12846680913/in/set-72157641676939995" title="Camden High Street by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7304/12846680913_f9e7fbede6_c.jpg" width="800" height="601" alt="Camden High Street"></a>
 
-I visited Cyberdog, which I’m told is practically mandatory when going to
+I visited Cyberdog, which I'm told is practically mandatory when going to
 Camden, a store that pretty much doubles as a night club. The lights are dimmed,
-the UV lights are on, there’s a live hard trance DJ spinning records and
+the UV lights are on, there's a live hard trance DJ spinning records and
 everything. The place was full of rave clothes and cool trinkets. There was a
 cool Tetris night light that comes apart completely and the blocks light up as
 you stack them in whatever order you please. Also, Pacman ghost ponchos! Quite

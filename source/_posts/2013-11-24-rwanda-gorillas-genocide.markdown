@@ -10,7 +10,7 @@ tags: rwanda, gorillas, africa
 priority: 0.5
 ---
 
-As we approached Rwanda, the terrain started getting a lot more hilly than that of Uganda. We got to the border and queued up to hand in our passports and get our visa, all the while with locals trying to cut in line. I got given some minor grief over not having printed out the acceptance letter for my visa. I did have it in digital form and the letter has a giant bar code that one would assume they’d scan, but apparently it’s easier to put bar codes on letters than it is to put bar code scanners at the border.
+As we approached Rwanda, the terrain started getting a lot more hilly than that of Uganda. We got to the border and queued up to hand in our passports and get our visa, all the while with locals trying to cut in line. I got given some minor grief over not having printed out the acceptance letter for my visa. I did have it in digital form and the letter has a giant bar code that one would assume they'd scan, but apparently it's easier to put bar codes on letters than it is to put bar code scanners at the border.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/10914653853/" title="Welcome to the republic of Rwanda by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7305/10914653853_b847da95c6_c.jpg" width="800" height="600" alt="Welcome to the republic of Rwanda"></a>
 

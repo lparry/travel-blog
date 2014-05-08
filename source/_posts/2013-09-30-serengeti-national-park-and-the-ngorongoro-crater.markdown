@@ -84,7 +84,7 @@ Upon landing we had a Champagne breakfast and were told the entertaining story a
 
 <p class="excerpt">In 18th century France, there were educated people living in the city and there were landowners and peasants in the country. People in the rural areas often had little contact and connection to what was going on in the city.</p>
 
-<p class="excerpt">So, picture this, you are a peasant working in the fields and all of the sudden you see this balloon floating through the air with fire coming out of it. Is it an alien? An attacker? For peasants who hadn’t heard of hot air ballooning,  the sight of a balloon falling from the sky surprised and often frightened them; especially when they saw the pilot’s face covered in black from ash and soot from the fire keeping the balloon aloft.</p>
+<p class="excerpt">So, picture this, you are a peasant working in the fields and all of the sudden you see this balloon floating through the air with fire coming out of it. Is it an alien? An attacker? For peasants who hadn't heard of hot air ballooning,  the sight of a balloon falling from the sky surprised and often frightened them; especially when they saw the pilot's face covered in black from ash and soot from the fire keeping the balloon aloft.</p>
 
 <p class="excerpt">To avoid being attacked by the people they surprised, hot air balloon pilots carried Champagne or wine with them as a way to let onlookers know they were human and to thank them for the safe landing in their field.</p>
 

@@ -55,7 +55,7 @@ loved it and it was heaps of fun
 jonathan went into the bullring, partnered up with a local who was shitfaced
 drunk and tried to tie up a baby bull
 
-visit ot the local chocolate maker Went to a local chocolate maker and saw how they made chocolate, grinding the cocoa beans in a juicer with some cocoa butter, then put in another thing that rolled the chocolate over for 3 days to get it smooth. we then got to take a batch from 3 days ago and make our own chocolate bars. 75% dark chocolate. I made mine with coffee beans, chilli and sea salt. haven’t tried it yet but it sounds interesting
+visit ot the local chocolate maker Went to a local chocolate maker and saw how they made chocolate, grinding the cocoa beans in a juicer with some cocoa butter, then put in another thing that rolled the chocolate over for 3 days to get it smooth. we then got to take a batch from 3 days ago and make our own chocolate bars. 75% dark chocolate. I made mine with coffee beans, chilli and sea salt. haven't tried it yet but it sounds interesting
 
 two nights spinning fire, although I only spun on one night. didnt feel very
 coordinated. then the second night I felt off it all day and decided I didnt

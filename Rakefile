@@ -28,16 +28,14 @@ end
 
 desc "preview the site in a web browser"
 task :preview do
-
-  jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll serve --watch --drafts")
-
-  trap("INT") {
-    [jekyllPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
-    exit 0
-  }
-
-  [jekyllPid].each { |pid| Process.wait(pid) }
+  system "jekyll serve --watch --drafts"
 end
+
+desc "preview the production site in a web browser"
+task :preview_production do
+  system "jekyll serve --watch"
+end
+
 
 desc "mark a post as published, update the dates"
 task :publish_post, :filename do |t, args|

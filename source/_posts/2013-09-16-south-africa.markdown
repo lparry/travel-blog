@@ -90,7 +90,7 @@ I met a pleasant Italian lady named Paola who was also travelling alone, and we 
 
 <a href="http://www.flickr.com/photos/lucasthenomad/9760886255/" title="Bird of paradise in the botanical gardens by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3679/9760886255_e89d197678_c.jpg" width="800" height="601" alt="Bird of paradise in the botanical gardens"></a>
 
-<a href="http://www.flickr.com/photos/lucasthenomad/9760903495/" title="Wine tasting at Groot Constantia winery by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7451/9760903495_82b10ca109_c.jpg" width="800" height="601" alt="Wine tasting at Groot Constantia winery"></a><
+<a href="http://www.flickr.com/photos/lucasthenomad/9760903495/" title="Wine tasting at Groot Constantia winery by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7451/9760903495_82b10ca109_c.jpg" width="800" height="601" alt="Wine tasting at Groot Constantia winery"></a>
 
 <a href="http://www.flickr.com/photos/lucasthenomad/9760987393/" title="Hout's Bay by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5461/9760987393_1eb09f1220_c.jpg" width="800" height="450" alt="Hout's Bay"></a>
 

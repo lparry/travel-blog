@@ -56,7 +56,7 @@ The burners begin getting fired and the balloon slowly rises, eventually tipping
 
 Each balloon held 16 passengers and a pilot, and there were three balloons going up that morning. Our group was 15 people and we ended up getting a balloon to ourselve!
 
-<a href="http://www.flickr.com/photos/lucasthenomad/10014699263/" title="Hippos by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3775/10014699263_959423357b_c.jpg" width="800" height="450" alt="Hippos"></a></p>
+<a href="http://www.flickr.com/photos/lucasthenomad/10014699263/" title="Hippos by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3775/10014699263_959423357b_c.jpg" width="800" height="450" alt="Hippos"></a>
 
 During the balloon flight we saw our first hippos of the Serengeti, probably 20-30 of them concentrated in the water and dashing about nearby. From the roads the park feels like a completely flat and dry, yellow savannah; but from the air you see the gashes of green carved through the yellow where the waterways runs through, and there's actually quite a lot of animal activity in and around these parts.
 
@@ -136,7 +136,7 @@ We saw a pair of birds call grey crowned cranes which our driver explained to us
 
 We did manage to spot one male lion sleeping in the grass, and several females sleeping in the distance, but because the weather was cold the big cats were mostly sleeping, and sadly for us were largely well away from the road.
 
-<a href="http://www.flickr.com/photos/lucasthenomad/10014871603/" title="Sleepy male lion by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2852/10014871603_23a4d8c0b6_c.jpg" width="800" height="602" alt="Sleepy male lion"></a> </p>
+<a href="http://www.flickr.com/photos/lucasthenomad/10014871603/" title="Sleepy male lion by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2852/10014871603_23a4d8c0b6_c.jpg" width="800" height="602" alt="Sleepy male lion"></a>
 
 What we didn't see in terms of big cats was largely made up for by the number of hyenas we saw around. We must have seen at least 4-5 separate individuals or groups, one of with was a full family with a number of cubs playing. Very cute for a part of "the ugly 5"!
 

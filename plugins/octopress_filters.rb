@@ -1,22 +1,23 @@
 #custom filters for Octopress
-require './plugins/backtick_code_block'
+# require './plugins/backtick_code_block'
 require './plugins/post_filters'
-require './plugins/raw'
+#require './plugins/raw'
 require './plugins/date'
 require 'rubypants'
 
 module OctopressFilters
-  include BacktickCodeBlock
-  include TemplateWrapper
+  # include BacktickCodeBlock
+  # include TemplateWrapper
   def pre_filter(input)
-    input = render_code_block(input)
-    input.gsub /(<figure.+?>.+?<\/figure>)/m do
-      safe_wrap($1)
-    end
+    # input = render_code_block(input)
+    # input.gsub /(<figure.+?>.+?<\/figure>)/m do
+    #   safe_wrap($1)
+    # end
+    input
   end
   def post_filter(input)
-    input = unwrap(input)
-    RubyPants.new(input).to_html
+    # input = unwrap(input)
+    RubyPants.new(input.gsub(/’/, "'").gsub(/[“”]/, '"').gsub(/…/, "...")).to_html
   end
 end
 
@@ -39,50 +40,6 @@ end
 
 module OctopressLiquidFilters
   include Octopress::Date
-
-  # Used on the blog index to split posts on the <!--more--> marker
-  def excerpt(input)
-    if input.index(/<!--\s*more\s*-->/i)
-      input.split(/<!--\s*more\s*-->/i)[0]
-    else
-      input
-    end
-  end
-
-  # Checks for excerpts (helpful for template conditionals)
-  def has_excerpt(input)
-    input =~ /<!--\s*more\s*-->/i ? true : false
-  end
-
-  # Gets a person's profile, ignoring their open source content
-  def person_profile(input)
-    if input.index(/<!--\s*projects\s*-->/i)
-      input.split(/<!--\s*projects\s*-->/i)[0]
-    else
-      input
-    end
-  end
-
-  # Gets a person's open source content
-  def person_projects(input)
-    if input.index(/<!--\s*projects\s*-->/i)
-      input.split(/<!--\s*projects\s*-->/i)[1]
-    end
-  end
-
-  # Checks for a person's open source content
-  def has_projects(input)
-    input =~ /<!--\s*projects\s*-->/i ? true : false
-  end
-
-  # Summary is used on the Archive pages to return the first block of content from a post.
-  def summary(input)
-    if input.index(/\n\n/)
-      input.split(/\n\n/)[0]
-    else
-      input
-    end
-  end
 
   # Extracts raw content DIV from template, used for page description as {{ content }}
   # contains complete sub-template code on main page level
@@ -162,46 +119,3 @@ module OctopressLiquidFilters
 end
 Liquid::Template.register_filter OctopressLiquidFilters
 
-
-# not true filters
-module CDNLiquidFilters
-  def fontawesome_url_for_environment(_)
-    if ENV["OCTOPRESS_ENV"] == "preview"
-      "/css/font-awesome/font-awesome.css"
-    else
-      "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
-    end
-  end
-
-  def swanky_and_moo_moo_url_for_environment(_)
-    if ENV["OCTOPRESS_ENV"] == "preview"
-      "/fonts/google-webfonts/swanky-and-moo-moo.css"
-    else
-      "http://fonts.googleapis.com/css?family=Swanky+and+Moo+Moo"
-    end
-  end
-
-  def lato_url_for_environment(_)
-    if ENV["OCTOPRESS_ENV"] == "preview"
-      "/fonts/google-webfonts/lato.css"
-    else
-      "http://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,700,700italic"
-    end
-  end
-
-
-
-  def jquery_url_for_environment(_)
-    if ENV["OCTOPRESS_ENV"] == "preview"
-      "/js/jquery-1.10.2.js"
-    else
-      "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
-    end
-  end
-
-  def octopress_env(_)
-    ENV["OCTOPRESS_ENV"]
-  end
-
-end
-Liquid::Template.register_filter CDNLiquidFilters

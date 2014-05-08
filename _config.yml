@@ -1,57 +1,28 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
-url: "http://www.lucasthenomad.com"
+# Site settings
+name: Lucas The Nomad
 title: Lucas The Nomad
-subtitle: "He's a nomad"
 author:  Lucas
-simple_search: http://google.com/search
-description: "Lucas the nomad"
+email: lparry@gmail.com
+description: "Lucas The Nomad"
+baseurl: ""
+url: "http://www.lucasthenomad.com"
+permalink: /:year/:month/:day/:title
 
-# Default date format is "ordinal" (resulting in "July 22nd 2007")
-# You can customize the format as defined in
-# http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
-# Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
-
-# RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
-# RSS feeds can list your email address if you like
-email:
-
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
-
-# If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
-#permalink: /blog/:title/
-permalink: /:categories/:year/:month/:day/:title
-source: source
+# Build settings
+markdown: kramdown
+permalinks: pretty
+source:  source
 destination: public
 plugins: plugins
-code_dir: downloads/code
-#category_dir: blog/categories
-markdown: rdiscount
-pygments: false # default python pygments have been replaced by pygments.rb
+exclude: [vendor, .git]
 
-paginate: 5          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
+date_format: "ordinal"
 
-titlecase: false       # Converts page and post titles to titlecase
+paginate:      5          # Posts per page on the blog index
+paginate_path: "/blog/page/:num"
+excerpt_separator: "<!-- more -->"
 
-lsi: false     # Latent Semantic Indexing, enable for Related Posts https://github.com/jcftang/octopress-relatedposts
+sass:
+    sass_dir: _sass
+    style: :compressed
 
-# list each of the sidebar modules you want to include, in the order you want them to appear.
-# To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-#default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
-default_asides: []
-
-# Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
-# and add an array with the asides you want to use.
-blog_index_asides: []
-# post_asides:
-# page_asides:

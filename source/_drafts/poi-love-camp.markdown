@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "Poi Love Camp"
-date: 2014-01-26 20:08
 tags: Costa-Rica, Finca-Mia, Poi
-published: false
-dont_cache_images: true
-priority: 0.5
 ---
 Poi Love Camp was an 11 day retreat held in Costa Rica being run by the man
 behind [PlayPoi](http://www.playpoi.com), Nick Woolsey, featuring one of my

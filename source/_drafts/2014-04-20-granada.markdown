@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "Granada"
-date: 2014-04-20 17:07
 tags: Granada, Spain, Alhambra, Andalusia, Tapas
-description:
-published: false
-priority: 0.5
 ---
 
 From Barcelona I caught the overnight train to Granada. It left fairly late in the

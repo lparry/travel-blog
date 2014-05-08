@@ -1,13 +1,18 @@
+require "stringex"
+
+## -- Deploy Configs -- ##
+
  deploy_default = "push"
  deploy_branch  = "master"
-#
-# ## -- Misc Configs -- ##
+
+## -- Misc Configs -- ##
 
 public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 # stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
+drafts_dir      = "_drafts"    # directory for blog files
 new_post_ext    = "markdown"  # default new post file extension when using the new_post task
 server_port     = "4000"      # port for preview server eg. localhost:4000
 
@@ -24,7 +29,7 @@ end
 desc "preview the site in a web browser"
 task :preview do
 
-  jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll serve --watch")
+  jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll serve --watch --drafts")
 
   trap("INT") {
     [jekyllPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
@@ -41,8 +46,10 @@ task :publish_post, :filename do |t, args|
   time = Time.now
   lines = File.read(filename).lines
 
-  lines.select{|l| l =~ /date: /}.first.sub!(/date: \d\d\d\d-\d\d-\d\d \d\d:\d\d/, "date: #{Time.now.strftime("%Y-%m-%d %H:%M") }")
-  lines.select{|l| l =~ /published: /}.first.sub!(/published: false/, "published: true")
+  line = lines.shift
+  lines.unshift "date: #{time.strftime("%Y-%m-%d %H:%M") }\n"
+  lines.unshift line
+
   title =  lines.select{|l| l =~ /title: /}.first.sub(/title: /, "").gsub(/"/,"").chomp.to_url
 
   new_filename = "#{source_dir}/#{posts_dir}/#{time.strftime("%Y-%m-%d")}-#{title.to_url}.markdown"
@@ -55,30 +62,27 @@ task :publish_post, :filename do |t, args|
 end
 
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
-desc "Begin a new post in #{source_dir}/#{posts_dir}"
+desc "Begin a new post in #{source_dir}/#{drafts_dir}"
 task :new_post, :title do |t, args|
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   mkdir_p "#{source_dir}/#{posts_dir}"
   args.with_defaults(:title => 'new-post')
   title = args.title
-  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  filename = "#{source_dir}/#{drafts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
-    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+    abort("rake aborted!")
   end
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
-    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "tags: example, tag"
-    post.puts "description: "
-    post.puts "published: false"
     post.puts "dont_cache_images: true"
-    post.puts "priority: 0.5"
     post.puts "---"
     post.puts "Intro"
     post.puts "<!-- more -->"
+    post.puts "Body"
   end
 end
 

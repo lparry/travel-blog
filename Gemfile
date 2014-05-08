@@ -9,6 +9,7 @@ group :development do
   gem 'httparty' # flickr image fetching
   gem 'nokogiri' # flickr image fetching and caching
   gem 'rubypants' # for smart quotes
+  gem 'stringex'
 end
 
 gem 'sinatra'

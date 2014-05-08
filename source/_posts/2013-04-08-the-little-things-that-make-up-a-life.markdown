@@ -47,5 +47,5 @@ rid of much stuff until now.
 
 I'm aiming to have little enough stuff I'm taking with me that I'll be able to
 fit into a 40L pack. I'm hoping I can get my life outside of that bag down to
-maybe 1 or 2 50cm^3 boxes that I need to find homes for, but at this point that
+maybe 1 or 2 50cm<sup>3</sup> boxes that I need to find homes for, but at this point that
 seems like quite a challenge. Wish me Luck!

@@ -177,4 +177,12 @@ end
 #   end
 # end
 
+desc "list the paths of drafts that can be published."
+task :drafts do
+  
+  Dir.glob("#{source_dir}/#{drafts_dir}/*").each do |draft|
+    puts %(rake "publish_post[#{draft}]")
+  end
+end
+
 task :default => :preview

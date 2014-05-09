@@ -155,79 +155,74 @@ My next and final stop in Spain was in Málaga. It wasn't a place I'd ever reall
 even heard of before, but I was flying out from there so I thought I'd give it
 a look.
 
-* Hostel had a thing on where you could watch their cook making Paella then get
-  to eat it for 5€. Met some nice people in the hostel, Lisa from Switzerland,
-  Annika from Germany and Joni from Finland.
-* Went out for drinks with those guys and ended up at a pub trivia thing. A
-  friend of Annika's, Lilia and her brother Thomas also came along
-* End up going out in search of a place with €0.40 beers that Lilia saw, fail to
-  find it, probably closed
-* Find a place where we can get budweiser for €1.5, so we all have a beer and
-  wander around in some busy squares before calling it a night.
-* Got home to find the other german girl from my room outside the door, the
-  alcoholic in our room had “wet” one of the other beds and was now sleeping in
-  yet another bed, so she didn't want to be in there alone with him. we went to
-  reception and both go moved to another room. fucking crazy people.
+The hostel I stayed in had a thing running that night where you could help their
+cook make paella and then get to eat it afterwards, although it ended up move
+like watching the cook make it while getting to meet some other people in the
+hostel: Annika, a German girl studying in Spain, Joni, a Finland guy on
+holidays, and another guy from Finland who's name I didn't get, but who was
+shit-faced drunk, quite rude, and kept mentioning how he had an alcohol problem.
 
+Those of us who weren't complete alcoholics went out for a few drinks (the
+irony) after dinner and ended up in a pub trivia competition after meeting up
+with a friend of Annika's named Lilia and her brother Thomas. I don't remember
+how we went at trivia, almost certainly not well, but it was a really nice
+evening out.
 
-* came down and had bacon and eggs for breakfast, it's nice staying somewhere
-  with a cook even if you have to pay for it
-* went on a free walking tour, Annika came along too.
-* Run by an Australian girl Natalie, who's sisters Vanessa and Shelly were
-  visiting from where they live in London. They also had a dutch-belgian friend
-  Karyn and were all really lovely. Also a french-belgian girl named zoeie who
-  was nice as well. A bit funny really, I was the only guy on the tour at all.
-* The tour was good, went around Málaga and showed us the sites. I was probably
-  a bit more interested in socialising. Felt nice to be a bit outgoing and get
-  to know the people on the tour.
-* went out for some Tapas & paella with the Vanessa aussie girls (it was Natalies
-  birthday) and their begian friend
-* After 2 beers, it was getting a bit late in the afternoon so I headed off by
-  myself to find a park and practice the poi basics I need to have sorted by
-  January. Put on glitch mob and spun for about an hour. started to get reverse
-  thread the needle, still troubled by reverse butterfly with right hand on top,
-  but surprisingly I felt like some of the stuff I was struggling with last time
-  I spun had sorted itself out. maybe I just needed time to digest the new
-  knowledge
-* went to room and lay down and slept for a little bit, then went down and found
-  Annika and made plans for the evening with her.
-* met up with Annika and Ivi from Canada, Toronto, went out and had dinner at
-  some divey little place near the port
-* Lilla and Thomas came and caught up with us again
-* went out for drinks at the 0.40€ beer place
+When I got back to the hostel I found a girl who was staying in my dorm standing
+sort of awkwardly outside the door. Apparently the raging alcoholic was asleep
+in someone else's bed, as he'd wet his own bed and the one below it, and quite
+rightly she didn't want to be in there alone with him. The fun people you meet
+in hostels! We went down to reception to see would could be done and they very
+apologetically sorted us out and moved us into another room.
 
-* Go up to the castle
-* long walk up the hill, thankfully mostly in the shade
-* sat and rested at a nice lookout overlooking the sea
-* got to the castle at 2pm and was happy to find out that it's free admission
-  from 2pm on Sundays
-* castle was nice and peaceful, triangle topped wall thingies probably done by
-  the moors
-* came back to the hostel, chilled for a little bit then met up with Annika and
-  an American guy from Idaho, went out for beer and tapas. Delicious cuttlefish
-  cubes
+I went on yet another free walking tour which was given by an Australian girl
+Natalie. It happened to be her birthday it was and it was her first time giving
+a tour, so her sisters Vanessa and Shelly who were visiting from London got us
+all to sing her happy birthday at the end of the tour.
 
-* sorted bag out a bit and worked out what I want to mail home. Bye bye zoom
-  lens, bye awesome patchwork jacket
-* went to post office and mailed home camera lens and Granada hoodie
-* went and had churros con chocolate at a place that had been open pretty much
-  forever, so delicious
-
-
-<a href="http://www.flickr.com/photos/lucasthenomad/13921623599/in/set-72157644463351646" title="Bricky tower of some church by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7307/13921623599_281d7111bc_c.jpg" width="601" height="800" alt="Bricky tower of some church"></a>
+The tour was good, went around Málaga and showed us the sites, although I was
+probably a bit more interested in socialising. I didn't really meet anyone in
+Seville or Cordoba so it was nice to have some people to talk with.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/13921701700/in/set-72157644463351646" title="Wine from the barrel by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2910/13921701700_236ca21f56_c.jpg" width="800" height="601" alt="Wine from the barrel"></a>
 
+The tour visited this little tiny bar where you buy a glass of wine, straight
+from the barrel. They had white wines and reds, sweet and dry; what I tried was
+pretty good stuff.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/14108309865" title="Tasty deli by Lucas Parry, on Flickr"><img src="https://farm8.staticflickr.com/7058/14108309865_01eac7f8bf_c.jpg" width="800" height="601" alt="Tasty deli"></a>
+
+We also went into a market full of tasty delis, with all the olives a person
+could want, unless they didn't like olives in which case it would probably be
+too many.
+
 <a href="http://www.flickr.com/photos/lucasthenomad/14128412563/in/set-72157644463351646" title="Catherdral with an unfinished tower by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7367/14128412563_57bd5ffc50_c.jpg" width="800" height="601" alt="Catherdral with an unfinished tower"></a>
+
+We stopped under this cathedral which was supposed to be symmetrical but they
+ran out of money and never finished it, so it has only one finished tower. I
+think it's a bit more interesting this way anyway.
+
+My afternoon consisted of a tapas lunch and a few beers with the Aussie girls
+from the tour, then practicing spinning poi in a park for a while before going
+home and having a nap. Then I went out for dinner with Annika and another girl
+she'd met, Iva from Canada, at a little seafood place near the port, before
+meeting up with Lilla and Thomas again for some €0.40 beers.  It's a hard life
+being a traveller sometimes. :P
 
 <a href="http://www.flickr.com/photos/lucasthenomad/13921692457/in/set-72157644463351646" title="Málaga by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5533/13921692457_71c44ab055_c.jpg" width="800" height="450" alt="Málaga"></a>
 
+On Sunday I made a long walk up the hill to visit the Castle of Gibralfaro,
+which was thankfully mostly shaded. I arrived just after 2pm, and conveniently
+for me it happened to be free after 2pm on Sundays so I got in for nothing. The
+castle was pretty peaceful, and you were able to walk around the tops of many of
+the walls and have a nice view over the city.
+
 <a href="http://www.flickr.com/photos/lucasthenomad/14105274272/in/set-72157644463351646" title="Castle wall by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2919/14105274272_68dd815cb4_c.jpg" width="601" height="800" alt="Castle wall"></a>
 
-
-* found a place selling razors, came back to hostel and cut off my beard
-* amazed by just how stupidly large the moustache is, feel like I'm wearing a
-  silly disguise
+The square-ish bits at the top of the wall were topped by triangles (check out
+that terminology, they don't call me a castle-ologist for nothing!), which
+someone told me is something to Moors would do to make Roman walls their own or
+something.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14105301372/in/set-72157644463351646" title="*jaws music* by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5564/14105301372_4e0e7faf69_c.jpg" width="600" height="800" alt="*jaws music*"></a>
 
@@ -241,4 +236,5 @@ Of course I didn't cut it all off right away :P I'd been working on growing out
 a handlebar moustache from the beard for a few weeks and thought I'd let it
 stand on it's own for a little while, as a bit of a laugh for the friends who I
 was going to spend Christmas with. I still get a smile looking at this photo,
-thinking about just how over the top it is!
+thinking about just how over the top it is! It really felt like I was wearing a
+fake moustache disguise when I first shaved it back to this.

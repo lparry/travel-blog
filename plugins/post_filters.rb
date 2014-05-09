@@ -89,7 +89,7 @@ module Jekyll
   module Convertible
 
     def is_post?
-      %w[Jekyll::Post Jekyll::Excerpt].include? self.class.to_s
+      kind_of?(Jekyll::Post) || kind_of?(Jekyll::Excerpt)
     end
 
     def is_page?

@@ -116,39 +116,45 @@ I did get a tip from the tour guide that if I only visited once place, that the
 Alcázar should be it, so after some difficulty actually locating it (Seville is
 like a maze in the old area) I checked it out.
 
-* Headed out to find the Alcazar, the palace of Seville, rain beginning to
-  drizzle
-* Alcázar is a stunning building, lots of parts from lots of different periods
-* really starting to appreciate the arabic style of decoration, where their
-  religion prohibits them from creating a likeness of things, so they have lots
-  of geometric patterns and carvings
-* lots of beautiful court yards, and huge gardens outside, but the rain stopped
-  me from exploring the gardens much
-
 <a href="http://www.flickr.com/photos/lucasthenomad/14084997556/in/set-72157644463351646" title="Alcázar of Seville by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5231/14084997556_dd797d2f95_c.jpg" width="601" height="800" alt="Alcázar of Seville"></a>
+
+The Alcázar is a stunning building and a royal palace. It has been added do by
+each of the monarchs who have occupied it leading to a mix of a lot of different
+styles from a lot of different periods.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14105067702/in/set-72157644463351646" title="Golden dome ceiling by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7189/14105067702_14497fe666_c.jpg" width="800" height="601" alt="Golden dome ceiling"></a>
 
+I'm really starting to appreciate the Moorish style of decoration, where because
+their religion prohibits them from creating a likeness of things  they have lots
+of intricate geometric patterns and carvings as decoration. I find it much more
+aesthetically pleasing decoration than paintings and statues.
+
 <a href="http://www.flickr.com/photos/lucasthenomad/14104838381/in/set-72157644463351646" title="Water feature by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5578/14104838381_1afea7139b_c.jpg" width="601" height="800" alt="Water feature"></a>
 
-<a href="http://www.flickr.com/photos/lucasthenomad/14105104742/in/set-72157644463351646" title="Very manky Baths of Lady María de Padilla by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7178/14105104742_692eda4eb8_c.jpg" width="800" height="601" alt="Very manky Baths of Lady María de Padilla"></a>
-
-
-
-* Head out to explore a bit after dark, find the mushroom parasol thingy is open
-  so go up and have a look and take some photos
-
-<a href="http://www.flickr.com/photos/lucasthenomad/13921571459/in/set-72157644463351646" title="On top of the Metropol Parasol by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5465/13921571459_b78a62036f_c.jpg" width="800" height="601" alt="On top of the Metropol Parasol"></a>
+There were lots of beautifully decorated court yards, and some huge green
+gardens outside, but rain that day impeded me from exploring the external parts
+of the palace very much.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14085111856/in/set-72157644463351646" title="Metropol Parasol by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5509/14085111856_b380ca185e_c.jpg" width="800" height="601" alt="Metropol Parasol"></a>
 
-* Went and had churros con chocolate for breakfast
+In the evening I went and explored one of the stranger, non-traditional
+attractions of Seville: The Metropol Parasol. It's a huge wooden structure,
+several stories high, apparently the largest wooden structure in the world. It
+looks kind of like those [wooden dinosaur
+kits](https://www.google.com/search?q=wood+dinosaur+kit&tbm=isch) you'd beg for
+at museums when you were a kid (or was that just us geeks?), except instead of a
+dinosaur they got some crazy mushroom looking thing.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/13921571459/in/set-72157644463351646" title="On top of the Metropol Parasol by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5465/13921571459_b78a62036f_c.jpg" width="800" height="601" alt="On top of the Metropol Parasol"></a>
 
-  Malaga
+At night it's all lit up with coloured lights and looks pretty funky. You can
+pay a few euro to get up on top of it and walk around the path, there's even a
+few bars up there and you get a free drink with your admission!
 
-* Checked in, got some afternoon snacks and a huge 1L beer, then sat down and
-  booked flights and stuff to go to Poi Love camp in Costa Rica. Super exciting!
+My next and final stop in Spain was in Málaga. It wasn't a place I'd ever really
+even heard of before, but I was flying out from there so I thought I'd give it
+a look.
+
 * Hostel had a thing on where you could watch their cook making Paella then get
   to eat it for 5€. Met some nice people in the hostel, Lisa from Switzerland,
   Annika from Germany and Joni from Finland.
@@ -218,10 +224,21 @@ like a maze in the old area) I checked it out.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14105274272/in/set-72157644463351646" title="Castle wall by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2919/14105274272_68dd815cb4_c.jpg" width="601" height="800" alt="Castle wall"></a>
 
-<a href="http://www.flickr.com/photos/lucasthenomad/14105301372/in/set-72157644463351646" title="*jaws music* by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5564/14105301372_4e0e7faf69_c.jpg" width="600" height="800" alt="*jaws music*"></a>
 
 * found a place selling razors, came back to hostel and cut off my beard
 * amazed by just how stupidly large the moustache is, feel like I'm wearing a
   silly disguise
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14105301372/in/set-72157644463351646" title="*jaws music* by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5564/14105301372_4e0e7faf69_c.jpg" width="600" height="800" alt="*jaws music*"></a>
+
+The very last thing I did before leaving Spain was to hack off my 6-7 months of
+beard growth off. It just felt like it was time to show the world I still had a
+face under all that hair.
+
 <a href="http://www.flickr.com/photos/lucasthenomad/14105307192/in/set-72157644463351646" title="Ridiculous handlebars by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7179/14105307192_6f4f4ed294_c.jpg" width="600" height="800" alt="Ridiculous handlebars"></a>
+
+Of course I didn't cut it all off right away :P I'd been working on growing out
+a handlebar moustache from the beard for a few weeks and thought I'd let it
+stand on it's own for a little while, as a bit of a laugh for the friends who I
+was going to spend Christmas with. I still get a smile looking at this photo,
+thinking about just how over the top it is!

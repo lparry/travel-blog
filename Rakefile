@@ -1,4 +1,4 @@
-require "stringex"
+require "stringex_lite"
 
 ## -- Deploy Configs -- ##
 

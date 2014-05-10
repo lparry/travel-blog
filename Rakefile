@@ -38,9 +38,18 @@ end
 
 
 desc "mark a post as published, update the dates"
-task :publish_post, :filename do |t, args|
-  raise "file not found" unless File.exist?(args[:filename])
-  filename = args[:filename]
+task :publish do
+  drafts = Dir.glob("#{source_dir}/#{drafts_dir}/*")
+
+  puts "List of drafts:"
+  drafts.each_with_index do |draft, index|
+    puts "  #{index + 1}) #{File.basename(draft)}"
+  end
+  number = ask("Which draft do you wish to publish? ").to_i 
+  raise "invalid choice: #{number}" unless number.between?(1, drafts.size)
+
+  filename = drafts[number-1]
+
   time = Time.now
   lines = File.read(filename).lines
 
@@ -57,6 +66,8 @@ task :publish_post, :filename do |t, args|
   end
 
   `git mv "#{filename}" "#{new_filename}"`
+
+  puts "Post published:\n  #{filename} => #{new_filename}"
 end
 
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
@@ -142,47 +153,18 @@ multitask :push do
   end
 end
 
-# desc "Update configurations to support publishing to root or sub directory"
-# task :set_root_dir, :dir do |t, args|
-#   puts ">>> !! Please provide a directory, eg. rake config_dir[publishing/subdirectory]" unless args.dir
-#   if args.dir
-#     if args.dir == "/"
-#       dir = ""
-#     else
-#       dir = "/" + args.dir.sub(/(\/*)(.+)/, "\\2").sub(/\/$/, '');
-#     end
-#     rakefile = IO.read(__FILE__)
-#     rakefile.sub!(/public_dir(\s*)=(\s*)(["'])[\w\-\/]*["']/, "public_dir\\1=\\2\\3public#{dir}\\3")
-#     File.open(__FILE__, 'w') do |f|
-#       f.write rakefile
-#     end
-#     compass_config = IO.read('config.rb')
-#     compass_config.sub!(/http_path(\s*)=(\s*)(["'])[\w\-\/]*["']/, "http_path\\1=\\2\\3#{dir}/\\3")
-#     compass_config.sub!(/http_images_path(\s*)=(\s*)(["'])[\w\-\/]*["']/, "http_images_path\\1=\\2\\3#{dir}/images\\3")
-#     compass_config.sub!(/http_fonts_path(\s*)=(\s*)(["'])[\w\-\/]*["']/, "http_fonts_path\\1=\\2\\3#{dir}/fonts\\3")
-#     compass_config.sub!(/css_dir(\s*)=(\s*)(["'])[\w\-\/]*["']/, "css_dir\\1=\\2\\3public#{dir}/css\\3")
-#     File.open('config.rb', 'w') do |f|
-#       f.write compass_config
-#     end
-#     jekyll_config = IO.read('_config.yml')
-#     jekyll_config.sub!(/^destination:.+$/, "destination: public#{dir}")
-#     jekyll_config.sub!(/^subscribe_rss:\s*\/.+$/, "subscribe_rss: #{dir}/atom.xml")
-#     jekyll_config.sub!(/^root:.*$/, "root: /#{dir.sub(/^\//, '')}")
-#     File.open('_config.yml', 'w') do |f|
-#       f.write jekyll_config
-#     end
-#     rm_rf public_dir
-#     mkdir_p "#{public_dir}#{dir}"
-#     puts "## Site's root directory is now '/#{dir.sub(/^\//, '')}' ##"
-#   end
-# end
+task :default => :preview
 
-desc "list the paths of drafts that can be published."
-task :drafts do
-  
-  Dir.glob("#{source_dir}/#{drafts_dir}/*").each do |draft|
-    puts %(rake "publish_post[#{draft}]")
+def ask(message, valid_options = nil)
+  if valid_options
+    answer = get_stdin("#{message} #{valid_options.to_s.gsub(/"/, '').gsub(/, /,'/')} ")
+  else
+    answer = get_stdin(message)
   end
+  answer
 end
 
-task :default => :preview
+def get_stdin(message)
+  print message
+  STDIN.gets.chomp
+end

@@ -5,7 +5,7 @@ tags: humblebrag
 dont_cache_images: true
 ---
 
-*birthday cake image here*
+<p class="flickr-image-container"><span class="polaroid"><img src="/images/first-birthday-cake.jpg" alt="birthday cake" class="img-responsive"></span></p>
 
 So today marks my first travel birthday. One year ago today I boarded my first
 flight of this trip, leaving my home in Melbourne and headed out to see the

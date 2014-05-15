@@ -77,7 +77,7 @@ task :new_post, :title do |t, args|
   mkdir_p "#{source_dir}/#{posts_dir}"
   args.with_defaults(:title => 'new-post')
   title = args.title
-  filename = "#{source_dir}/#{drafts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  filename = "#{source_dir}/#{drafts_dir}/#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!")
   end

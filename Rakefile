@@ -28,7 +28,7 @@ end
 
 desc "preview the site in a web browser"
 task :preview do
-  system "jekyll serve --watch --drafts"
+  system "OCTOPRESS_ENV=preview jekyll serve --watch --drafts"
 end
 
 desc "preview the production site in a web browser"

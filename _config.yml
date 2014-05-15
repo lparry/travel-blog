@@ -18,7 +18,7 @@ exclude: [vendor, .git]
 
 date_format: "ordinal"
 
-paginate:      5          # Posts per page on the blog index
+paginate:      10          # Posts per page on the blog index
 paginate_path: "/blog/page/:num"
 excerpt_separator: "<!-- more -->"
 

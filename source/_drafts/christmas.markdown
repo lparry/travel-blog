@@ -102,8 +102,7 @@ hilarious genre of hip-hop performed by very proper, steam-punk-esk British
 gentlemen, rapping about important things like tea, being British and fighting
 trousers. Here's a video clip to give you an idea of what it's like:
 
-VIDEO OF BROWN JOY HERE
-<div class="videowrapper"><iframe width="640" height="480" src="" frameborder="0" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="640" height="480" src="http://www.youtube.com/embed/eELH0ivexKA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 The night has a fancy dress steam punk theme, which made my moustache very well
 received. I even had a few people so impressed that they were buying me drinks.
@@ -144,8 +143,9 @@ They have a nice statue to Alan Turing, along with a copy of the British apology
 for his treatment for being gay.
 
 We ducked across to the nearby computer history museum to have a look around
-there as well. They have a recreation of colossus, ????? . It was mamoth in size
-and crazy noisy.
+there as well. They have a recreation of colossus, the world's first electronic
+digital computer that was at all programmable. It was mammoth in size and crazy
+noisy.
 
 They had a working PDP-11, complete with text adventure game, but sadly it
 wasn't powered up that afternoon. The thing was as big as 4-5 full height server

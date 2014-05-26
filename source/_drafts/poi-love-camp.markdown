@@ -3,20 +3,27 @@ layout: post
 title: "Poi Love Camp"
 tags: Costa-Rica, Finca-Mia, Poi
 ---
-Poi Love Camp was an 11 day retreat held in Costa Rica being run by the man
-behind [PlayPoi](http://www.playpoi.com), Nick Woolsey, featuring one of my
-favourite spinners Jonathan Alvarez and the amazingly talented Alien Jon. It'd
-been on my radar for a little while, but it wasn't until a few days before
-Christmas when I decided that I needed to get out of the European winter that I
-actually seriously thought about going, and a day later had bought flights and
-tickets to what ended up being one of the most fun fortnights I've every had.
+
+Poi Love Camp was an 11 day retreat about spinning poi, held in Costa Rica being
+run by Nick Woolsey, the man behind [PlayPoi](http://www.playpoi.com). Also
+teaching there were one of my most inspirational spinners Jonathan Alvarez and
+the amazingly talented Alien Jon. It'd been on my radar for a little while, but
+it wasn't until a few days before Christmas when I decided that I needed to get
+out of the European winter that I really seriously thought about going, and a
+day later had bought flights and tickets to what ended up being one of the most
+fun fortnights I've every had.
 
 <!-- more -->
 
-It was held at a property near [Cerro Chirripó](http://en.wikipedia.org/wiki/Cerro_Chirrip%C3%B3) called Finca Mia, a beautiful eco retreat up in the hills with a pretty little river running through it.
+It was held at a property near [Cerro
+Chirripó](http://en.wikipedia.org/wiki/Cerro_Chirrip%C3%B3) called Finca Mia, a
+beautiful eco-retreat up in the hills, with a pretty little river running
+through the property.
 
-my cabin had 3 walls and a curtain for the fourth wall, facing the direction
-that the sun rises
+I got lucky and got a cabin to myself called the sunrise cabin. It only had 3
+walls and a curtain for the fourth wall, facing the direction that the sun
+rises. It was kind of surreal having a room that just opened straight out into
+the forest!
 
 first night quite intimidated to spin in front of jon and nick
 

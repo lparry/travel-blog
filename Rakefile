@@ -17,6 +17,8 @@ new_post_ext    = "markdown"  # default new post file extension when using the n
 server_port     = "4000"      # port for preview server eg. localhost:4000
 
 
+task :default => :work
+
 # #######################
 # # Working with Jekyll #
 # #######################
@@ -37,18 +39,18 @@ task :preview_production do
 end
 
 
+desc "open a draft in mvim"
+task :work do
+  drafts = Dir.glob("#{source_dir}/#{drafts_dir}/*")
+  filename = pick_draft(drafts, "Which draft do you wish to work on? ")
+  `open "#{filename}"`
+end
+
 desc "mark a post as published, update the dates"
 task :publish do
+
   drafts = Dir.glob("#{source_dir}/#{drafts_dir}/*")
-
-  puts "List of drafts:"
-  drafts.each_with_index do |draft, index|
-    puts "  #{index + 1}) #{File.basename(draft)}"
-  end
-  number = ask("Which draft do you wish to publish? ").to_i 
-  raise "invalid choice: #{number}" unless number.between?(1, drafts.size)
-
-  filename = drafts[number-1]
+  filename = pick_draft(drafts, "Which draft do you wish to publish? ")
 
   time = Time.now
   lines = File.read(filename).lines
@@ -153,7 +155,6 @@ multitask :push do
   end
 end
 
-task :default => :preview
 
 def ask(message, valid_options = nil)
   if valid_options
@@ -167,4 +168,16 @@ end
 def get_stdin(message)
   print message
   STDIN.gets.chomp
+end
+
+def pick_draft(drafts, message)
+
+  puts "List of drafts:"
+  drafts.each_with_index do |draft, index|
+    puts "  #{index + 1}) #{File.basename(draft)}"
+  end
+  number = ask(message).to_i 
+  raise "invalid choice: #{number}" unless number.between?(1, drafts.size)
+
+  drafts[number-1]
 end

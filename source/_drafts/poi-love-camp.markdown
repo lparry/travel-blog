@@ -20,45 +20,129 @@ Chirripó](http://en.wikipedia.org/wiki/Cerro_Chirrip%C3%B3) called Finca Mia, a
 beautiful eco-retreat up in the hills, with a pretty little river running
 through the property.
 
-I got lucky and got a cabin to myself called the sunrise cabin. It only had 3
-walls and a curtain for the fourth wall, facing the direction that the sun
-rises. It was kind of surreal having a room that just opened straight out into
-the forest!
+Just about everyone stayed at a hotel in San Jose for a night on arrival to get
+driven out to the site in a minivan the next day. It was mind-blowingly awesome
+to come down for breakfast and find Nick, Jonathan and Jon all seated around a
+table talking about poi. I was actually kind of star struck for most of the
+first day and felt too intimated to actually even spin in front of those guys.
 
-first night quite intimidated to spin in front of jon and nick
+There was some pool side video making in the morning with Nick trying to spin
+underwater, and generally getting to meet everyone there.
 
-fire flies! armadillo, big lizzards
+The minivan ride was lots of fun, everyone discussing how they got started
+spinning, how long they'd been doing it etc. There were some great stories told,
+but I think Jonathan's story telling abilities need a special mention, he's
+nearly as good at story telling as he is at poi.
 
-everyone extremely friendly and likeable.
+Every time the van would stop for any reason, people would jump out and start
+spinning, to the amusement/confusion of the Ticos many of who'd never seen
+anything like it.
 
-river, icey but refreshing, nice to be in the sun on the rocks afterwards
+When we arrived at Finca Mia I got lucky and got a cabin to myself called the
+sunrise cabin. It only had 3 walls and a curtain for the fourth wall, facing the
+direction that the sun rises. It was kind of surreal having a room that just
+opened straight out into the forest!
 
-learned lots, and became aware of a number of weak spots in my poi basics that I
-need to work on. left right independence. spotting when turning to reduce
-dizziness, footwork. counting different things to fit patterns to music better
+As the sun set loads of fireflies came out, which made the place feel like a
+some sort of magic pixi-land with little glowing dots all along the pathways.
+There was quite a lot of animal wild life on the property, loads of lizards,
+hummingbirds, even an armadillo!
 
-pixel poi
+It was really nice getting to get to know everyone at camp. Everybody was very
+friendly and approachable and after a few days it felt like I'd known these
+people for a whole lot longer.
 
-lots of flow toys not-yet in the online shop products. capsule handles, capsule
-poi, double capsule poi, staffs
+Days consisted of yoga first thing in the morning, followed by a very varied and
+delicious organic breakfast and some time to chill or go for a quick swim.  I
+stuck it out with the yoga for about a week before giving in and deciding my
+calves and hamstrings are too tight for most of the poses these days. One day
+I'll have to work on getting some flexibility back again.
+
+Then we'd spend a few hours up on the yoga deck in the morning working on
+various poi skills with a focus on getting the basics solid, timing, performance
+and choreography.
+
+Lunch would be another healthy buffet of great food, followed by a little more
+free time in which I often took the chance to swim in the river. The water was a
+little bit fresh but very refreshing when you're all hot and sweaty, and it was
+lovely to warm up in the sun on the rocks afterwards.
+
+In the afternoons we'd head back up to the yoga deck for more workshops, often
+building on stuff from the morning, of practicing a choreographed piece that
+Nick wanted to try and film.
+
+Dinner would be another organic feast. One night we had soft-shell tacos and
+they were pretty much the best tacos I've ever tasted
+
+
+I learned loads of stuff in a short period, and became aware of a number of weak
+spots in my poi basics that I need to work on. I've learned a lot things only
+one direction, so while I can do a lot of different things I'm often limited in
+what I can move between smoothly because I'm not comfortable with the direction
+required to do so, so it's good to have realised that so I can go back to basics
+for all the permutations to make everything flow a little more easily.
+
+We did some good exercises about developing left/right independence. Sort of
+like the old rubbing your tummy while patting your head, but on steroids. These
+skills become really important for Hybrids where one hand traces out one pattern
+while the other traces out a different one, creating some very beautiful
+tracers.
+
+A lot of time was spent on footwork techniques to turn more smoothly and with
+less effort, and spotting when turning to reduce dizziness when repeatedly
+turning in the same direction. This seems to be stuff that dancers have very
+little trouble with but having never really learnt to dance I found quite
+difficult. Thankfully a little bit of practice has improved things a lot but I
+still need to work on this a lot.
+
+We did some work on counting different things to fit patterns to music better.
+Counting downbeats feels really natural to most people, but doing so means that
+most patterns repeat on an odd number, which when put to 4/4 music makes things
+complicated; for something like a 4 petal flower with 3 down beats you're stuck
+repeating it 4 times over 3 bars before they line up again. While I can follow
+the theory about this stuff, I struggled really hard to actually find the beat a
+lot of the time. I know people joke about having no rhythm, but it honestly
+feels like the part of my brain that should help with this is seriously
+underdeveloped.
+
+Nick had a set of pixel poi at the retreat which he was kind enough to let me
+have a go of. From the first time I saw these on a video on youtube I was in
+awe, and then when I saw the price I was in even more awe. Getting to actually
+spin them was amazingly, fun and kind of disorienting (they're super bright),
+but also kind of terrifying. I'm sure they're probably pretty tough, but the
+though of having to pay for them if they got broken meant I was probably more
+worried spinning them than I've ever been with fire.
+
+Jon and Jonathan brought along a lot of (at the time) not-yet-for-sale flowtoys
+products which we all got to place around with. Lots of stuff from the new
+modular capsule line-up, capsule handles, compact capsule flower-cap poi, dual
+capsule tube poi, even capsule staffs! The capsule handles are so nice I'm
+pretty much converted to the idea of lit up handles, and I really liked the
+compact flower-cap poi.
 
 choreography
 
-amazing organic food prepared for us every night. best soft tacos ever!
 
+We made a couple of excursions out into the local area. One day we made a visit
+to the nearby hot springs. There's natural warm water coming down the hill, but
+it's been routed into some concrete pools to make the bodies of water big enough
+to really swim it. It was a very relaxing way to spend a few hours just hanging
+out enjoying the water.
 
-yoga in the morning, stuck it out for about a week before giving in and deciding
-my calves and hamstrings are too tight for most poses these days
+We got invited to come along to a local festival and rodeo where the group
+performed in the bull ring with LED poi. The crowd loved it and some people were
+even actually asking afterwards about getting the group to perform at other
+events. It was my first time in front of a big crowd and it was heaps of fun.
 
-visit to the hot springs. natural warm water, but routed into concrete pools
-
-went to the local festival, group performed in the bull ring of the rodeo, crowd
-loved it and it was heaps of fun
-
-jonathan went into the bullring, partnered up with a local who was shitfaced
+After the performance Jonathan decided he wanted to spin poi in the rin with the bulls. They weren't so keen on him doing this, partnered up with a local who was shitfaced
 drunk and tried to tie up a baby bull
 
-visit ot the local chocolate maker Went to a local chocolate maker and saw how they made chocolate, grinding the cocoa beans in a juicer with some cocoa butter, then put in another thing that rolled the chocolate over for 3 days to get it smooth. we then got to take a batch from 3 days ago and make our own chocolate bars. 75% dark chocolate. I made mine with coffee beans, chilli and sea salt. haven't tried it yet but it sounds interesting
+visit ot the local chocolate maker Went to a local chocolate maker and saw how
+they made chocolate, grinding the cocoa beans in a juicer with some cocoa
+butter, then put in another thing that rolled the chocolate over for 3 days to
+get it smooth. we then got to take a batch from 3 days ago and make our own
+chocolate bars. 75% dark chocolate. I made mine with coffee beans, chilli and
+sea salt. haven't tried it yet but it sounds interesting
 
 two nights spinning fire, although I only spun on one night. didnt feel very
 coordinated. then the second night I felt off it all day and decided I didnt

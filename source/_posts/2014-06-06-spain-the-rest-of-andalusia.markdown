@@ -1,4 +1,5 @@
 ---
+date: 2014-06-06 18:05
 layout: post
 title: "Spain, the rest of Andalusia"
 tags: Spain, Andalusia, Cordoba, Seville, Malaga

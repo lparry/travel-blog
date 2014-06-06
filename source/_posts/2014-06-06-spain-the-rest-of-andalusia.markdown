@@ -16,13 +16,13 @@ photos of this Roman era bridge and tower.
 
 The Internet tells you you should try and get to the Mezquita early in the
 morning so you can get photos without all the crowds, but the Internet doesn't
-factor in not being able to get to sleep until 5am in the morning so I got up
-around noon and went and had lunch for breakfast, a dish with ox tail that was
-extremely nice.
+factor in not being able to get to sleep until 5am in the morning, so I instead
+got up around noon and went and had lunch for breakfast, a dish with ox tail
+that was extremely nice.
 
 After I'd eaten I headed over to the courtyard outside the Mezquita, a huge open
 space full of orange trees. In fact, all of Córdoba is pretty well decked out in
-them; they seem to be a very common decorative plant in Andalusia.
+orange trees; they seem to be a very common decorative plant in Andalusia.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/13919408747/in/set-72157644463351646" title="The court of oranges by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2916/13919408747_13be1c076f_c.jpg" width="800" height="601" alt="The court of oranges"></a>
 
@@ -98,7 +98,7 @@ tour itself was alright, but everyone on the tour seemed to be travelling in
 groups of 2-4 and there wasn't much inter-mingling so it didn't feel very social
 compared to some of the tours that I've really enjoyed.
 
-I'd heard from [Amanda and Luke](http://herecomestheplanet.com) that Seville doesn't
+I had heard from [Amanda and Luke](http://herecomestheplanet.com) that Seville doesn't
 really live up to it's reputation and I have to agree. Nothing we visited on the
 tour really stood out for me, so here's a token photo of Plaza de España with
 all the water drained out.
@@ -115,20 +115,20 @@ for dinner the same day.
 
 I did get a tip from the tour guide that if I only visited once place, that the
 Alcázar should be it, so after some difficulty actually locating it (Seville is
-like a maze in the old area) I checked it out.
+like a maze in the old part of the city) I checked it out.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14084997556/in/set-72157644463351646" title="Alcázar of Seville by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5231/14084997556_dd797d2f95_c.jpg" width="601" height="800" alt="Alcázar of Seville"></a>
 
-The Alcázar is a stunning building and a royal palace. It has been added do by
+The Alcázar is a stunning building and a royal palace. It has been added to by
 each of the monarchs who have occupied it leading to a mix of a lot of different
-styles from a lot of different periods.
+styles from a lot of different periods in time.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14105067702/in/set-72157644463351646" title="Golden dome ceiling by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7189/14105067702_14497fe666_c.jpg" width="800" height="601" alt="Golden dome ceiling"></a>
 
 I'm really starting to appreciate the Moorish style of decoration, where because
 their religion prohibits them from creating a likeness of things  they have lots
 of intricate geometric patterns and carvings as decoration. I find it much more
-aesthetically pleasing decoration than paintings and statues.
+visually pleasing decoration than paintings and statues.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14104838381/in/set-72157644463351646" title="Water feature by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5578/14104838381_1afea7139b_c.jpg" width="601" height="800" alt="Water feature"></a>
 
@@ -138,12 +138,12 @@ of the palace very much.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14085111856/in/set-72157644463351646" title="Metropol Parasol by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5509/14085111856_b380ca185e_c.jpg" width="800" height="601" alt="Metropol Parasol"></a>
 
-In the evening I went and explored one of the stranger, non-traditional
-attractions of Seville: The Metropol Parasol. It's a huge wooden structure,
-several stories high, apparently the largest wooden structure in the world. It
-looks kind of like those [wooden dinosaur
+In the evening I went and explored one of the stranger, modern attractions of
+Seville: The Metropol Parasol. It's a huge wooden structure, several stories
+high, apparently the largest wooden structure in the world. It looks kind of
+like those [wooden dinosaur
 kits](https://www.google.com/search?q=wood+dinosaur+kit&tbm=isch) you'd beg for
-at museums when you were a kid (or was that just us geeks?), except instead of a
+at museums when you were a kid (or was that just me?), except instead of a
 dinosaur they got some crazy mushroom looking thing.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/13921571459/in/set-72157644463351646" title="On top of the Metropol Parasol by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5465/13921571459_b78a62036f_c.jpg" width="800" height="601" alt="On top of the Metropol Parasol"></a>
@@ -166,24 +166,24 @@ shit-faced drunk, quite rude, and kept mentioning how he had an alcohol problem.
 Those of us who weren't complete alcoholics went out for a few drinks (the
 irony) after dinner and ended up in a pub trivia competition after meeting up
 with a friend of Annika's named Lilia and her brother Thomas. I don't remember
-how we went at trivia, almost certainly not well, but it was a really nice
+how we went at trivia, almost certainly not well, but it was a really fun
 evening out.
 
-When I got back to the hostel I found a girl who was staying in my dorm standing
-sort of awkwardly outside the door. Apparently the raging alcoholic was asleep
-in someone else's bed, as he'd wet his own bed and the one below it, and quite
-rightly she didn't want to be in there alone with him. The fun people you meet
-in hostels! We went down to reception to see would could be done and they very
-apologetically sorted us out and moved us into another room.
+When I got back to the hostel I found another girl who was staying in my dorm
+standing sort of awkwardly outside the door. Apparently the raging alcoholic was
+asleep in someone else's bed, as he'd wet his own bed and the one below it, and
+quite rightly she didn't want to be in there alone with him. The fun people you
+meet in hostels! We went down to reception to see would could be done and they
+very apologetically sorted us out and moved us into another room.
 
-I went on yet another free walking tour which was given by an Australian girl
-Natalie. It happened to be her birthday it was and it was her first time giving
-a tour, so her sisters Vanessa and Shelly who were visiting from London got us
-all to sing her happy birthday at the end of the tour.
+The next morning I went on yet another free walking tour which was given by an
+Australian girl Natalie. It happened to be her birthday it was and it was her
+first time giving a tour, so her sisters Vanessa and Shelly who were visiting
+from London got us all to sing her happy birthday at the end of the tour.
 
 The tour was good, went around Málaga and showed us the sites, although I was
-probably a bit more interested in socialising. I didn't really meet anyone in
-Seville or Cordoba so it was nice to have some people to talk with.
+probably a bit more interested in socialising. After not really meeting anyone
+in Seville or Cordoba so it was nice to have some people to talk with.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/13921701700/in/set-72157644463351646" title="Wine from the barrel by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2910/13921701700_236ca21f56_c.jpg" width="800" height="601" alt="Wine from the barrel"></a>
 
@@ -200,7 +200,7 @@ too many.
 <a href="http://www.flickr.com/photos/lucasthenomad/14128412563/in/set-72157644463351646" title="Catherdral with an unfinished tower by Lucas the nomad, on Flickr"><img src="http://farm8.staticflickr.com/7367/14128412563_57bd5ffc50_c.jpg" width="800" height="601" alt="Catherdral with an unfinished tower"></a>
 
 We stopped under this cathedral which was supposed to be symmetrical but they
-ran out of money and never finished it, so it has only one finished tower. I
+ran out of money and never finished it, so it has only one completed tower. I
 think it's a bit more interesting this way anyway.
 
 My afternoon consisted of a tapas lunch and a few beers with the Aussie girls
@@ -221,9 +221,9 @@ the walls and have a nice view over the city.
 <a href="http://www.flickr.com/photos/lucasthenomad/14105274272/in/set-72157644463351646" title="Castle wall by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2919/14105274272_68dd815cb4_c.jpg" width="601" height="800" alt="Castle wall"></a>
 
 The square-ish bits at the top of the wall were topped by triangles (check out
-that terminology, they don't call me a castle-ologist for nothing!), which
-someone told me is something to Moors would do to make Roman walls their own or
-something.
+that terminology, they don't call me a castle-ologist for no reason!), which
+someone told me is something to Moors would do to make Roman walls their more
+Moorish or something.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14105301372/in/set-72157644463351646" title="*jaws music* by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5564/14105301372_4e0e7faf69_c.jpg" width="600" height="800" alt="*jaws music*"></a>
 
@@ -238,4 +238,4 @@ a handlebar moustache from the beard for a few weeks and thought I'd let it
 stand on it's own for a little while, as a bit of a laugh for the friends who I
 was going to spend Christmas with. I still get a smile looking at this photo,
 thinking about just how over the top it is! It really felt like I was wearing a
-fake moustache disguise when I first shaved it back to this.
+fake moustache disguise when I first cut it back to this.

@@ -30,6 +30,8 @@ us and dropped them off at their office, then went out and had an amazing
 Scottish breakfast for just £4. It had everything; bacon, eggs, flat sausage,
 round sausages, black pudding, beans. So unhealthy yet so very delicious.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14109593808/in/set-72157644891794991" title="Scottish breakfast by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5486/14109593808_2b09f27d65_c.jpg" width="600" height="800" alt="Scottish breakfast"></a>
+
 We went down the street to the nearby Lidl and shopped for some pork to roast
 and some veggies, and some bacon and eggs to make for  breakfast, then ducked
 down to a big off licence to stock up on what seemed like plenty of beers.
@@ -76,17 +78,17 @@ should get a bus over to the royal mile, the street that leads up to Edinburgh
 castle and have a walk around.
 
 It was very pretty up there, but icy cold winds were blowing through, so we went
-down the other side of the hill to the Grass Market (?) and had a beer in the
-oldest pub in Edinburgh (Scotland?). We had a look at a few other pubs along the
-same strip before heading back to the house.
+down the other side of the hill to the Grassmarket and had a beer in the oldest
+pub in Edinburgh (Maybe even all of Scotland?). We had a look at a few other
+pubs along the same strip before heading back to the house.
 
 Matty offered that I could come back to Nottingham with him for NYE, and after
 looking at the ludicrous prices of hostels in Edinburgh over that period it was
 the only sensible choice. Places were asking £60-70 a night for a bed in a 16
 person dorm. Fucking crazy!
 
-Anyway, we said our goodbyes to Nicolette and Leigh and then set off on the very
-long drive from Edinburgh to Nottingham, 4-5 hours (?) finally arriving at 1:30am.
+Anyway, we said our goodbyes to Nicolette and Leigh and then set off on the
+long drive from Edinburgh to Nottingham, 4-5 hours finally arriving at 1:30am.
 It felt nice to be back at my home away from home again.
 
 Between Christmas and New Years I spent a lot of time hacking on my blog,
@@ -111,9 +113,12 @@ Sadly it didn't seem to provoke such a positive response from the ladies :P
 I got a chance to actually meet Professor Elemental before he was on, who said
 that he was well jealous of the moustache and I got a few photos of us together.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14316422983/in/set-72157644891794991" title="Me and Professor Elemental by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5502/14316422983_7750822a98_c.jpg" width="800" height="600" alt="Me and Professor Elemental"></a>
+
 His set was great, everyone was getting right into it and I even got name
 checked during it. It was a really fun night and it was a great way to spend my
 birthday.
+
 
 A few days later on the weekend, Matty got a vehicle from work and we went on a
 trip to see Bletchley Park, to top secret facility where they were cracking the
@@ -125,6 +130,8 @@ each have a number of modes, each set to a different letter, so that the input
 letter undergoes many mutations. There was something like 80 million possible
 ciphers for some of the devices, and they would change them every single day.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14316430763/in/set-72157644891794991" title="Turing Bombe Rebuild Project by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3698/14316430763_46976068bc_c.jpg" width="800" height="601" alt="Turing Bombe Rebuild Project"></a>
+
 The enigma devices were incredibly impressive themselves at the time, but then
 the 'bombe' code cracking devices used to mechanically switch through 30-40 full
 sets of enigma code wheels simultaneously, searching for configurations that
@@ -133,30 +140,38 @@ set of code wheels lined up in an electrically complete manner, and then that
 configuration would be tested against a German message to see if it was the
 correct code for the day.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14109710727/in/set-72157644891794991" title="Opened Bombe by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3782/14109710727_a5baf3021b_c.jpg" width="800" height="601" alt="Opened Bombe"></a>
+
 We even got to see a demonstration of their bombe recreation working, it was
 quite a noisy sight to see.
 
 There was some stories about several spies and double agents who were feeding
 misinformation to the German secret service; some real James Bond style stuff.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14109701527/in/set-72157644891794991" title="Alan Turing statue by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3817/14109701527_66e8df2c80_c.jpg" width="601" height="800" alt="Alan Turing statue"></a>
+
 They have a nice statue to Alan Turing, along with a copy of the British apology
 for his treatment for being gay.
 
 We ducked across to the nearby computer history museum to have a look around
-there as well. They have a recreation of colossus, the world's first electronic
+there as well. They have a recreation of Colossus, the world's first electronic
 digital computer that was at all programmable. It was mammoth in size and crazy
 noisy.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14109618058/in/set-72157644891794991" title="Colossus recreation by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3689/14109618058_30802e5a5f_c.jpg" width="800" height="601" alt="Colossus recreation"></a>
 
 They had a working PDP-11, complete with text adventure game, but sadly it
 wasn't powered up that afternoon. The thing was as big as 4-5 full height server
 racks.
 
 Another room had the oldest still functioning computer, buzzing away playing the
-Monty Python theme music. I love it!
+Monty Python theme music. So British!
 
 They also had some other massive old computers, literally the size of a room !
 You could actually hear them humming and processing as text would appear appear
 on the screen.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14295712504/in/set-72157644891794991" title="Those are some big disks by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3699/14295712504_df5c5d95d6_c.jpg" width="800" height="601" alt="Those are some big disks"></a>
 
 Another interesting piece that had was the longest continuously functioning
 computer, retired in the mid 2000s from a power plant. It had worked there for
@@ -169,6 +184,8 @@ way too hard during the week. I realised though that Matt wanting to go do stuff
 isn't just about him trying to entertain his guest; it's giving him a chance to
 do stuff he wouldn't go and do by himself, which I can relate to when I'm at
 home.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14109624338/in/set-72157644891794991" title="We fucking hate carling by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3711/14109624338_d8743a7d8c_c.jpg" width="800" height="600" alt="We fucking hate carling"></a>
 
 On my last night in Nottingham we went out to the Linconshire Poacher for dinner
 and I had a very tasty game meat casserole and a few nice ales to wash it down.
@@ -191,11 +208,15 @@ I made a visit to M&M world, several floors packed with nothing but M&Ms and M&M
 branded products. They had a rainbow of tubes full of M&Ms which you could buy
 as single colours or make your own mixes.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14296293235/in/set-72157644891794991" title="Rainbow of M&Ms by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2927/14296293235_48dac64c3c_c.jpg" width="800" height="601" alt="Rainbow of M&Ms"></a>
+
 I was woken up at 6:30am the next day by a real fire alarm evacuation, which had
 everyone in the hostel out standing on the street in the freezing cold morning.
 Some people had gone out barefoot without a jacket, which would have been hell.
 It wasnt a very pleasant start to the day but I figured I'd take advantage of it
 and didn't go back to bed.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14273158356/in/set-72157644891794991" title="Firetruck outside the hotel, way too early in the morning by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3673/14273158356_66654fa019_c.jpg" width="800" height="600" alt="Firetruck outside the hotel, way too early in the morning"></a>
 
 I spent the morning going around to a bunch of camera shops, having a look at
 various models of pocketable cameras that still have a good amount of manual
@@ -205,7 +226,9 @@ my trusty GX1 to this day.
 
 Later I went to Notting Hill to meet up with a guy from couchsurfing who had
 organised a juggle jam there. On my way there I passed some cool markets along
-Portobello road and even a Banksy piece.
+Portobello road and even stumbled upon a Banksy piece.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14109655028/in/set-72157644891794991" title="Banksy by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5536/14109655028_7ac2290690_c.jpg" width="800" height="601" alt="Banksy"></a>
 
 It ended up just being the two of us there, but it was good to get in some
 juggling practice and spend a bit of time spinning poi, and we had some
@@ -213,6 +236,8 @@ interesting conversation about how cheap it is to live on a houseboat in London
 compared to a house, and these vipassana meditation retreats that he'd been on
 where you're pretty much meditating for a week, not really talking at all during
 that time.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14316483513/in/set-72157644891794991" title="V & A Museum by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3764/14316483513_39938d832d_c.jpg" width="800" height="601" alt="V & A Museum"></a>
 
 I went to the Victoria & Albert museum and had a quick run through as I'd heard
 it was supposed to be amazing. I didn't actually find the place very
@@ -238,6 +263,8 @@ I had a quite day starting with a long breakfast at a nice place called the
 Inhibition cafe in Camden, then spent time catching up on my blog and watching
 the new episode of Sherlock.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14273176316/in/set-72157644891794991" title="Me and a rare, sadly empty bottle of sink the bismark by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3755/14273176316_349a091396_c.jpg" width="601" height="800" alt="Me and a rare, sadly empty bottle of sink the bismark"></a>
+
 I  the evening I went over to Brewdog Camden for a few quiet drinks, and got
 talking with a few off-duty staff and the manager in one corner of the bar. I
 ended up getting shouted a bunch of really nice barley wines by them. I recall
@@ -247,10 +274,14 @@ A night on the barely wine means a morning of feeling pretty awful, but a quick
 trip back to the Inhibition cafe got my grease and fat levels up to a suitable
 point for dealing with the hangover.
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14292977201/in/set-72157644891794991" title="Epic face by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5313/14292977201_22b7622eae_c.jpg" width="800" height="450" alt="Epic face"></a>
+
 I wandered through the back streets around behind Camden markets, taking some
 photos of street art, and decided to hunt out more graffiti around London. I
 headed over to Shoredich and spent the rest of the day being wowed by some of
 the very creative pieces around in that part of the city.
+
+<a href="http://www.flickr.com/photos/lucasthenomad/14109809537/in/set-72157644891794991" title="Off duty palace guard by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3723/14109809537_ebf7ed43f4_c.jpg" width="601" height="800" alt="Off duty palace guard"></a>
 
 My last day in the UK I went and searched for an open op shop to donate back my
 winter coat and unneeded jeans, but a lot of them don't open at all on a Sunday

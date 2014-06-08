@@ -74,7 +74,6 @@ Nick wanted to try and film.
 Dinner would be another organic feast. One night we had soft-shell tacos and
 they were pretty much the best tacos I've ever tasted
 
-
 I learned loads of stuff in a short period, and became aware of a number of weak
 spots in my poi basics that I need to work on. I've learned a lot things only
 one direction, so while I can do a lot of different things I'm often limited in
@@ -106,22 +105,19 @@ feels like the part of my brain that should help with this is seriously
 underdeveloped.
 
 Nick had a set of pixel poi at the retreat which he was kind enough to let me
-have a go of. From the first time I saw these on a video on youtube I was in
+have a go of. From the first time I saw these on a video on Youtube I was in
 awe, and then when I saw the price I was in even more awe. Getting to actually
 spin them was amazingly, fun and kind of disorienting (they're super bright),
 but also kind of terrifying. I'm sure they're probably pretty tough, but the
 though of having to pay for them if they got broken meant I was probably more
 worried spinning them than I've ever been with fire.
 
-Jon and Jonathan brought along a lot of (at the time) not-yet-for-sale flowtoys
-products which we all got to place around with. Lots of stuff from the new
+Jon and Jonathan brought along a lot of (at the time) not-yet-for-sale Flowtoys
+products which we all got to play around with. Lots of stuff from the new
 modular capsule line-up, capsule handles, compact capsule flower-cap poi, dual
 capsule tube poi, even capsule staffs! The capsule handles are so nice I'm
 pretty much converted to the idea of lit up handles, and I really liked the
 compact flower-cap poi.
-
-choreography
-
 
 We made a couple of excursions out into the local area. One day we made a visit
 to the nearby hot springs. There's natural warm water coming down the hill, but
@@ -134,21 +130,37 @@ performed in the bull ring with LED poi. The crowd loved it and some people were
 even actually asking afterwards about getting the group to perform at other
 events. It was my first time in front of a big crowd and it was heaps of fun.
 
-After the performance Jonathan decided he wanted to spin poi in the rin with the bulls. They weren't so keen on him doing this, partnered up with a local who was shitfaced
-drunk and tried to tie up a baby bull
+After the performance Jonathan decided he wanted to spin poi in the ring with
+the bulls. The locals weren't so keen on him doing this, but they he was able to
+partner up with a local guy who was shitfaced drunk, and tried to tie up a baby
+bull. The guy had somehow miscommunicated that Jonathan should try and tie up
+the bull's back legs up while the local guy grabbed it around the neck, which
+lead to some hilarious attempts to get it tied up while the announcer heckled
+him in Spanish.
 
-visit ot the local chocolate maker Went to a local chocolate maker and saw how
-they made chocolate, grinding the cocoa beans in a juicer with some cocoa
-butter, then put in another thing that rolled the chocolate over for 3 days to
-get it smooth. we then got to take a batch from 3 days ago and make our own
-chocolate bars. 75% dark chocolate. I made mine with coffee beans, chilli and
-sea salt. haven't tried it yet but it sounds interesting
+One morning some of us made a visit to the local chocolate maker in the village.
+It was run by a lady named Tao, who showed us how they made their chocolate,
+grinding the cocoa beans in a juicer with some cocoa butter, then put in another
+thing that rolled the chocolate over for 3 days to get it silky smooth. We then
+got to take a batch from 3 days ago and make our own blocks of chocolate with
+our own choice of added flavourings.  I made mine with crushed coffee beans,
+chilli flakes and sea salt. It turned out really tasty and didn't last long
+after I started eating it.
 
-two nights spinning fire, although I only spun on one night. didnt feel very
-coordinated. then the second night I felt off it all day and decided I didnt
-feel up to it.
+Another day the whole group took a trip to a nearby beach for the day, Playa
+Dominical. We had a nice lunch when we arrived, then went out in the surf and
+did some body surfing. It was heaps of fun and reminded me how much I enjoy the
+ocean. We had our afternoon poi class by the shore, then had dinner at a local
+restaurant before making the trip back to the finca.
 
-visit to playa dominical, heaps of fun body surfing with everyone
+We had two nights of spinning fire right at the end of the retreat, as we had
+some issues getting our hands on suitable fuel to burn. It was the first time
+I'd spun with fire since way back in Thailand, so I was a little timid about it
+and only felt up to spinning the first night, but it was great to see everyone
+else busting out their best performances. Especially enjoyable were Thomas
+spinning like a mad man to some crazy French psy-trance, and AlienJon's
+beautifully synchronized slow swinging pendulums to an Ott song. 
 
-hung aroudn at finca mia for an extra few days afterwards, sad to see the group
-diminish but cool to get to spend some extra time with those who stayed on
+After everything was done and dusted I hung around at Finca Mia for an extra few
+days afterwards. It was sad to see the group diminish but great to get to spend
+some extra time with the others who stayed on.

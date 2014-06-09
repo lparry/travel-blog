@@ -36,8 +36,8 @@ We went down the street to the nearby Lidl and shopped for some pork to roast
 and some veggies, and some bacon and eggs to make for  breakfast, then ducked
 down to a big off licence to stock up on what seemed like plenty of beers.
 
-We took it all back to the office and hung out there cutting out letters for [a
-very sweet video Nicolette put together for Leigh](), and waiting for Dave to
+We took it all back to the office and hung out there cutting out letters for a
+very sweet video Nicolette put together for Leigh, and waiting for Dave to
 finish at work so he could take us to his place before heading off to visit his
 family.
 

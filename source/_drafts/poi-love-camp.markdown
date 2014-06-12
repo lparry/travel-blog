@@ -154,8 +154,7 @@ it's been routed into some concrete pools to make the bodies of water big enough
 to really swim it. It was a very relaxing way to spend a few hours just hanging
 out enjoying the water.
 
-<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/photo.php?v=10152174876409036" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/photo.php?v=10152174876409036">Post</a> by <a href="https://www.facebook.com/lucy.pointycat">Lucy Pointycat</a>.</div></div>
+<div class="videowrapper"><iframe width="1280" height="720" src="//www.youtube.com/embed/DPQi4KNHonM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 We got invited to come along to a local festival and rodeo where the group
 performed in the bull ring with LED poi. The crowd loved it and some people were

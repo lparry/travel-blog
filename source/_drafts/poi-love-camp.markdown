@@ -157,9 +157,11 @@ out enjoying the water.
 <div class="videowrapper"><iframe width="1280" height="720" src="//www.youtube.com/embed/DPQi4KNHonM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 We got invited to come along to a local festival and rodeo where the group
-performed in the bull ring with LED poi. The crowd loved it and some people were
-even actually asking afterwards about getting the group to perform at other
-events. It was my first time in front of a big crowd and it was heaps of fun.
+performed in the bull ring with LED poi. The PA did not have any way to connect
+an iPod so we ended up spinning to their choice of music, some Latin-American
+pop music songs from the charts. The crowd loved it and some people were even
+actually asking afterwards about getting the group to perform at other events.
+It was my first time in front of a big crowd and it was heaps of fun.
 
 <div class="videowrapper"><iframe width="640" height="480" src="http://www.youtube.com/embed/6n_n9iDN5Do?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
@@ -198,7 +200,7 @@ I'd spun with fire since way back in Thailand, so I was a little timid about it
 and only felt up to spinning the first night, but it was great to see everyone
 else busting out their best performances. Especially enjoyable were Thomas
 spinning like a mad man to some crazy French psy-trance, and AlienJon's
-beautifully synchronized slow swinging pendulums to an Ott song. 
+beautifully synchronized slow swinging pendulums to an Ott song.
 
 After everything was done and dusted I hung around at Finca Mia for an extra few
 days afterwards. It was sad to see the group diminish but great to get to spend

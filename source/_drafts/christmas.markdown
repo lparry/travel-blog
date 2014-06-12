@@ -4,13 +4,13 @@ title: "Christmas and NYE in the UK"
 tags: Edinburgh, Scotland, Nottingham, London, England, Christmas, NYE
 ---
 
-For Christmas 2013, Leigh and Nicolette had kindly offered to have myself and
-Matty P come stay with them up in Edinburgh, so I had sorted out my flight from
-Spain to go straight there. There was a minor freak out where my bag hadn't come
-out at baggage collection, and it contained pretty much all of my warm clothes
-that I very much needed, but there was about 10 other people with the same
-issue, and it turned out that one bag had gotten stuck on the other side of the
-conveyor belt and knocked a dozen bags off it.
+For Christmas 2013, My Melbourne friends Leigh and Nicolette who currently live
+in Edinburgh kindly offered to have myself and Matty P come stay with them, so I
+had sorted out my flight from Spain to go straight there. I had a minor freak
+out where my bag hadn't come out at baggage collection, and it contained pretty
+much all of my warm clothes that I very much needed, but there was about 10
+other people with the same issue, and it turned out that one bag had gotten
+stuck on the other side of the conveyor belt and knocked a dozen bags off it.
 
 I got rugged up and then got the bus into the city to meet up with Leigh and
 Nicolette, and their reaction on my arrival about my giant moustache was just

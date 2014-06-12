@@ -4,7 +4,7 @@ title: "Poi Love Camp"
 tags: Costa-Rica, Finca-Mia, Poi
 ---
 
-<a href="http://www.flickr.com/photos/lucasthenomad/14327186196/in/set-72157645015360162" title="Group shot after hot springs by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3894/14327186196_422b5130c3_c.jpg" width="800" height="534" alt="Group shot after hot springs"></a>
+<a href="http://www.flickr.com/photos/lucasthenomad/14327186196/in/set-72157645015360162" title="Group shot after hot springs by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3894/14327186196_422b5130c3_c.jpg" width="800" height="534" alt="Poi Love Camp group shot minus Jonathan"></a>
 
 Poi Love Camp was an 11 day retreat about spinning poi, held in Costa Rica being
 run by Nick Woolsey, the man behind [PlayPoi](http://www.playpoi.com). Also
@@ -14,6 +14,8 @@ it wasn't until a few days before Christmas when I decided that I needed to get
 out of the European winter that I really seriously thought about going, and a
 day later had bought flights and tickets to what ended up being one of the most
 fun fortnights I've every had.
+
+
 
 <!-- more -->
 
@@ -152,13 +154,13 @@ it's been routed into some concrete pools to make the bodies of water big enough
 to really swim it. It was a very relaxing way to spend a few hours just hanging
 out enjoying the water.
 
-
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/photo.php?v=10152174876409036" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/photo.php?v=10152174876409036">Post</a> by <a href="https://www.facebook.com/lucy.pointycat">Lucy Pointycat</a>.</div></div>
 
 We got invited to come along to a local festival and rodeo where the group
 performed in the bull ring with LED poi. The crowd loved it and some people were
 even actually asking afterwards about getting the group to perform at other
 events. It was my first time in front of a big crowd and it was heaps of fun.
-
 
 <div class="videowrapper"><iframe width="640" height="480" src="http://www.youtube.com/embed/6n_n9iDN5Do?rel=0" frameborder="0" allowfullscreen></iframe></div>
 

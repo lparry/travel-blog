@@ -177,12 +177,12 @@ him in Spanish.
 
 One morning some of us made a visit to the local chocolate maker in the village.
 It was run by a lady named Tao, who showed us how they made their chocolate,
-grinding the cocoa beans in a juicer with some cocoa butter, then put in another
-thing that rolled the chocolate over for 3 days to get it silky smooth. We then
-got to take a batch from 3 days ago and make our own blocks of chocolate with
-our own choice of added flavourings.  I made mine with crushed coffee beans,
-chilli flakes and sea salt. It turned out really tasty and didn't last long
-after I started eating it.
+grinding the cocoa beans in a juicer with some cocoa butter, then put in a
+conching machine that rolled the chocolate over for 3 days to get it silky
+smooth. We then got to take a batch from 3 days ago and make our own blocks of
+chocolate with our own choice of added flavourings.  I made mine with crushed
+coffee beans, chilli flakes and sea salt. It turned out really tasty and didn't
+last long after I started eating it.
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14370570903/in/set-72157645015360162" title="Columns from the side by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5034/14370570903_bd55d44b7c_c.jpg" width="800" height="450" alt="Columns from the side"></a>
 

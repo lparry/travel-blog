@@ -90,6 +90,7 @@ task :new_post, :title do |t, args|
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "tags: example, tag"
     post.puts "dont_cache_images: true"
+    post.puts "travel_dates: "
     post.puts "---"
     post.puts ""
     post.puts "Intro"

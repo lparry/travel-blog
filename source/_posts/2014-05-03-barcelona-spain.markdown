@@ -6,6 +6,7 @@ tags: Spain, Barcelona, Tapas
 description:
 published: true
 priority: 0.5
+travel_dates: 
 ---
 
 Even in winter the weather is Barcelona is lovely. As soon as I landed and got

@@ -9,6 +9,7 @@ published: true
 priority: 0.5
 
 tags: Turkey, Istanbul
+travel_dates: 
 ---
 
 After flying into Istanbul Attaturk airport we spent the morning hiding out at

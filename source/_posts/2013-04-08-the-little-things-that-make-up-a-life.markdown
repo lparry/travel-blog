@@ -8,6 +8,7 @@ categories:
 description: 
 tags: Pre-trip, packing, streamlining
 priority: 0.5
+travel_dates: 
 ---
 
 The hardest part so far of packing my life into a bag and heading off for an

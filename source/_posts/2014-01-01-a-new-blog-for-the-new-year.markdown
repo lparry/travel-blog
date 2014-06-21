@@ -7,6 +7,7 @@ categories:
 description: 
 tags: blog
 priority: 0.5
+travel_dates: 
 ---
 It's 2014 and you'll probably notice things look quite a bit different. I've
 done what any good procrastinator would do when faced with little to no internet

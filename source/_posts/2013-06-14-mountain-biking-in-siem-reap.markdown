@@ -8,6 +8,7 @@ categories:
 description: 
 tags: cambodia, bikes, monkeys, ruins
 priority: 0.5
+travel_dates: 
 ---
 
 <p class="flickr-image-container"><span class="polaroid"><img alt="image" src="http://media.tumblr.com/c46ec58347b75bfddc9ff1f90dee4ed0/tumblr_inline_modqtuu34O1qz4rgp.jpg" /><em>My bike in front of Angkor Wat</em></span></p>

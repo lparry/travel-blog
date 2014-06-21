@@ -3,6 +3,7 @@ date: 2014-06-06 18:05
 layout: post
 title: "Spain, the rest of Andalusia"
 tags: Spain, Andalusia, Cordoba, Seville, Malaga
+travel_dates: 
 ---
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14082912566/in/set-72157644463351646" title="Roman bridge of Córdoba by Lucas the nomad, on Flickr"><img src="http://farm3.staticflickr.com/2904/14082912566_5b0ed9bc2c_c.jpg" width="800" height="450" alt="Roman bridge of Córdoba"></a>

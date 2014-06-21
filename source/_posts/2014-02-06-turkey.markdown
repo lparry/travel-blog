@@ -5,6 +5,7 @@ date: 2014-02-06 11:03
 tags: Turkey, Mediterranean
 published: true
 priority: 0.5
+travel_dates: 
 ---
 
 After Istanbul our next stop was in Göreme, where Amanda, Luke, and I, stayed in

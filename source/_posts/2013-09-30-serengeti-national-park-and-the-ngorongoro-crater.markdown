@@ -8,6 +8,7 @@ categories:
 description:
 tags: tanzania, serengeti, ngorongoro-crater, africa
 priority: 0.5
+travel_dates: 
 ---
 
 So the main draw card for visiting Tanzania was in fact not to go and laze about Zanzibar, rather it was to go and visit the Serengeti National Park and the Ngorongoro Crater, some of Africa's best known big game parks.

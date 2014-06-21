@@ -8,6 +8,7 @@ categories:
 description:
 tags: uganda, jinja, white-water-rafting, africa, chimpanzees
 priority: 0.5
+travel_dates: 
 ---
 
 After crossing into Uganda our first stop was Jinja, the second largest city in Uganda and its unofficial extreme sports capital. We had a free day here to do whatever activities took our fancy; some people went and played mini-golf, some went and played regular golf, but I opted for white water rafting down the White Nile.

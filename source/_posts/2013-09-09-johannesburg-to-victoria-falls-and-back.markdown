@@ -8,6 +8,7 @@ categories:
 description:
 tags: victoria-falls, johannesburg, south-africa
 priority: 0.5
+travel_dates: 
 ---
 I changed my flight to South Africa to be a day sooner in order to get to Johannesburg in time on Monday morning to go on a week long tour up to Victoria Falls in Zimbabwe and back. Booking in on this tour was a bit of a spur of the moment thing, I'd only found out about it's existence the Wednesday beforehand; I checked if I could change my flights and if there was room on the bus, then got flights moved and got myself booked in.
 

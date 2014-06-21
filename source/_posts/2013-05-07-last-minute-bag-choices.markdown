@@ -8,6 +8,7 @@ categories:
 description:
 tags: Pre-Trip, Packing, Bags
 priority: 0.5
+travel_dates: 
 ---
 
 So I bought the 40L bag I'd been eyeing off last week. After doing a few trial

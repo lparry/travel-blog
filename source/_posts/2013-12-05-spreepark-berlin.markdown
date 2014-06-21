@@ -8,6 +8,7 @@ categories:
 description: 
 tags: germany, berlin, abandoned, theme-park
 priority: 0.5
+travel_dates: 
 ---
 
 Breaking chronology for a change because I love these photos so much.

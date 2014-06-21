@@ -8,6 +8,7 @@ categories:
 description:
 tags: kenya, masai-mara, lake-nakuru, africa
 priority: 0.5
+travel_dates: 
 ---
 So after leaving Tanzania we were destined for Kenya to visit the Masai Mara, however we ran into a bit of trouble actually getting into Kenya. Everyone's visa got sorted out nice and quickly, but there was some sort of hold up involving the truck. Something to do with the truck's registration being changed over from English to Namibian and us not having the right [Carnet de Passage](http://en.wikipedia.org/wiki/Carnet_de_Passages) to go with it.
 

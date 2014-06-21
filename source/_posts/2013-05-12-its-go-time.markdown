@@ -8,6 +8,7 @@ categories:
 description:
 tags: Pre-Trip
 priority: 0.5
+travel_dates: 
 ---
 
 My bags are packed, almost all my things are sold/donated/given away. Tomorrow

@@ -4,6 +4,7 @@ layout: post
 title: "Happy travel birthday to me!"
 tags: humblebrag
 dont_cache_images: true
+travel_dates: 
 ---
 
 <p class="flickr-image-container"><span class="polaroid"><img src="/images/first-birthday-cake.jpg" alt="birthday cake" class="img-responsive"></span></p>

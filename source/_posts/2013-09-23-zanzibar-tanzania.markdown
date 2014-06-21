@@ -8,6 +8,7 @@ categories:
 description: 
 tags: tanzania, zanzibar
 priority: 0.5
+travel_dates: 
 ---
 
 My arrival in Dar Es Salaam was pretty smooth and trouble free. I applied for my visa on arrival, along with probably 60% of the people on the flight. I was a bit slow filling out the forms and was probably one of the last people to hand in the paperwork, but it seemed like they used a LIFO queue (last in, first out) to process things so my name was soon called and I had to squeeze my way through the crowd of people waiting and get my passport.

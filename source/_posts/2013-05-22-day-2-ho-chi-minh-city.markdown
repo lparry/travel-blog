@@ -8,6 +8,7 @@ categories:
 description:
 tags: vietnam, hcmc
 priority: 0.5
+travel_dates: 
 ---
 
 On my first morning in Vietnam I woke, packed my stuff in my private room into my bags and checked out to walk 30M around the corner to the dorm style accommodation I have booked for the rest of my stay here. I wasnt able to check in until 1pm, so I left my big bag and took just my day pack with all the valuable stuff in it. Even with just a tiny laptop and an MFT system camera, valuables still weigh a ton.

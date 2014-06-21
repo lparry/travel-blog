@@ -8,6 +8,7 @@ categories:
 description: 
 tags: flying airports india security-theater
 priority: 0.5
+travel_dates: 
 ---
 
 I'm jumping out of order for a bit for a quick story about the joys of security theater in Indian airports.

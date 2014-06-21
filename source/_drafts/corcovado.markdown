@@ -3,6 +3,7 @@ layout: post
 title: "Corcovado National Park, Costa Rica"
 tags: Corcovado, Costa-Rica
 dont_cache_images: true
+travel_dates: 
 ---
 
 Intro After Poi Love Camp finished up I ended up

@@ -8,6 +8,7 @@ categories:
 description: 
 tags: vietnam, cu-chi-tunnels
 priority: 0.5
+travel_dates: 
 ---
 
 On day 2 I headed to the Cu Chi tunnels on a tour booked through my hostel. Our guide was a very interesting half-Filipino, half Vietnamese man who fought in the war on the USA side. It sounded like he'd had a pretty horrific life, with both his wife and mother killed in the war, and his siblings fleeing the country. It was nice to have someone who was actually involved and from Vietnam tell us that most of what the Vietnamese museums state as truth is horribly biased propaganda, but that the USA is just as full of shit with their telling of events. Both sides did messed up things and there was no real winner.

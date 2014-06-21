@@ -6,6 +6,7 @@ tags: Greece, Samos, Ikaria, Syros, Mykonos, Athens
 description: 
 published: true
 priority: 0.5
+travel_dates: 
 ---
 Leaving Turkey I took a ferry from Selçuk to Samos, the main gateway into the
 Greek Islands from Turkey. I'd planned on heading straight from there to Ikaria

@@ -8,6 +8,7 @@ categories:
 description:
 tags: Bags
 priority: 0.5
+travel_dates: 
 ---
 So I set out on this trip aiming to travel light, with just a 46 Litre backpack and a daypack, but after nearly 4 months on the road I put up the white flag.
 

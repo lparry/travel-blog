@@ -8,6 +8,7 @@ categories:
 description: 
 tags: india
 priority: 0.5
+travel_dates: 
 ---
 
 I'm going to prefix this by apologising that it's ridiculously long; I really understand that quote "I'm sorry for the length of this letter but I didn't have time to write a shorter one". I'm struggling to keep up, this will probably be the last post I write in this format, which is probably for the best. I'm going to post this as 4 parts as I get the chance, photos will have to wait until I'm somewhere with reasonable internets.

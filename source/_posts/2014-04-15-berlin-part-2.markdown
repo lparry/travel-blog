@@ -6,6 +6,7 @@ tags: Berlin, Germany
 published: true
 description:
 priority: 0.5
+travel_dates: 
 ---
 
 I did a huge amount of exploration around Berlin appreciating the street art,

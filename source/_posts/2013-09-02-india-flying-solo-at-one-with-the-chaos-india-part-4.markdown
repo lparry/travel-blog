@@ -8,6 +8,7 @@ categories:
 description:
 tags: india, mumbai
 priority: 0.5
+travel_dates: 
 ---
 
 On my first morning alone in Udaipur I went for a bit of an aimless wander around, and ended up at the zoo, which with my typical travel luck, was closed that day. I had a bit of a walk around the gardens surrounding it which were very nice, and sat in the shade reading a book for a few hours.

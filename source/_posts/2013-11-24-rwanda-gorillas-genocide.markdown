@@ -8,6 +8,7 @@ categories:
 description: 
 tags: rwanda, gorillas, africa
 priority: 0.5
+travel_dates: 
 ---
 
 As we approached Rwanda, the terrain started getting a lot more hilly than that of Uganda. We got to the border and queued up to hand in our passports and get our visa, all the while with locals trying to cut in line. I got given some minor grief over not having printed out the acceptance letter for my visa. I did have it in digital form and the letter has a giant bar code that one would assume they'd scan, but apparently it's easier to put bar codes on letters than it is to put bar code scanners at the border.

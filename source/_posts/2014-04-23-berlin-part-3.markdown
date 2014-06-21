@@ -6,6 +6,7 @@ tags: Berlin, Germany
 published: true
 description:
 priority: 0.5
+travel_dates: 
 ---
 
 One very cold a miserable morning I went to see Sachsenhausen concentration

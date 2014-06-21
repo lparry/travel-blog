@@ -8,6 +8,7 @@ categories:
 description: 
 tags: india, trains
 priority: 0.5
+travel_dates: 
 ---
 
 The overnight train the second time around, from Varanasi to near Agra, was a bit of an ordeal. We showed up at the station at 21:00, one hour before the train was scheduled to depart at 22:00, and were soon told that the train had been delayed a few hours, now expected at 00:00. We went into the upper class and sleeper class reserved seating area to sit and wait and found it was full of people sleeping on the benches. One of the guys checking people were allowed to be in there went around and woke some people up, clearing enough seats so everyone could at least sit down.

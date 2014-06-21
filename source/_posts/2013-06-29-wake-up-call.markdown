@@ -8,6 +8,7 @@ categories:
 description: 
 tags: introspection, inspiration
 priority: 0.5
+travel_dates: 
 ---
 
 On this day, one year ago today, I woke up a little bit late.

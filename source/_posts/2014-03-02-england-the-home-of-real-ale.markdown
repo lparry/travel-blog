@@ -6,6 +6,7 @@ tags: England, Beer, Nottingham, London, Stonehenge, Graffiti, Bristol, Bath
 description:
 published: true
 priority: 0.5
+travel_dates: 
 ---
 Flying into Manchester from Athens, the first thing that struck me about
 England was just how lusciously green everything was. Yes, I've been to England

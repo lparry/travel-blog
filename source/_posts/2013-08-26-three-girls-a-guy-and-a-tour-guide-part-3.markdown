@@ -8,6 +8,7 @@ categories:
 description: 
 tags: india
 priority: 0.5
+travel_dates: 
 ---
 
 The next morning half the tour group boarded a train heading to Delhi to finish up their tour, but the 4 of us staying on and Moon went and got a local bus heading to a little village called Nimaj Bagh. The place were were staying was an old palace turned into a hotel, with beautifully painted trims on all the doorways, arches and windows. The place also had a pool which we hung out in all afternoon, making the heat a whole lot more bearable.

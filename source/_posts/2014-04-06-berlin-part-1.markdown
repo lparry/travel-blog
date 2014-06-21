@@ -6,6 +6,7 @@ tags: Berlin, Germany
 published: true
 description:
 priority: 0.5
+travel_dates: 
 ---
 
 Once I'd gotten into Berlin and checked into my hostel I got in contact with my

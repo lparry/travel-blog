@@ -8,6 +8,7 @@ categories:
 description:
 tags: vietnam phu-quoc
 priority: 0.5
+travel_dates: 
 ---
 
 Upon arriving at Duong Dong Airport in Phu Quoc I got a taxi to my hotel, the A74. I checked in and was shown to my room by a very friendly concierge. The room smelt a bit funny so went back down and asked if I could change rooms and they put me in a much bigger room, which still has some odd odour in it that I cant identify but I guess the whole place might have that smell.

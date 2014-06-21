@@ -8,6 +8,7 @@ categories:
 description:
 tags: vietnam, hcmc, motorbikes
 priority: 0.5
+travel_dates: 
 ---
 
 On the third day I finally took first motorbike taxi, which was a fun, cheap and fast way of getting the War Remnants Museum (Previously knows as the American War Crimes museum), plus the breeze from zooming around is nice and cooling. Why was I walking everywhere like a schmuck!? And yes Mum, I wore a helmet, although they're all so small in Vietnam I half think it might actually make things worse if there was actually an accident, concentrating the force in a ring around the top of my head.

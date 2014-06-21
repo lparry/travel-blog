@@ -8,6 +8,7 @@ categories:
 description: 
 tags: Pre-trip, Packing, Bags
 priority: 0.5
+travel_dates: 
 ---
 
 So when I was last in the adventure district looking at travel gadgets

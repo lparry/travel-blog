@@ -8,6 +8,7 @@ categories:
 description:
 tags: airplanes, airports, travelling, vietnam, melbourne, singapore
 priority: 0.5
+travel_dates: 
 ---
 
 I spent my entire last night in Melbourne with my mind racing, completely unable

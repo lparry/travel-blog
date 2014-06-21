@@ -8,6 +8,7 @@ categories:
 description: 
 tags: south-africa, johannesburg, cape-town
 priority: 0.5
+travel_dates: 
 ---
 
 So while in South Africa I managed to see the two main places people go, Johannesburg and Cape Town, which are pretty much at opposite ends of any spectrum you can imagine. Safety, things to do, how pretty the city is... Johannesburg ranks very low and Cape Town generally ranks pretty well.

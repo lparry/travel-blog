@@ -8,6 +8,7 @@ categories:
 description: 
 tags: thailand, koh-tao, diving, boats, airports, motorbikes
 priority: 0.5
+travel_dates: 
 ---
 
 My first day in Thailand I flew into Koh Saumi and got a minibus transfer to Chaweng beach. After looking at a few places that seems pretty average for the price, and generally remembering how nasty Chaweng was, I found some free wifi and looked up some places on Trip Advisor and decided to head to Lamai beach and try a few places there.

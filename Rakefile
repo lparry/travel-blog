@@ -91,8 +91,11 @@ task :new_post, :title do |t, args|
     post.puts "tags: example, tag"
     post.puts "dont_cache_images: true"
     post.puts "---"
+    post.puts ""
     post.puts "Intro"
+    post.puts ""
     post.puts "<!-- more -->"
+    post.puts ""
     post.puts "Body"
   end
 end

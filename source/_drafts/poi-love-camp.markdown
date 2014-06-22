@@ -2,7 +2,7 @@
 layout: post
 title: "Poi Love Camp"
 tags: Costa-Rica, Finca-Mia, Poi
-travel_dates: 
+travel_dates: 2014-01-12 - 2014-01-27
 ---
 
 <a href="http://www.flickr.com/photos/lucasthenomad/14327186196/in/set-72157645015360162" title="Group shot after hot springs by Lucas the nomad, on Flickr"><img src="http://farm4.staticflickr.com/3894/14327186196_422b5130c3_c.jpg" width="800" height="534" alt="Poi Love Camp group shot minus Jonathan"></a>

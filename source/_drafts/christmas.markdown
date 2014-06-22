@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas and NYE in the UK"
 tags: Edinburgh, Scotland, Nottingham, London, England, Christmas, NYE
-travel_dates: 
+travel_dates: 2013-12-23 - 2014-01-12
 ---
 
 For Christmas 2013, My Melbourne friends Leigh and Nicolette who currently live

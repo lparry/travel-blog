@@ -15,7 +15,8 @@ stay with them, so I had sorted out my flight from Spain to go straight there.
 <!-- more -->
 
 <i>Side note: My apologies about the lack of photos to go with the first half of
-this post, I got super slack with photography over Christmas.</i>
+this post, I got super slack with photography over Christmas and was having too
+much fun with friends.</i>
 
 On arrival I had a minor freak out where my bag hadn't come out at baggage
 collection, which contained pretty much all of my warm clothes. Thoughts of

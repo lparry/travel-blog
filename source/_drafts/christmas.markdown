@@ -5,13 +5,23 @@ tags: Edinburgh, Scotland, Nottingham, London, England, Christmas, NYE
 travel_dates: 2013-12-23 - 2014-01-12
 ---
 
+<a href="http://www.flickr.com/photos/lucasthenomad/14109593808/in/set-72157644891794991" title="Scottish breakfast by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5486/14109593808_2b09f27d65_c.jpg" width="600" height="800" alt="Scottish breakfast"></a>
+
 For Christmas 2013, My Melbourne friends Leigh and Nicolette who currently live
-in Edinburgh kindly offered to have myself and Matty P come stay with them, so I
-had sorted out my flight from Spain to go straight there. I had a minor freak
-out where my bag hadn't come out at baggage collection, and it contained pretty
-much all of my warm clothes that I very much needed, but there was about 10
-other people with the same issue, and it turned out that one bag had gotten
-stuck on the other side of the conveyor belt and knocked a dozen bags off it.
+in Edinburgh kindly offered to have myself and our English mate Matty P come
+stay with them, so I had sorted out my flight from Spain to go straight there.
+
+<!-- more -->
+
+<i>Side note: My apologies about the lack of photos to go with the first half of
+this post, I got super slack with photography over Christmas.</i>
+
+On arrival I had a minor freak out where my bag hadn't come out at baggage
+collection, which contained pretty much all of my warm clothes. Thoughts of
+spending Christmas day in Scotland in shorts and a T-shirt went through my head.
+It turned out there were about 10 other people with the same issue, and what has
+happened was that one bag had gotten stuck on the other side of the conveyor
+belt and knocked a dozen bags off out the back.
 
 I got rugged up and then got the bus into the city to meet up with Leigh and
 Nicolette, and their reaction on my arrival about my giant moustache was just
@@ -21,8 +31,6 @@ We got another bus out to their place at Leith to drop off my bags, then headed
 out to have dinner at a nice pub nearby their house. The place made a great
 rabbit burger, and we caught up and talked about past and future travel plans.
 
-<!-- more -->
-
 Leigh had to work the next day, Christmas eve, so Nic and I hung out for the day
 and got things together for the Christmas dinner.
 
@@ -31,7 +39,6 @@ us and dropped them off at their office, then went out and had an amazing
 Scottish breakfast for just £4. It had everything; bacon, eggs, flat sausage,
 round sausages, black pudding, beans. So unhealthy yet so very delicious.
 
-<a href="http://www.flickr.com/photos/lucasthenomad/14109593808/in/set-72157644891794991" title="Scottish breakfast by Lucas the nomad, on Flickr"><img src="http://farm6.staticflickr.com/5486/14109593808_2b09f27d65_c.jpg" width="600" height="800" alt="Scottish breakfast"></a>
 
 We went down the street to the nearby Lidl and shopped for some pork to roast
 and some veggies, and some bacon and eggs to make for  breakfast, then ducked

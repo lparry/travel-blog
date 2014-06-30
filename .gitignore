@@ -8,5 +8,4 @@ bin
 .bundle
 source/images/cache
 flickr
-source/css
 _deploy

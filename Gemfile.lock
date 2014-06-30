@@ -29,7 +29,7 @@ GEM
     execjs (2.0.2)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
-    httparty (0.13.1)
+    httparty-enterprise-edition (0.13.1.1)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     interception (0.5)
@@ -128,7 +128,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  httparty
+  httparty-enterprise-edition
   jekyll
   nokogiri
   pry

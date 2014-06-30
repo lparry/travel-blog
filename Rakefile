@@ -178,7 +178,7 @@ def pick_draft(drafts, message)
 
   puts "List of drafts:"
   drafts.each_with_index do |draft, index|
-    puts "  #{index + 1}) #{File.basename(draft)}"
+    puts "  #{" " if index < 9 }#{index + 1}) #{File.basename(draft)}"
   end
   number = ask(message).to_i 
   raise "invalid choice: #{number}" unless number.between?(1, drafts.size)

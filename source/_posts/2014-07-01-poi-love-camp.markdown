@@ -1,4 +1,5 @@
 ---
+date: 2014-07-01 20:35
 layout: post
 title: "Poi Love Camp"
 tags: Costa-Rica, Finca-Mia, Poi, retreat

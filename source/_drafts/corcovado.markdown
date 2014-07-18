@@ -2,7 +2,6 @@
 layout: post
 title: "Corcovado National Park, Costa Rica"
 tags: Corcovado, Costa-Rica
-dont_cache_images: true
 travel_dates: 2014-02-29 - 2014-03-02
 ---
 
@@ -35,6 +34,8 @@ end of town, going over to the bank at the other end of town to pay for the
 permit, then going all the way back to the office with the receipt to get the
 actual passes.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/14534495162/in/set-72157645539710311" title="Colourful houses in Puerto Jiminez by Lucas the nomad, on Flickr"><img src="https://farm3.staticflickr.com/2901/14534495162_302cd53ce9_c.jpg" width="800" height="600" alt="Colourful houses in Puerto Jiminez"></a>
+
 There were no camping passes available for the next day, so the other two opted
 to get a day pass to walk in and around a bit, while I took a day to relax and
 prepare for the 20 km hike into the camp ground where we would spend 2 nights
@@ -51,6 +52,8 @@ going to last long; 'A' seemed like a bit of a fool to me, and the two of them
 would speak together in French most of the time which was leaving me feeling
 completely isolated, but I figured it would be worth sticking together for the
 hike into the park at least for safety.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/14532104671/in/set-72157645539710311" title="Decorative security bars on the window by Lucas the nomad, on Flickr"><img src="https://farm3.staticflickr.com/2933/14532104671_6f8edda7a7_c.jpg" width="800" height="600" alt="Decorative security bars on the window"></a>
 
 I spent my day alone getting some laundry done, sorting out tent rental for all
 of us, and getting food supplies for myself. We hadn't discussed food beforehand
@@ -75,7 +78,7 @@ pretty amazing sighting to start the day.
 <a href="https://www.flickr.com/photos/lucasthenomad/14555646753/in/set-72157645539710311" title="Birds Fishing by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3924/14555646753_68106e6bbc_c.jpg" width="800" height="450" alt="Birds Fishing"></a>
 
 When we arrive and get dropped off at the beach, instead of making a start
-quickly and trying to get as much of the walk over with before the heat sets in
+quickly and trying to get as much of the walk over with before the heat sets in,
 I find out 'T' has lost his lighter and so is trying to light his cigarette with
 a magnifying glass, while 'A' starts unpacking and repacking his backpack,
 leaving me waiting around in full sun for 15 minutes while they fuck around,
@@ -102,15 +105,15 @@ We come to our first water crossing, a small stream no more than 50cm deep. 'T'
 carefully hops on rocks across it, and make it safely across. I take off my
 shoes and socks, cross the knee deep water and put them back on again, also
 keeping my shoes and socks dry. 'A' just trudges right on across in his shoes,
-with some 16 odd km left to walk. I really start to wonder about his
-intelligence and experience in the outdoors.
+with some 16 odd km left to walk that day. I really start to wonder about his
+common sense, and experience in the outdoors.
 
-<a href="https://www.flickr.com/photos/lucasthenomad/14534620122/in/set-72157645539710311" title="Bizzare "door" root by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3849/14534620122_85c353b303_c.jpg" width="601" height="800" alt="Bizzare "door" root"></a>
+<a href="https://www.flickr.com/photos/lucasthenomad/14534620122/in/set-72157645539710311" title="Bizzare 'door' root by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3849/14534620122_85c353b303_c.jpg" width="601" height="800" alt="Bizzare 'door' root"></a>
 
 After about 6km of fairly intense sweaty hiking, we stop and have a rest and eat
 something for lunch. After resting for a while 'T' tells me that he and 'A' are
-probably going to return back tomorrow because they didn't bring enough food. No
-fucking shit! Your tin of tuna, a sandwich, some bananas and a muesli bar each
+going to return back tomorrow because they didn't bring enough food. No fucking
+shit! Your single tin of tuna, a sandwich, some bananas and a muesli bar each
 aren't enough for 3 days of intense fucking hiking. Even less so when you
 started eating them the night before.
 
@@ -205,7 +208,7 @@ the jungle I brought neither a change of clothes, nor a towel. It is a
 refreshing shower, but the heavy humidity I think it might be a mistake.
 
 I make the decision that I'm not going back the next day. I need to rest and I'd
-rather risk being solo than have the liability of travelling with these clowns.
+rather risk being solo than have the liability of travelling with these guys.
 I say goodbye to 'T'. It is honestly a shame to split from him because he's a
 genuinely nice guy, but I just can't stand 'A'. I say instinctively "it was nice
 to meet you" when saying goodbye to to 'A' and he actually laughs at me. The
@@ -258,7 +261,7 @@ I really start to panic quite a lot that I'm lost and no one knows where I am.
 Way to go genius! This is how it feels to be that guy from the article in the
 newspaper who stupidly died lost, alone in the forest.
 
-I blow the whistle on the strap of my bag as hard as I can but nobody hears it.
+I blow the whistle on the strap of my bag as hard as I can. Nobody hears it.
 
 In the stupidity that you get in a state of panic, I run up the hill in the hope
 the path will somehow reappear. It doesn't.
@@ -335,10 +338,12 @@ At the bus station I had a beer, and met the very unpleasant Canadian ex-pat
 owner of the store there. He had a whinge at me about my taking off my shoes to
 try and dry out my sweat waterlogged feet. Then complained that the locals were
 all filthy and never washed their hands. He just generally whinged a lot, even
-more than I have in this blog post. He's lived there for 25 years, right on the
-edge of the park, but he says that only been into the park once. He claims to
-have seen all the big cats, and that because of that there's no point going into
-the park. I could not wait to get away from the guy.
+more than I have in this blog post, and that's a fair bit.
+
+He said he's lived there for 25 years, right on the edge of the park, but he
+says that only been into the park once. He claims to have seen all the big cats,
+and that because of that there's no point going into the park. I could not wait
+to get away from the guy.
 
 I ended up getting a lift back to town with a Swedish couple, Carolyn and
 Niklas, who had a guide and so weren't stuck waiting for the buses last in the

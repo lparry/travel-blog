@@ -1,4 +1,5 @@
 ---
+date: 2014-07-18 16:54
 layout: post
 title: "Corcovado National Park, Costa Rica"
 tags: Corcovado, Costa-Rica

@@ -1,4 +1,5 @@
 ---
+date: 2014-07-29 08:57
 layout: post
 title: "Uvita, Costa Rica"
 tags: Costa-rica, Uvita, festival, diving, caño-island

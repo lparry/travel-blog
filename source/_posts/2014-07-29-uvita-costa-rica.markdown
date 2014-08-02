@@ -13,14 +13,14 @@ Uvita. I found a place online called Flutterby hostel and after getting dropped
 off by the bus I walked to the hostel, which actually turned out to be a
 reasonably long walk in very hot sun. When I arrived the girl behind the desk
 said it was gutsy showing up with no reservation but I was pleased to find they
-had a bed for me in their pirate/treehouse dorm, one of the coolest dorms I've
-stayed in so far! The dorm doesnt really have any walls; it's pretty much open
+had a bed for me in their pirate tree-house dorm, one of the coolest dorms I've
+stayed in so far! The dorm doesn't really have any walls; it's pretty much open
 to nature and then every bed has a mozzie net. So chilled!
 
 <!-- more -->
 
 The reason I came to Uvita was to do some dives near Caño Island, so the first
-thing I did was get myself booked in. There wasnt a boat going out there for 3-4
+thing I did was get myself booked in. There wasn't a boat going out there for 3-4
 days but I felt like this would be a nice place to stop for a while so I was
 quite alright with that.
 
@@ -54,15 +54,15 @@ plentiful.
 The day that I got to go diving I got picked up from the hostel bright and early
 by a girl from the dive shop, fitted out with gear and met the other divers.
 They were a friendly bunch of expats from all over the place. Columbia,
-Venezula, Germany, Argentina, USA, all over! Everyone else spoke spanish so I
-had some good chances to practice listening, and sometimes they’d repeat parts
-in english which let me see see how close my interpretation was.
+Venezuela, Germany, Argentina, USA; all over! Everyone else spoke Spanish so I
+had some good chances to practice listening, and sometimes they'd repeat parts
+in English which let me see see how close my interpretation was.
 
 The boat ride out to Caño island took about 90 minutes, we were taken to shore
-to sign in to the marine park while the crew sorted out everyones gear on board
-the little boat. It was the smallest boat I’ve ever been on for such a long boat
+to sign in to the marine park while the crew sorted out everyone's gear on board
+the little boat. It was the smallest boat I've ever been on for such a long boat
 ride. The ocean was glassy smooth that day; I took motion sickness pills as I
-always do but I probably didn’t really need them after all. Still, I'd prefer to
+always do but I probably didn't really need them after all. Still, I'd prefer to
 eliminate the slightest chance of feeling seasick cause there are few sensations
 worse.
 
@@ -86,8 +86,8 @@ elsewhere. It was hard to count an exact number, but I think we could have seen
 any number of sharks between 6 and 15. Maybe it was just the same sharks over
 and over, but it felt like there were at least 10 different ones down there.
 
-The german guy with us actually snuck up on one and touched it’s tail, and later
-told me how it’s possible to turn them over and rub their belly and they go into
+The German guy with us actually snuck up on one and touched it's tail, and later
+told me how it's possible to turn them over and rub their belly and they go into
 a trance like state until they get flipped over right way up again. I'd love to
 see it some day.
 
@@ -150,6 +150,6 @@ complete legends!
 
 <a href="https://www.flickr.com/photos/lucasthenomad/14534884297/in/set-72157645848999661" title="Best Fest 2013 by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3838/14534884297_0ef1d5160e_c.jpg" width="800" height="601" alt="Best Fest 2013"></a>
 
-Sunday night was a lot quiter than the Saturday, as one would expect, but it was
-great to get more time to hang out with my new found friends. Very glad that I
-crossed paths with those guys and I hope I run into them again some day soon!
+Sunday night was a lot quieter than the Saturday, as one would expect, but it
+was great to get more time to hang out with my new found friends. Very glad that
+I crossed paths with those guys and I hope I run into them again some day soon!

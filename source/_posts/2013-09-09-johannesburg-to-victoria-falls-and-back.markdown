@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/60703705893/johannesburg-to-vict
 author:
 categories:
 description:
-tags: victoria-falls, johannesburg, south-africa
+tags: africa, victoria-falls, johannesburg, south-africa
 priority: 0.5
 travel_dates: 
 ---

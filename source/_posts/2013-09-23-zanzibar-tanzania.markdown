@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/62012492702/zanzibar-tanzania
 author: 
 categories: 
 description: 
-tags: tanzania, zanzibar
+tags: africa, tanzania, zanzibar
 priority: 0.5
 travel_dates: 
 ---

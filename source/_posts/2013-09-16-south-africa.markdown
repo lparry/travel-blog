@@ -6,7 +6,7 @@ old_blog_url: http://www.lucasthenomad.com/post/61358245398/south-africa
 author: 
 categories: 
 description: 
-tags: south-africa, johannesburg, cape-town
+tags: africa, south-africa, johannesburg, cape-town
 priority: 0.5
 travel_dates: 
 ---

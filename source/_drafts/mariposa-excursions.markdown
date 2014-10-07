@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Excursion highlights from La Mariposa"
-tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, León, Laguna-Apoya
+tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, León, Laguna-Apoyo
 travel_dates: 2014-02-22 - 2014-03-24
 ---
 
@@ -62,7 +62,8 @@ Vulcan Masaya
 =============
 
 One of the afternoon trips was to see an active volcano. It's not actually
-Volcan Masaya, which is actually the dormant crater next to ????.
+Volcan Masaya, which is apparently the dormant crater next to the Santiago
+crater.
 
 It's definitely the easiest volcano you can summit, with the car park being
 right on the crater rim.
@@ -171,10 +172,10 @@ We went to the National Museum, which fronted onto a big square next to a leafy
 park and the skeleton of a cathedral, made structurally unsound in the big
 earthquake in 1979.
 
-We also visited the site of Samosa's palace site, which has a lookout over the
-city, and on the other side into laguna ????, which is apparently still
-suffering the pollution from dumping sewerage into it during Samosa's reign. The
-only thing left of Samosa's palace was the basement, although the other walls
+We also visited the site of Samoza's palace site, which has a lookout over the
+city, and on the other side into a laguna, which is apparently still
+suffering the pollution from dumping sewerage into it during Samoza's reign. The
+only thing left of Samoza's palace was the basement, although the other walls
 are opened up now and it is now home to a Sandinista museum.
 
 We went capped off the day going out for dinner at a restaurant by the lake. The
@@ -225,11 +226,11 @@ crab seemed to show up a lot, with various versions of the tale saying if you
 caught him you'd either have something great happen to you, or something
 terrible, depending on which story you believed. Nice and consistent.
 
-Lagoona Apoya
+Laguna Apoyo
 =============
 
 The last excursion, which I actually stayed an extra few days to go along on,
-was to Laguna Apoya, a volcanic crater, now filled with water forming a lake.
+was to Laguna Apoyo, a volcanic crater, now filled with water forming a lake.
 
 It was a very chilled day of relaxing in the sun. I spent quite a while out
 floating on the lake in a tire tube, which was more effort than you'd expect

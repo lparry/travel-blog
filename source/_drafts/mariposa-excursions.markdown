@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Excursion highlights from La Mariposa"
-tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, León, Laguna-Apoyo
+tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, León, Laguna-Apoyo, la-mariposa, Nicaragua
 travel_dates: 2014-02-22 - 2014-03-24
 ---
 
@@ -68,9 +68,9 @@ the trees and look at passing boats.
 
 We stopped at a bar on one of the islands for a cold drink and a swim in the
 lake. There was a sprung diving board which made for some fun jumping into the
-lake, which was a beautiful temperature. Most of the time I'd spent in the water
-prior to this had been in salt water, so it was interesting to see how much more
-easily I sank in fresh water.
+lake, which was a beautiful temperature. Most of the swimming I'd done on this
+trip had been in salt water, so it was interesting to see how much more easily I
+sank in fresh water.
 
 
 Vulcan Masaya
@@ -112,7 +112,7 @@ We put on safety hats and got torches, and went 180M down into another tunnel
 which was formed by lava flow "recently" (800 years?). Pretty cool to see all
 the blue volcanic stone and bubbles. Tree roots were creeping in from the
 ceiling giving it a fantastical sort of feeling. When we reached the deepest
-point in the cave that we would visit, we all turned off our torches breifly to
+point in the cave that we would visit, we all turned off our torches briefly to
 experience total darkness. Spoiler: it was black.
 
 La Boquita
@@ -127,7 +127,7 @@ the waves, and eating seafood for lunch.
 
 There were quite large and powerful waves with a fair bit of current. It was
 loads of fun to bodysurf in, although it was pretty hard to keep your head up
-when riding a wave and I did get tumbled over in sommersaults involuntarily a
+when riding a wave and I did get tumbled over in somersaults involuntarily a
 number of times.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/14734844617/in/set-72157646060932408" title="La Boquita by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5569/14734844617_4928b29d29_c.jpg" width="800" height="450" alt="La Playa"></a>
@@ -149,7 +149,7 @@ else's enormous lunches. Thanks guys!
 Horseback Riding
 ================
 
-One sunday morning I went horseback riding with two other students, Nicole and
+One Sunday morning I went horseback riding with two other students, Nicole and
 Caitlin, on some of the horses that live on the school's farm.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/14918342771/in/set-72157646060932408" title="I'm on a horse by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5556/14918342771_ed49e169d2_c.jpg" width="601" height="800" alt="I'm on a horse"></a>
@@ -271,11 +271,11 @@ and dates.
 After lunch we went to the museum of Myths and Legends. It is hosted in a
 building than used to be an old jail, opened in 1921 and closed in 1979. It
 contained lots of mannequins of famous Nicaraguans, which if believed to be
-anotomically accurate tell us that Ruben Dario had a tiny little head.
+anatomically accurate tell us that the famous poet Ruben Dario had a tiny little head.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/15286192457/in/set-72157648514224155" title="Skeletons by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3946/15286192457_418ca40d69_c.jpg" width="800" height="601" alt="Skeletons"></a>
 
-Lots of the myths sound like they were made up to scare children and husbands
+Lots of the myths sounded like they were made up to scare children and husbands
 into behaving themselves. Nicaraguans seem to be very superstitious. A golden
 crab seemed to show up a lot, with various versions of the tale saying if you
 caught him you'd either have something great happen to you, or something

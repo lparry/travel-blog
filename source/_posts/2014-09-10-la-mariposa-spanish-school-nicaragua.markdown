@@ -2,7 +2,7 @@
 date: 2014-09-10 10:09
 layout: post
 title: "La Mariposa Spanish School, Nicaragua"
-tags: Nicaragua, Spanish, school, homestay, volcanoes, dogs, monkeys
+tags: Nicaragua, Spanish-school, homestay, volcanoes, dogs, monkeys, La-mariposa
 travel_dates: 2014-02-20 - 2014-03-24
 ---
 

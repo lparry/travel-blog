@@ -1,7 +1,8 @@
 ---
+date: 2014-10-09 19:44
 layout: post
 title: "Excursion highlights from La Mariposa"
-tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, León, Laguna-Apoyo, la-mariposa, Nicaragua
+tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, Leon, Laguna-Apoyo, la-mariposa, Nicaragua
 travel_dates: 2014-02-22 - 2014-03-24
 ---
 

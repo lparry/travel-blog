@@ -5,7 +5,7 @@ group :development do
   gem 'jekyll'
   gem 'pry'
   gem 'pry-stack_explorer'
-  gem 'pry-plus'
+#  gem 'pry-plus'
   gem 'httparty-enterprise-edition' # flickr image fetching
   gem 'nokogiri' # flickr image fetching and caching
   gem 'rubypants' # for smart quotes

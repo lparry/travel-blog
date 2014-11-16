@@ -5,6 +5,8 @@ travel_dates:  2014-04-21 - 2014-05-10
 tags: Little-Corn-Island, Leon, Visa-run, Nicaragua, Costa-Rica
 ---
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15613692069/in/set-72157646984886813" title="Tall tall palms by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5602/15613692069_d33c8fb745_c.jpg" width="800" height="601" alt="Tall tall palms"></a>
+
 After I was done hiding out in Esteli over easter, trying to avoid the masses of
 locals who apparently usually head to the coasts and cause a ruckus, I booked a
 flight from Managua to Big Corn Island. This was the most last minute flight
@@ -20,21 +22,29 @@ the airport they actually get you to hop on the scale with your carry-on
 that me and my bags would probably still weight less than some of the obese
 people I'd seen on buses.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15797453391/in/set-72157646984886813" title="The Planes to Big Corn by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7486/15797453391_31ff4f83ec_c.jpg" width="800" height="600" alt="The Planes to Big Corn"></a>
+
 Knowing it was a small plane, I was very surprised by the number of people at
 the airport, the waiting area was packed! It turns out they run multiple planes
 along the route for each scheduled flight. That day it was two little single
 propeller 12 seaters and one bigger plane. I got put in one of the 12 seaters,
 and scored a seat directly behind the pilot.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15614166357/in/set-72157646984886813" title="Right behind the pilot by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7545/15614166357_1a4ae860d3_c.jpg" width="800" height="600" alt="Right behind the pilot"></a>
+
 We flew quite low for most of the flight giving nice views of the country,
 maxing out at 9500 feet (I could read the dials from where I was sitting).
 Looking down from a tiny little plane like that makes flying feel wondrous, like
 it really should.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15797481511/in/set-72157646984886813" title="Murkey brown beaches. yuk by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8414/15797481511_d59e9dec9e_c.jpg" width="800" height="600" alt="Murkey brown beaches. yuk"></a>
+
 As we were flying over the last of the mainland, the terrain below us was very
 swampy and wet, and the Caribbean sea close to shore was all brown and murky
 looking for about half a kilometre before it turned into a nice blue like on the
 post cards.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15800937592/in/set-72157646984886813" title="Coming in to land by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5615/15800937592_8b60c1568c_c.jpg" width="800" height="600" alt="Coming in to land"></a>
 
 On landing I was impressed and surprised by just how quickly the plane came to a
 halt. I wonder how long the tyres on one of these little planes last, braking
@@ -48,7 +58,7 @@ people had to wait for a fourth plane to come with their luggage.
 From the Big Corn Island airport, I shared a cab to the dock where I caught a
 ferry to the place I actually wanted to be, Little Corn Island. The seas were a
 lot rougher than they had looked from the air, but a seasickness pill kept me
-feeling fine for the 1-2 hours of the journey.
+feeling fine for the duration of the journey.
 
 The evening I arrived on Little Corn the power was out. The island normally only
 has power for a few hours a day, but something had gone wrong with the island's
@@ -65,6 +75,8 @@ a few nights there I moved over to a little cabin on the beach at Elsa's place
 over the other side of the island for pretty much the same price, where I could
 see the water from my door, and stepped out my door right onto the sand.
 Constant cool sea breezes, a much nicer location!
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15775878106/in/set-72157646984886813" title="Conch shell art by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7498/15775878106_65d6c5b1d1_c.jpg" width="800" height="601" alt="Conch shell art at Elsa's place"></a>
 
 That said, the staff at Elsa's place were some of the least friendly people I've
 ever met, and there was some stuff about the place that was just plain weird.
@@ -86,6 +98,8 @@ had to stand up to collect $105 I owed; a lot of money in Nicaragua. I struggle
 to believe it's just a cultural thing, the family running this place really just
 seem to hate the very people they rely on for income.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15614640840/in/set-72157646984886813" title="The path to my beach hotel by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5609/15614640840_916536c448_c.jpg" width="600" height="800" alt="The path to my beach hotel"></a>
+
 I asked if I could use the laundry sink I'd seen near my room. No. I asked if
 they had a laundry service. No. I asked if they could tell me somewhere I could
 go to get my laundry done. No. Ok, screw you then. I'm going to take stupidly
@@ -99,7 +113,6 @@ album back to back. I was trying to focus on doing things slowly and with more
 control, and I found the Amelie soundtrack as nearly perfect for that, with
 Opiuo's Meraki thrown in for something a bit more upbeat now and then.
 Definitely saw some good improvement during the time I was there.
-
 
 The diving on Little Corn, the whole reason I was there, was fantastic. Lots and
 lots of big marine life. I think I saw at least one nurse shark on every single
@@ -136,7 +149,7 @@ wherever it's available, the nearest person. Then, once the high-stress incident
 is over, I can find my “buddy”, or more likely the DM for advice on what step to
 take next; most likely to abort the dive.
 
-Fuck PADI/SSI's buddy system when you’re diving with holiday divers you’ve never
+Forget PADI/SSI's buddy system when you’re diving with holiday divers you’ve never
 even met before, it's just not safe or realistic. Rant over
 
 One new thing I'd never seen before now is the spearing of lionfish to protect
@@ -169,6 +182,10 @@ eyes reflect the torchlight back as little pink dots on the coral and rocks.
 Some were quite big, and really fast moving. As is often the case, the night
 dive was easily my favourite.
 
+(Sorry about how text heavy this is. Feel free to gift me an underwater camera
+and I promise my diving posts will be way more interesting!)
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15797639791/in/set-72157646984886813" title="Soo many freaking lobster traps by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7582/15797639791_2ecbdb07bd_c.jpg" width="800" height="450" alt="Soo many freaking lobster traps"></a>
 
 One afternoon I walked almost the entire way around the island, along the beach
 past all the fancy hotels that I could never afford to stay at, to lots of
@@ -178,11 +195,12 @@ just pretty much vertical cliffs with waves crashing against them, so I went up
 a part that wasnt completely straight up, and ventured along random goat tracks
 in the forest until I found the village.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15775872256/in/set-72157646984886813" title="Scorched earth by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7574/15775872256_8cf92c9c85_c.jpg" width="800" height="601" alt="Scorched earth"></a>
+
 I was half expecting to stumble across some secret hideout for Columbian drug
 smugglers, but all I found was a big chunk of forest that had recently had a big
 fire. No idea how they would have managed to put it out, they may have just had
 to let it burn out.
-
 
 Guessing how long I would want to be on Little Corn Island up front (by booking
 my flight as a return) meant there were a few days after I was done diving where I
@@ -193,6 +211,8 @@ out what I would be doing once I was back on the mainland.
 
 Visa Run
 ========
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15613751839/in/set-72157646984886813" title="Middle of the runway by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5614/15613751839_0882408d78_c.jpg" width="800" height="600" alt="Middle of the runway"></a>
 
 After Little Corn, I got the ferry back to Big corn and spent the night there
 before my flight the next morning. I walked from where I was staying to the
@@ -206,6 +226,8 @@ mid-flight that when I landed I was going to head straight for the Costa Rican
 border to do a visa run. Having spent nearly 3 months in Nicaragua, My CA-4 visa
 that was supposed to cover Nicaragua, Honduras, El Salvador and Guatemala was
 nearly expired and I hadn't even made it to two of them yet.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15179633054/in/set-72157646984886813" title="Chicken bus by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5613/15179633054_a95bd56d5a_c.jpg" width="800" height="600" alt="Chicken bus"></a>
 
 As is always the case, the taxi from the airport to the bus station cost more
 than the buses from there, half way across the country to the border and into
@@ -227,12 +249,13 @@ office. It's a $7 tax, plus an unavoidable $2 "service charge" and it took them
 half an hour to do whatever it is they're doing. They do accept
 their own currency, but the rate they offer is terrible.
 
-Honestly, I don't know why countries do shit like this. I just means you leave
-on a sour note. It's going to be the most recent thing in your memory associated
-with the country. Not the nice time you had at the beach, but how they made you
-walk a kilometre in the hot sun with heavy bags, and made you stand around and
-wait to pay a stupid tax.  I'd rather have bribed a border guard $10 and not
-have to mess around with this nonsense, but I'm not that ballsy.
+Honestly, I don't know why countries do stupid stuff like this. It just means
+you leave their country on a sour note. It's going to be the most recent thing
+in your memory associated with the country. Not the nice time you had at the
+beach, but how they made you walk a kilometre in the hot sun with heavy bags,
+and then made you stand around and wait to pay a stupid tax. I'd rather have bribed a
+border guard $10 and not have to mess around with this nonsense, but I'm not
+that ballsy.
 
 Leon
 ====
@@ -255,6 +278,8 @@ have to pay more for the anaesthetic, but that didn't seem to be the case.
 Unfortunately, the dentist didn't have time to do the replacement fillings the
 same day, so she put in a temporary one for me for the night.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15614829080/in/set-72157646984886813" title="Leon Cathedral by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7574/15614829080_e57a1085d5_c.jpg" width="800" height="600" alt="Leon Cathedral"></a>
+
 I went back the next day and got the two fillings replaced properly, one in the
 morning and one in the afternoon. She said the ones I had were terrible, which I
 thought so myself. Apparently there's some sort of laboratory filling you can
@@ -273,11 +298,15 @@ Volcanoes where you can actually see glowing lava, but apparently I was the only
 person who signed up so it didn't go ahead. Disappointed. Some day I'll see lava
 glowing.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/15799583825/in/set-72157646984886813" title="Flor de Caña by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7541/15799583825_0eef790935_c.jpg" width="800" height="601" alt="Flor de Caña"></a>
+
 Instead I took myself out to the Flor de Caña factory to do a tour of that. For
 those who know, Flor de Caña is a rum made in Nicaragua, and it's really damn
 tasty stuff. I'd never really drunk much rum before coming to Nicaragua, but I
 drank a lot of it while I was there and learned an appreciation for the good
 stuff, straight up.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15614818680/in/set-72157646984886813" title="Molasses Vats by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7485/15614818680_85e5723845_c.jpg" width="800" height="601" alt="Molasses Vats"></a>
 
 It was a pretty cosy tour, just me and two American brothers. We drove past the
 giant vats of molasses, each holding 1,000,000 litres of molasses. I couldn't
@@ -309,6 +338,8 @@ pretty but they wouldn't allow photos down there :( I'll never understand why
 that's a thing.  They showed us how the 18 year old has no remaining sugars, by
 getting us to put a little bit in the palm of our hands and rub it dry, showing
 that it really doesn't leave any sticky residue.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/15799662315/in/set-72157646984886813" title="Tiny tour group by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5605/15799662315_e615a4b10a_c.jpg" width="800" height="601" alt="Tiny tour group"></a>
 
 Later at the end of the tour we got to try the 7 year old with soda, but I'd
 already drank plenty of that. What I really wanted was to try the 25 year old,

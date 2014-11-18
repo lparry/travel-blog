@@ -1,4 +1,5 @@
 ---
+date: 2014-11-17 20:42
 layout: post
 title: "Little Corn Island, Leon, And A Visa Run"
 travel_dates:  2014-04-21 - 2014-05-10

@@ -46,7 +46,7 @@ headed to the beach to spin fire. It was my first time spinning with real flames
 in about a year, but it was also the first time I know of that I've been
 videoed, so I can actually show more than just still images for a change.
 
-YOUTUBE VIDEO GOES HERE
+<div class="videowrapper"><iframe width="420" height="315" src="//www.youtube.com/embed/LMa0Ox5I3N4" frameborder="0" allowfullscreen></iframe></div>
 
 Looking at the video afterward, I can see a lot of places where I was falling
 into pretty dull repetitive sequences, but I still think there's some good stuff

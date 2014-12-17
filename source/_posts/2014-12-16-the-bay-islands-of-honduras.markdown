@@ -1,4 +1,5 @@
 ---
+date: 2014-12-16 21:02
 layout: post
 title: "The Bay Islands of Honduras"
 tags: diving, Utila, Roatan, Honduras

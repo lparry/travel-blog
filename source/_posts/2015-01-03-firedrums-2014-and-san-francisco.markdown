@@ -1,4 +1,5 @@
 ---
+date: 2015-01-03 17:22
 layout: post
 title: "FireDrums 2014 and San Francisco"
 tags: Poi, Festival, graffiti, San-Francisco, USA

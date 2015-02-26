@@ -47,14 +47,13 @@ in Thailand the other 3.
 The guy is like one of those self made success stories you'd read about in a
 magazine. He started off with a travel blog, and then worked out how to make
 very decent money online through SEO marketing. He had visited 114 countries
-when I met him, and plans to visit every country in the world in the next few
-years.
+when I met him (now 141 with the slow rate I update my blog), and plans to visit
+every country in the world in the next few years. I'll chuck in a plug for [his
+website](http://onestep4ward.com) in case you want to see for yourself.
 
 It was really interesting to talk to someone who's been on the road so long, a
-whole lot more insightful than the average traveller about the difficulties and
-hardships of truly living on the road (as opposed to "travelling" where you stop
-in London for 2 years to work, and tell everyone you meet how you've been on the
-road for over 2 years).
+whole lot more insightful than the average backpacker about the difficulties and
+challenges of truly living life on the road, as opposed to just living overseas.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/16038626042/in/set-72157649787007102" title="IMG_2870.jpg by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7492/16038626042_7968b31eab_c.jpg" width="800" height="600" alt="D&D Brewery"></a>
 
@@ -94,6 +93,8 @@ it which sounds like it would be delicious! Getting shown around the back room
 and all the brewery bling had me reminiscing about my years as an all-grain
 homebrewer throughout university.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16453437188/in/set-72157650622765828" title="Thomas who runs the only German brewery in Honduras by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8624/16453437188_e7d37d3d3c_c.jpg" width="601" height="800" alt="Thomas who runs the only German brewery in Honduras"></a>
+
 The two beers on tap while I was there were a hefeweizen and a red lager. I really
 enjoyed the hefe, but everyone else seemed to prefer the lager. One thing is
 certain, Thomas definitely makes some of the best beer in all of Honduras!
@@ -104,9 +105,18 @@ other exotic Central American birds such as toucans, and parrots, all of which
 have been donated by pet owners who no longer wanted them, or confiscated from
 bird smugglers.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16018395964/in/set-72157650622765828" title="Me and a bunch of macaws by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8584/16018395964_1f82870c5e_c.jpg" width="800" height="601" alt="Me and a bunch of macaws"></a>
+
 There's a big interactive area where you could get a photo taken with a bunch of
 the Macaws; they'd perch on you and then you'd twist your wrist a little and the
 birds would spread their wings for the photo!
+
+They were actually keeping a whole lot of macaws at Copan Ruins to try and get
+them used to the area, and then later opened their cages releasing them into the
+wild, in an effort to repopulate the Macaws the feature so heavily in the
+carvings there.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16639283661/in/set-72157650622765828" title="Toe biting toucan. What a little bastard by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7292/16639283661_538905ea3a_c.jpg" width="800" height="601" alt="Toe biting toucan. What a little bastard"></a>
 
 There was also a very naughty toucan, for some reason missing his tail feathers,
 that hopped around on the ground trying to peck at toes. I was initially running
@@ -117,11 +127,15 @@ I couldn't visit Copan without visiting the ruins that the place is named after,
 so I headed out there the next day and grouped up with a big family (half
 Americans, half Hondurans) and got a guide to show us around the site.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16639405781/in/set-72157650622765828" title="Copan main steps by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7284/16639405781_489ed94d71_c.jpg" width="800" height="601" alt="Copan main steps"></a>
+
 The ruins were vertically very tall, but it really wasn't that big of a site.
 The “amazing detail” that people had been telling me about actually seemed kind
 of plain, especially compared to other ruins like Angkor Wat (although now
 having seen other Mayan ruins, Copan really is quite detailed compared to other
 Mayan sites).
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16018478584/in/set-72157650622765828" title="Copan by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8657/16018478584_eb2dd7b3bf_c.jpg" width="800" height="601" alt="Copan"></a>
 
 There's lots of work that's been done reconstructing many of the building of
 Copan. Our guide pointed our a few odd shaped hills and told us that that is how
@@ -129,6 +143,10 @@ they all were when the site was found, with tree roots tearing the structures
 apart, dirt filling in the gaps and eventually just looking like a pile of
 rubble. It's actually quite incredible they're able to figure out how to put
 them back together at all.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16454733849/in/set-72157650622765828" title="Standing over Copan by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7286/16454733849_19916c22f2_c.jpg" width="800" height="601" alt="Standing over Copan"></a>
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16433620557/in/set-72157650622765828" title="Partially restored building by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8629/16433620557_331ea701fd_c.jpg" width="800" height="601" alt="Partially restored building"></a>
 
 I also found out that the biggest structures actually used the previous
 buildings on the same site inside them as foundations. Modern tunnels have being

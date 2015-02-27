@@ -1,4 +1,5 @@
 ---
+date: 2015-02-26 18:12
 layout: post
 title: "Honduras Mainland - Lago Yejoa, Copan"
 dont_cache_images: true
@@ -6,7 +7,7 @@ travel_dates: 2014-06-05 - 2014-06-13
 tags: lago-yejoa, waterfalls, copan, ruins, honduras
 ---
 
-<a href="https://www.flickr.com/photos/lucasthenomad/15852033030/in/set-72157649787007102" title="Waterfall by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8635/15852033030_1c81e889e0_c.jpg" width="800" height="601" alt="Waterfall near Lago Yejoa"></a>
+<a href="https://www.flickr.com/photos/lucasthenomad/15852033030/in/set-72157649787007102" title="Waterfall by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8635/15852033030_5086636e7e_c.jpg" width="800" height="601" alt="Waterfall near Lago Yejoa"></a>
 
 After a cram packed week up in the USA, I felt like I really needed a bit of a
 rest, so once I got back down to Honduras I headed directly down to Lago Yejoa,
@@ -15,7 +16,7 @@ the home of the D&D Brewery.
 <!-- more -->
 
 The brewery is attached to a hostel set on a little forested block of land, both
-of which are run by Bobby, the 27 year old American owner. He tells me he runs
+of which are run by Bobby, the late-20s American owner. He tells me he runs
 the brewery as a bit of fun, and to provide some jobs for the locals. Apparently
 the area wasn't really on the tourist circuit at all back before he started up
 here, and now lots of people are coming to the area specifically to visit the
@@ -42,7 +43,7 @@ interesting people I've met on the road so far. He's an Irish bloke who makes
 his living as a travel blogger, travelling 9 months out of every year and living
 in Thailand the other 3.
 
-<a href="https://www.flickr.com/photos/lucasthenomad/15852046620/in/set-72157649787007102" title="Johnny and the lake by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7516/15852046620_af8353b227_c.jpg" width="800" height="600" alt="Johnny and the lake"></a>
+<a href="https://www.flickr.com/photos/lucasthenomad/15852046620/in/set-72157649787007102" title="Johnny and the lake by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7516/15852046620_49658900ab_c.jpg" width="800" height="600" alt="Johnny and the lake"></a>
 
 The guy is like one of those self made success stories you'd read about in a
 magazine. He started off with a travel blog, and then worked out how to make
@@ -55,7 +56,7 @@ It was really interesting to talk to someone who's been on the road so long, a
 whole lot more insightful than the average backpacker about the difficulties and
 challenges of truly living life on the road, as opposed to just living overseas.
 
-<a href="https://www.flickr.com/photos/lucasthenomad/16038626042/in/set-72157649787007102" title="IMG_2870.jpg by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7492/16038626042_7968b31eab_c.jpg" width="800" height="600" alt="D&D Brewery"></a>
+<a href="https://www.flickr.com/photos/lucasthenomad/16038626042/in/set-72157649787007102" title="D&D Brewery by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7492/16038626042_a74543b628_c.jpg" width="800" height="600" alt="D&D Brewery"></a>
 
 Johnny and myself did a hike up to a nearby lookout the next morning, and we
 were half way up when my flip-flops decided to tear through the toe strap,
@@ -64,7 +65,7 @@ the top was pretty nice and my feet held up surprisingly well, although I did
 get some nasty ant bites and found it very hard coming down hill through all the
 mud.
 
-<a href="https://www.flickr.com/photos/lucasthenomad/15853267539/in/set-72157649787007102" title="Me and the view by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7491/15853267539_6970d70a48_c.jpg" width="800" height="601" alt="Me and the view"></a>
+<a href="https://www.flickr.com/photos/lucasthenomad/15853267539/in/set-72157649787007102" title="Me and the view by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7491/15853267539_275da5e0a0_c.jpg" width="800" height="601" alt="Me and the view"></a>
 
 After nearly a week at D&D I was feeling re-energised and so I got the chicken
 bus to Copan via San Pedro Sula, during which I had the closest thing to a bad

@@ -2,7 +2,7 @@
 date: 2014-10-09 19:44
 layout: post
 title: "Excursion highlights from La Mariposa"
-tags: Granada, Vulcan-Masaya, La-Boquita, horseback-riding, Managua, Leon, Laguna-Apoyo, la-mariposa, Nicaragua
+tags: Granada, Volcan-Masaya, La-Boquita, horseback-riding, Managua, Leon, Laguna-Apoyo, la-mariposa, Nicaragua
 travel_dates: 2014-02-22 - 2014-03-24
 ---
 
@@ -74,7 +74,7 @@ trip had been in salt water, so it was interesting to see how much more easily I
 sank in fresh water.
 
 
-Vulcan Masaya
+Volcan Masaya
 =============
 
 <a href="https://www.flickr.com/photos/lucasthenomad/14898349376/in/set-72157646060932408" title="Smoking volcano crater by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5595/14898349376_1c716d46db_c.jpg" width="800" height="601" alt="Smoking volcano crater"></a>

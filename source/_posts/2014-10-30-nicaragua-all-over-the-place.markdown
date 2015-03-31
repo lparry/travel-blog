@@ -51,7 +51,7 @@ did it taste awful!
 <a href="https://www.flickr.com/photos/lucasthenomad/15459758699/in/set-72157648995463971" title="Looking out from half way up Maderas by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3949/15459758699_cb68988ba5_c.jpg" width="800" height="601" alt="Looking out from half way up Maderas"></a>
 
 Another day I hiked halfway up Volcan Maderas to the lookout, a nice view of
-Vulcan Concepción. I left at 11, back down by 1:45-2, which seemed like pretty
+Volcan Concepción. I left at 11, back down by 1:45-2, which seemed like pretty
 good time, I'd heard 2 hours each way. the last few hundreds metres before the
 lookout to Concepción was really tough; super slippery and wet. Not super muddy
 by that point, but I could already tell my shoes wouldn't be up to the whole

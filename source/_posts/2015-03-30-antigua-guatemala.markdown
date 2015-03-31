@@ -1,4 +1,5 @@
 ---
+date: 2015-03-30 18:24
 layout: post
 title: "Antigua Guatemala"
 travel_dates: 2014-06-13 - 2014-06-17

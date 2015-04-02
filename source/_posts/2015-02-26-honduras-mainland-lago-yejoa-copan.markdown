@@ -2,7 +2,6 @@
 date: 2015-02-26 18:12
 layout: post
 title: "Honduras Mainland - Lago Yejoa, Copan"
-dont_cache_images: true
 travel_dates: 2014-06-05 - 2014-06-13
 tags: lago-yejoa, waterfalls, copan, ruins, honduras
 ---

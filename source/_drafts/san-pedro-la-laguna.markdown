@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "San Pedro La Laguna, Lake Atitlan"
-travel_dates: 2014-06-18 - 2014-06-29
-tags: san-pedro-la-laguna, lake-atitlan, guatemala, spanish-school, volcanoes
+title: "San Pedro La Laguna, Lake Atitlan, Guatemala"
+travel_dates: 2014-06-18 - 2014-06-30
+tags: san-pedro, lake-atitlan, guatemala, spanish-school, volcanoes
 ---
 
 <a href="https://www.flickr.com/photos/lucasthenomad/16989378842/in/set-72157651239918317" title="First glimpse of the lake, and look at those potholes! by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7646/16989378842_e0c07e2ca3_c.jpg" width="800" height="500" alt="First glimpse of the lake, and look at those potholes!"></a>
@@ -178,4 +178,6 @@ the massive crowds of people everywhere didn't bother me for a chance.
 We were both planning on going to another city called Xela in the next few
 weeks, so we traded numbers so we could stay in touch and maybe meet up and hang
 out again there some time. I was a bit sad that our time at the school hadn't
-overlapped, but was hopeful that we would catch up again in a few weeks.
+overlapped, but was hopeful that we would catch up again in a few weeks. Little
+did I know at that time that we would end up hanging out and travelling together
+for nearly the next two months :)

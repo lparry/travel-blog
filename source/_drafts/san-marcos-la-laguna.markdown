@@ -68,11 +68,15 @@ but it was apparently ok to go along just for the day, so I did. They were up to
 week 3 of the current course, so perhaps it wasn't the best place to start but I
 gave it a go anyway.
 
+<p class="flickr-image-container"><span class="polaroid"><img src="/images/sanmarcos/tumblr_lw1ymvkD9W1qh2i8s.jpg" width="800" height="601" alt="Lake Atitlan" class="img-responsive"><em>A stolen photo of the big meditation pyramid</em></span></p>
+
 The big pyramid temple has a strange entrance where you go down steps
 underground, then back up steps into the temple through a hole in the floor.
 Once everyone is inside the floor folds over the entrance like a cellar, so
 you're in a sealed up pyramid. There were some windows higher up letting in
 light, but there's no leaving early.
+
+<p class="flickr-image-container"><span class="polaroid"><img src="/images/sanmarcos/one-of-the-meditation.jpg" width="800" height="601" alt="Lake Atitlan" class="img-responsive"><em>A stolen photo of pyramids within pyramids</em></span></p>
 
 In each corner of the pyramid, there were smaller pyramids, and in the centre of
 the room there was a bigger one covered over by a piece of cloth. Once the
@@ -82,6 +86,8 @@ top of the centre pyramid. New age mystical!
 There were about 25 people in the room, sitting around the edges facing in, each
 with a little padded mat and a little wooden slanted stool to sit on.
 
+<p class="flickr-image-container"><span class="polaroid"><img src="/images/sanmarcos/contact.jpg" width="800" height="601" alt="Lake Atitlan" class="img-responsive"><em>A stolen photo of inside the pyramid</em></span></p>
+
 The session started with 30 minutes of silent meditation, where we were told to
 focus on our breathing. It was quite a challenge for someone who's never tried
 it before; after about 15 minutes one of my legs was completely numb. I tried to
@@ -89,23 +95,23 @@ manoeuvre it so the blood would flow again but it just wouldn't wake up. After
 20 minutes I didn't care any more and made a bunch of noise switching my legs
 around so the numbness would stop.
 
-<a href="https://www.flickr.com/photos/lucasthenomad/16977610346/in/set-72157651692973941" title="Lake Atitlan by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8728/16977610346_df88335f0b_c.jpg" width="800" height="601" alt="Lake Atitlan"></a>
-
 Next up we all lay on our backs, feet to the wall, heads towards the middle of
 the room, and again focused on breathing. Breathing in 5 seconds, holding for 3,
 then out for 5 seconds. Then 7-3-7, 9-3-9, 11-3-11 and finally 13-3-13. By about
 the 9 second breaths, I was really struggling to stretch out my breaths any
 longer.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16977610346/in/set-72157651692973941" title="Lake Atitlan by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8728/16977610346_df88335f0b_c.jpg" width="800" height="601" alt="Lake Atitlan"></a>
+
 Then there was some “ohm” chanting for about 5 minutes. It was kind of neat to
 hear the room in chorus, with different people running out of breath at
 different times and starting again, and how it affected the harmony. After a
 while my face kind of felt a bit funny from all the vibrations.
 
-<a href="https://www.flickr.com/photos/lucasthenomad/16977620066/in/set-72157651692973941" title="This cat decided to take the bed next to mine by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8746/16977620066_82a1798305_c.jpg" width="600" height="800" alt="This cat decided to take the bed next to mine"></a>
-
 Then there was some talking about finding your “life mission”, which was defined
 as the thing that makes you happy. It seemed a bit simplistic to me.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16977620066/in/set-72157651692973941" title="This cat decided to take the bed next to mine by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8746/16977620066_82a1798305_c.jpg" width="600" height="800" alt="This cat decided to take the bed next to mine"></a>
 
 Finally we did 7 more deep breaths, then rolled onto our sides, followed 7 more
 breaths, then sitting up cross legged again while candles all around the room

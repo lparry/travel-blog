@@ -58,6 +58,7 @@ task :publish do
   line = lines.shift
   lines.unshift "date: #{time.strftime("%Y-%m-%d %H:%M") }\n"
   lines.unshift line
+  lines.reject! {|l| l =~ /dont_cache_images/ }
 
   title =  lines.select{|l| l =~ /title: /}.first.sub(/title: /, "").gsub(/"/,"").chomp.to_url
 

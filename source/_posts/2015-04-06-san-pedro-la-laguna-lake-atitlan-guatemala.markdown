@@ -1,4 +1,5 @@
 ---
+date: 2015-04-06 12:51
 layout: post
 title: "San Pedro La Laguna, Lake Atitlan, Guatemala"
 travel_dates: 2014-06-18 - 2014-06-30

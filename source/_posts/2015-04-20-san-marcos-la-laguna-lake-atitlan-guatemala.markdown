@@ -1,4 +1,5 @@
 ---
+date: 2015-04-20 14:24
 layout: post
 title: "San Marcos La Laguna, Lake Atitlan, Guatemala"
 travel_dates: 2014-06-30 - 2014-07-05
@@ -7,7 +8,7 @@ tags: meditation, yoga, san-marcos, lake-atitlan, guatemala
 <a href="https://www.flickr.com/photos/lucasthenomad/17002133052/in/set-72157651692973941" title="Cramped taxi boat by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7613/17002133052_d6dbf7d8b0_c.jpg" width="800" height="600" alt="Cramped taxi boat"></a>
 
 After leaving San Pedro, I made the long and arduous journey across the lake,
-braving the calm fresh water sea couped up in a little boat for all of 10
+braving the calm freshwater sea couped up in a little boat for all of 10
 minutes, finally arriving at the hippy shores of San Marco La Laguna.
 
 <!-- more -->
@@ -16,7 +17,7 @@ Where San Pedro has a reputation as being the party village on the lake, San
 Marcos is a much quieter, sleepy hippy town. The main part of the village is all
 just narrow walking tracks, without taxi drivers harassing you every time you try and
 walk down the street. It's known for yoga, meditation and new age healing, and I
-figured I would try some new things and see if my scepticism was well placed.
+figured I would try some new things and see if my scepticism was well merited.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/16817219649/in/set-72157651692973941" title="My dorm loft by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8731/16817219649_6530e6e000_c.jpg" width="800" height="600" alt="My dorm loft"></a>
 
@@ -28,7 +29,7 @@ myself for the duration I was there.
 
 It also had a great yoga space in the back garden which was mostly only used in
 the mornings, so I repurposed it as a poi play space for a few hours most days
- and noticed some large improvements in my skills.
+ and noticed some large improvements in my flow.
 
 The restaurant at the hostel, and most restaurants in San Marcos, had a
 vegetarian menu. I'm a big fan of meat, but after being deprived of any real
@@ -43,8 +44,8 @@ surprised with how good the yogi there, Charlie, was. I used to do a lot of
 Yoga back in my university days and I used to love it, but every other time I've
 done it since then the yogi's have all fallen short and the classes have felt
 dull and uninteresting, and usually they seem to have every pose requiring
-ultra flexible hamstrings (which I don't have), so I don't end up feeling like
-I'm stretching/working anything else.
+ultra flexible hamstrings (which I don't have), so I usually end up feeling like
+I'm not stretching/working anything else.
 
 Charlie's classes however were much more similar to what I remembered from uni,
 a good level of challenge and more varied poses, so at the end of it I would
@@ -74,7 +75,7 @@ The big pyramid temple has a strange entrance where you go down steps
 underground, then back up steps into the temple through a hole in the floor.
 Once everyone is inside the floor folds over the entrance like a cellar, so
 you're in a sealed up pyramid. There were some windows higher up letting in
-light, but there's no leaving early.
+light, but there's no chance of leaving early.
 
 <p class="flickr-image-container"><span class="polaroid"><img src="/images/sanmarcos/one-of-the-meditation.jpg" width="800" height="601" alt="Lake Atitlan" class="img-responsive"><em>A stolen photo of pyramids within pyramids</em></span></p>
 
@@ -119,7 +120,7 @@ got put out one by one.
 
 During these last breaths I actually did feel like my mind was a lot clearer
 than it had been at the start, a lot calmer with less jumping from thought to
-though. I can't say I had any life changing revelations, but thinking about such
+thought. I can't say I had any life changing revelations, but thinking about such
 mechanical things are breathing, and “ohm”ing really did seem to clear my mind,
 for a while at least.
 
@@ -173,8 +174,8 @@ realised, and in a way that's a lot more fun. Go me!
 At the end of my first day in San Marcos, Rachel - the Spanish school student I
 met on my last night in San Pedro, send me a message asking if I wanted to try
 and walk from San Pedro around the lake to San Marcos with her. I was keen so we
-met up the next afternoon and gave it a shot, but after talking to some people
-in San Juan about safety on the road between there and San Marcos we were told
+met up the next afternoon and gave it a shot, but after asking some people in
+San Juan about safety on the road between there and San Marcos we were told
 there were sometimes bandits along there so we ended up getting a tuk-tuk from
 there instead, along what turned out to be a very hilly long road. I dunno if
 there used to be a flatter path before the lake level came up so far, but it
@@ -183,7 +184,7 @@ didn't seem like it would have been a very leisurely walk these days anyway.
 <a href="https://www.flickr.com/photos/lucasthenomad/16383431423/in/set-72157651692973941" title="Rachel and I in front of Volcan San Pedro by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7636/16383431423_7e27567b05_c.jpg" width="800" height="601" alt="Rachel and I in front of Volcan San Pedro"></a>
 
 We ended up meeting up nearly every afternoon to go exploring somewhere new,
-giving us lots of time to talk and get to know one another more. We explored
+giving us lots of time to talk and get to know one another better. We explored
 around San Marcos, checking out the park next to the best swimming spot in the
 lake and up the hill to Mayan altars and some lovely views of the lake and the
 volcanoes.
@@ -192,8 +193,8 @@ volcanoes.
 
 We wandered around the streets of San Pedro, allowing me to experience it
 without quite so much festival craziness going on, and found a nice cafe to sit
-and have a drink in. We went over to Santa Cruz and walked up the hill as far as
-the paths would take us, and then back down again.
+and have a drink in. We went over to Santa Cruz and walked up the hill along
+narrow paths as far as the paths would take us, and then back down again.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/17002143592/in/set-72157651692973941" title="P1030487.jpg by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7600/17002143592_d872739c89_c.jpg" width="600" height="800" alt="Sarah and Rachel"></a>
 

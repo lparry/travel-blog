@@ -15,24 +15,24 @@ stay.
 
 <!-- more -->
 
-<a href="https://www.flickr.com/photos/lucasthenomad/16839266107/in/set-72157651783002242" title="Celas Maya by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8798/16839266107_d62a8b5958_c.jpg" width="800" height="600" alt="Celas Maya"></a>
-
-The girls had both pre-enrolled and were staying in a home stay organised
+Rachel and Sarah had both pre-enrolled and were staying in a home stay organised
 through the school, Celas Maya, but being late on a Sunday I had my doubts about
 whether I'd be able to enrol to start the next day, but it turned out that
 wasn't a problem at all so we were all set to start the next day on most
 intensive class schedule I've done yet, 5 hours one-on-one a day, 5 days a week.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16839266107/in/set-72157651783002242" title="Celas Maya by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8798/16839266107_d62a8b5958_c.jpg" width="800" height="600" alt="Celas Maya"></a>
 
 After my schooling was sorted I set out to find a place to stay. I ended up
 getting my own private room at a newly started hostel not too far from school,
 in an old colonial style house that had a big open courtyard in the middle.
 
 I got an much earlier start the next day then planned, with a very strong
-earthquake hitting nearby at 5:30am that rumbled long enough to realise what it
-was, get out of bed and go stand in the door frame, and still have it keep
-shaking for another 15-20 seconds while I stood there in just my boxer shorts in
-the cold as everyone else in the hostel also appeared at their doors around the
-courtyard in various states of undress. An exciting start to Xela!
+earthquake hitting nearby at 5:30am that rumbled long enough for me to realise
+what it was, get out of bed and go stand in the door frame, and still have it
+keep shaking for another 15-20 seconds while I stood there in just my boxer
+shorts in the cold as everyone else in the hostel also appeared at their doors
+around the courtyard in various states of undress. An exciting start to Xela!
 
 <a href="https://www.flickr.com/photos/lucasthenomad/17056570565/in/set-72157651783002242" title="Parque Central by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8820/17056570565_418f14b695_c.jpg" width="800" height="600" alt="Parque Central"></a>
 
@@ -86,9 +86,9 @@ delicious looking fruit, and questionable looking cooked seafood just sitting ou
 in the sun.
 
 I felt the more varied approach to learning at Celas Maya suited me way better
-than any of the other schools I'd been to and that my Spanish improved more here
+than any of the other schools I'd been to, and that my Spanish improved more here
 than it did at any other point. It's easily the best school I've been to yet. By
-the end of the week though I was feeling completely burnt out, not so much by
+the end of the week though, I was feeling completely burnt out. Not so much by
 the challenge, but being an introvert and having to spend 5 hours a day having
 somewhat forced feeling conversation.
 

@@ -1,4 +1,5 @@
 ---
+date: 2015-04-27 13:12
 layout: post
 title: "Quezaltenango (Xela), Guatemala"
 travel_dates: 2014-07-06 - 2014-07-13

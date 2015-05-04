@@ -3,7 +3,7 @@ date: 2015-05-04 15:47
 layout: post
 title: "Revisiting Antigua and Earth Lodge"
 travel_dates: 2014-07-13 - 2014-07-20
-tags: Antigua, Guatemala, Earth-Lodge, Ruins
+tags: Antigua, Guatemala, Earth-Lodge, Ruins, chicken-buses
 ---
 
 <a href="https://www.flickr.com/photos/lucasthenomad/16870814889/in/set-72157651649474182" title="Pimped chickenbus, got a wave from the conductor by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8801/16870814889_fffb1fc4bf_c.jpg" width="800" height="601" alt="Pimped chickenbus, got a wave from the conductor"></a>

@@ -1,4 +1,5 @@
 ---
+date: 2015-05-04 15:47
 layout: post
 title: "Revisiting Antigua and Earth Lodge"
 travel_dates: 2014-07-13 - 2014-07-20

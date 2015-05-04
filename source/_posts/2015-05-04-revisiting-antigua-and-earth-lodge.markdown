@@ -40,11 +40,10 @@ change that.
 Many of Antigua's old buildings are just their façades now, with either nothing
 behind them, or completely new buildings built behind them. It was also from him
 that I learned that the Cathedral off central park didn't actually fall from the
-earthquake, but rather from lack of maintenance. He told us that a little new
-work is done to stop it decaying any further, but they wont be restoring it.
-We learned how colonial style architecture in this area meant super thick walls
-to withstand earthquakes, which also means generally dark building without
-windows.
+earthquake, but rather from lack of maintenance. He told us that some work is
+done now to stop it decaying any further, but they wont be restoring it.  We
+learned how colonial style architecture in this area meant super thick walls to
+withstand earthquakes, which also means generally dark building without windows.
 
 The tour stopped in at a jade factory, where we were told how the Mayan empire
 had collapsed because of their indulgent greed and decoration, and then at the
@@ -95,7 +94,7 @@ walk through and see some shiny newly painted buses being worked on.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/17057161215/in/set-72157651649474182" title="Modern chassis chickenbus by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7612/17057161215_6a33fe558e_c.jpg" width="800" height="601" alt="Modern chassis chickenbus"></a>
 
-The place that I'd been given the name of by the hostel, Taller Horacio's de
+The place that I'd been given the name of by the hostel, Taller Horacios de
 Camionetas, appeared closed when I arrived.  I knocked on the door anyway and a
 guy who actually spoke a decent amount of English answered the door. He was
 happy to let me come in for a look and told me a bunch about how they also make
@@ -105,7 +104,7 @@ new vehicles out of them.
 <a href="https://www.flickr.com/photos/lucasthenomad/16870929509/in/set-72157651649474182" title="Chicken bus workshop by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7664/16870929509_5295bd61d4_c.jpg" width="800" height="601" alt="Chicken bus workshop"></a>
 
 Apparently buses take about 40-60 days to fit-out, and start from about 50,000
-Quetzales ($??? USD) for a basic fit-out, but can cost a whole lot more if you
+Quetzales ($6,500 USD) for a basic fit-out, but can cost a whole lot more if you
 want lots of fancy lights and stuff. Depending on where the bus is going to be
 used, they will actually shorten them so they'll be able to get around tight
 corners in that city, put in more powerful engines to deal with hills in the
@@ -151,8 +150,8 @@ strawberry and avocado.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/17055820802/in/set-72157651649474182" title="Dry lightning storm by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8804/17055820802_4edc50e45c_c.jpg" width="800" height="450" alt="Dry lightning storm"></a>
 
-One night, possibly the last one, there was an epic lightning storm. Lightning
-was streaking across the sky every few seconds lighting up the clouds, and
-thunder was booming, but interestingly there was no rain to go with it so we got
-to sit outside and enjoy the show. Nature is amazing!
+One night, possibly the last one we were there, there was an epic lightning
+storm. Lightning was streaking across the sky every few seconds lighting up the
+clouds, and thunder was booming, but interestingly there was not a drop of rain
+to go with it so we got to sit outside and enjoy the show. Nature is amazing!
 

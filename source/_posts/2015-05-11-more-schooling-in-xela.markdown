@@ -35,7 +35,7 @@ uploading stuff for my blog and did some homework.
 
 <a href="https://www.flickr.com/photos/lucasthenomad/16869557998/in/set-72157651783002242" title="Rachel working a backstrap loom by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7712/16869557998_c9b5651c76_c.jpg" width="800" height="601" alt="Rachel working a backstrap loom"></a>
 
-By day three I was finally feeling mostly normal again. Classes went much better
+By day three I was finally feeling more normal again. Classes went much better
 and I organised a salsa lesson for late in the afternoon with Nestor. After
 lunch, I went to visit Rachel who had enrolled in a backstrap weaving workshop
 for her afternoons. It was interesting to see the looms in action, pulled tight
@@ -61,7 +61,7 @@ The room I was in was much smaller than any other homestay too surprisingly,
 with barely enough space to open the door with a bed, a card table and a little
 plastic stool that needed to be moved out of the way to open or close the door;
 not exactly a good study environment. I felt like this family was only taking
-homestay students for the money (however small). In the end when I left, Marvin
+homestay students for the money (however little). In the end when I left, Marvin
 Jr (the teenage son), was the only person around so I said goodbye and thank you
 to him. I felt so little connection to the whole family that I really didn't
 give a shit if I said goodbye to them or not.

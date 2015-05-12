@@ -2,8 +2,7 @@
 date: 2014-05-13 14:46
 layout: post
 title: "Happy travel birthday to me!"
-tags: humblebrag
-dont_cache_images: true
+tags: humblebrag, retrospective
 travel_dates: 
 ---
 

@@ -1,4 +1,5 @@
 ---
+date: 2015-05-11 17:37
 layout: post
 title: "More Schooling in Xela"
 travel_dates: 2014-07-20 - 2014-07-27

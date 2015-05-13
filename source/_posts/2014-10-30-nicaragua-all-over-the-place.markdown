@@ -3,7 +3,7 @@ date: 2014-10-30 19:13
 layout: post
 title: "Nicaragua, all over the place"
 travel_dates: 2014-03-22 - 2014-05-??
-tags: Ometepe, Jinotega, Somoto Canyon, Nicaragua
+tags: Ometepe, Jinotega, Somoto-Canyon, Nicaragua
 ---
 
 <a href="https://www.flickr.com/photos/lucasthenomad/15614210236/in/set-72157648995463971" title="Volcan Concepcion from Finca Magdelena by Lucas the nomad, on Flickr"><img src="https://farm4.staticflickr.com/3949/15614210236_d979e62583_c.jpg" width="800" height="600" alt="Volcan Concepcion from Finca Magdelena"></a>

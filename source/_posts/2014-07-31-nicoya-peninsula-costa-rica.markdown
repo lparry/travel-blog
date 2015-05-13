@@ -2,7 +2,7 @@
 date: 2014-07-31 21:39
 layout: post
 title: "Nicoya Peninsula, Costa Rica"
-tags: Nicoya-Peninsula, Costa Rica, Montezuma, Santa-Teresa, Surfing
+tags: Nicoya-Peninsula, Costa-Rica, Montezuma, Santa-Teresa, Surfing
 travel_dates: 2014-02-11 - 2014-02-19
 ---
 

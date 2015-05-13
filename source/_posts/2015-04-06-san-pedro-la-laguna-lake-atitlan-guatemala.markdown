@@ -3,7 +3,7 @@ date: 2015-04-06 12:51
 layout: post
 title: "San Pedro La Laguna, Lake Atitlan, Guatemala"
 travel_dates: 2014-06-18 - 2014-06-30
-tags: san-pedro, lake-atitlan, guatemala, spanish-school, volcanoes
+tags: san-pedro, lake-atitlan, san-juan, guatemala, spanish-school, volcanoes
 ---
 
 <a href="https://www.flickr.com/photos/lucasthenomad/16989378842/in/set-72157651239918317" title="First glimpse of the lake, and look at those potholes! by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7646/16989378842_e0c07e2ca3_c.jpg" width="800" height="500" alt="First glimpse of the lake, and look at those potholes!"></a>

@@ -3,7 +3,7 @@ date: 2015-04-20 14:24
 layout: post
 title: "San Marcos La Laguna, Lake Atitlan, Guatemala"
 travel_dates: 2014-06-30 - 2014-07-05
-tags: meditation, yoga, san-marcos, lake-atitlan, guatemala
+tags: meditation, yoga, san-marcos, san-juan, santa-cruz, san-pedro, lake-atitlan, guatemala
 ---
 <a href="https://www.flickr.com/photos/lucasthenomad/17002133052/in/set-72157651692973941" title="Cramped taxi boat by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7613/17002133052_d6dbf7d8b0_c.jpg" width="800" height="600" alt="Cramped taxi boat"></a>
 

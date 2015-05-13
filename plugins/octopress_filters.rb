@@ -65,6 +65,11 @@ module OctopressLiquidFilters
     input.gsub %r(href=["']https?://www\.flickr\.com/[^'"]*["']), %(href="#{url}")
   end
 
+
+  def fix_tag_hyphens(input)
+    input.split("-").map{|word| word.capitalize}.join(" ")
+  end
+
   # Improved version of Liquid's truncate:
   # - Doesn't cut in the middle of a word.
   # - Uses typographically correct ellipsis (…) insted of '...'

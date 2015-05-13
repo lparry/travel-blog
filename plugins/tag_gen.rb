@@ -10,7 +10,9 @@ module Jekyll
       self.data['tag'] = tag
       tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
       tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
+      # please forgive this horrible hax
+      tag_title = tag.split("-").map{|word| word.capitalize}.join(" ")
+      self.data['title'] = "#{tag_title_prefix}#{tag_title}#{tag_title_suffix}"
     end
   end
   class TagGenerator < Generator

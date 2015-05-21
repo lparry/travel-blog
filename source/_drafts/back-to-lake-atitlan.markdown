@@ -23,8 +23,10 @@ Charlie, the yoga teacher that I clicked with last time, was away on holidays
 the whole week and the replacements were really varied. Some did a very gentle
 practice, some were much more challenging. One in particular I had zero faith
 in. Part of her practice involved wildly throwing your arms in uncontrolled
-windmills as fast as you can... a great way to fuck up a shoulder in my
+windmills as fast as you can... a great way to fuck up a shoulders in my
 experience.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17031608116/in/set-72157651692973941" title="Got enough tuk-tuks? by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8783/17031608116_4d692a28a6_c.jpg" width="800" height="600" alt="Got enough tuk-tuks for a village with barely any roads?"></a>
 
 I spent some time shopping for some pants in various towns around the lake, and
 continually ran into the same issue. You'd go into a store where nothing is
@@ -32,10 +34,12 @@ sorted by size, look through their stock and pick out a pair you like. They of
 course wouldn't fit, and then you'd be shown a dozen other pairs of pants that
 share nothing in common with the ones you like. Pick out some nice looking black
 pants with grey stripes, be shown some awful pastel pink ones as a substitute.
-It seemed bizarre that I would see so many pretty fabrics at the clothing
-markets, but they seem to choose the most gaudy fabrics to make most of the
-clothes from. If I'd been going home after Guatemala I probably would have just
-bought a bunch of fabrics and figured out how to make clothes from them myself.
+It seemed bizarre that I would see so many pretty fabrics at the markets, but
+they seem to choose the most gaudy fabrics to make most of the clothes from. If
+I'd been going home after Guatemala I probably would have just bought a bunch of
+fabrics and figured out how to make clothes from them myself.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17057533565/in/set-72157651692973941" title="Panajachel Cathedral facade by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7713/17057533565_cdc7b25410_c.jpg" width="800" height="600" alt="Panajachel Cathedral facade"></a>
 
 I visited Panajachel one afternoon, supposedly the most touristy place on the
 lake, but because I hadn't done any research and refuse to get taxi's when I can
@@ -64,6 +68,8 @@ valuables. I complained about the difference in quality between the two dorms
 hoping to get a discount or something, but instead they upgraded me to a nice
 little private double room. Winning!
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16871322949/in/set-72157651692973941" title="La Iguana Perdida by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7705/16871322949_b0614f5883_c.jpg" width="800" height="601" alt="La Iguana Perdida"></a>
+
 The next morning I got up and had some breakfast at the restaurant then went out
 diving with Oli, the instructor at ATI divers on Lake Atitlan. This was my first
 time diving at altitude, and in fresh water, and in a collapsed volcanic crater
@@ -88,6 +94,8 @@ come to a place where there is a still working tap underwater. We turned it on
 and you could hear the water flow and see particles on the floor move, and feel
 the much colder water come flowing from the tap.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16870005000/in/set-72157651692973941" title="Volcan San Pedro framed in plants by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7649/16870005000_b4f121cd67_c.jpg" width="601" height="800" alt="Volcan San Pedro framed in plants"></a>
+
 At points throughout the dives we turned over rocks and saw these strange little
 insects with three forks of their body, which are apparently the baby versions
 of the beautiful blue dragonflies you see everywhere. Crazy to think they start out
@@ -97,13 +105,15 @@ We poked out heads up through a gap in the ceiling up to the surface of the
 water and there was a little boy standing there who first asked if we could hear
 him, then told us his mum had dropped her prescription glasses and his dad had
 dropped a torch and asked if we could look for them. At first I wondered if he
-was just fucking with us, but we had a quick scan around and I managed to
-quickly locate both of them and pass them pass up to the kid. Search and
-recovery!
+was just messing with us, or if Oli had staged it or something, but we had a
+quick scan around and I managed to quickly locate both of them and pass them
+pass up to the kid. Search and recovery win!
 
 We saw lots of purple crabs that would extend out their arms and open their
 claws wide, trying to look bigger and scare us off, very cute. We also swam
 through a bunch of dead reads that looked like rotting bamboo.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17031555756/in/set-72157651692973941" title="Lake Atitlan, from Santa Cruz by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8758/17031555756_e682470bf3_c.jpg" width="800" height="368" alt="Lake Atitlan, from Santa Cruz"></a>
 
 After a nice long surface interval, dive two went went out to a site called agua
 caliente, where we went down above an underwater swimming pool about 3M under
@@ -123,11 +133,13 @@ down the slope.
 
 We stopped and lay on the bottom, trying not to blow too many bubbles and had a
 bunch of fish come over and investigate. Fresh water fish all look the same to
-me, but it was cool to see them none-the-less. Apparently most of the fish in
-the lake are introduced; Some by the Mayan people long ago for food, others by
-people trying to control a pest in the lake. Like every time you hear a story
-like that, they had no predators so they thrived, changing the environment and
-driving a bird that used to live in the lake to extinction. Way to go humans.
+me, but it was cool to see them none-the-less.
+
+Apparently most of the fish in the lake are introduced; Some by the Mayan people
+long ago for food, others by people trying to control a pest in the lake. Like
+every time you hear a story like that, they had no predators so they thrived,
+changing the environment and driving a bird that used to live in the lake to
+extinction. Way to go humans.
 
 Next we found a sauna, which I swam in through the hole where the heating barrel
 would have once been. Inside looking up it was cool to see where all the air had
@@ -149,11 +161,15 @@ recovery dive, first underwater exploration of a building. I couldn't see myself
 wanting to stay and dive here daily like I can at ocean sites, but as a two-off
 experience I loved it.
 
+<a href="https://www.flickr.com/photos/lucasthenomad/16435125674/in/set-72157651692973941" title="Rachel weaving by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7600/16435125674_84460cf49e_c.jpg" width="800" height="600" alt="Rachel weaving"></a>
+
 I didn't see very much of Rachel this week since she was studying another week
 of Spanish at a little school in San Juan where she was the only student, and
 her afternoons were all tied up doing more weaving at another women's
 cooperative. I did drop by to visit her a few times and see her while she was
 weaving.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16870048470/in/set-72157651692973941" title="Final Lake Atitlan sunset by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8818/16870048470_53af905e9a_c.jpg" width="800" height="600" alt="Final Lake Atitlan sunset"></a>
 
 At the end of the week she did come over and stay in San Marcos at La Paz for
 two nights, so we got one last day to just hang out and wander around together.

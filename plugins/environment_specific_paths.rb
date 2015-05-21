@@ -2,9 +2,9 @@
 module CDNLiquidFilters
   def fontawesome_url_for_environment(_)
     if ENV["OCTOPRESS_ENV"] == "preview"
-      "/css/font-awesome/font-awesome.css"
+      "/css/font-awesome.css"
     else
-      "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
+      "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
     end
   end
 

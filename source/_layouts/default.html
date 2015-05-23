@@ -75,6 +75,16 @@
             <p class="blurb">I try to post something to this blog at least once a month (I'm trying to get better), and it tends to run many months behind real-time.</p>
           </div>
 
+          {% capture dont_show_latest_well %}{{ page | is_homepage_or_latest_post: site.posts.first  }}{% endcapture %}
+          {% if dont_show_latest_well == 'false' %}
+          <div class="well">
+            {% assign latest_post = site.posts.first %}
+            {% assign content = latest_post.content %}
+            {% include _latest.html %}
+          </div>
+          {% endif %}
+
+
           <div class="well">
             {% assign tags = site.sorted_tags %}
             {% include _tags.html %}

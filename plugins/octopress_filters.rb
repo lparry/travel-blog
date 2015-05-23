@@ -121,6 +121,15 @@ module OctopressLiquidFilters
   def strip_newlines(input)
     input.to_s.gsub(/\n/, ' ')
   end
+
+  def strip_images(input)
+    input.to_s.split("\n").reject{|line| line =~ /img src/}.join("\n")
+  end
+
+  # determine if we should show the latest post well
+  def is_homepage_or_latest_post(page, latest)
+    page["url"] == latest["url"] || page["url"] == "/index.html"
+  end
 end
 Liquid::Template.register_filter OctopressLiquidFilters
 

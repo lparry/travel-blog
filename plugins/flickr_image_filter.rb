@@ -23,7 +23,7 @@ module Jekyll
         (doc / "img").add_class("img-responsive")
         title = (doc / "img").attr("alt")
         (doc / "img").after("<em>#{title}</em>")
-        (doc / "a").wrap(%(<span class="polaroid"></span>>))
+        (doc / "a").wrap(%(<span class="polaroid"></span>))
         "#{doc.to_html}\n"
       end
 

@@ -1,0 +1,13 @@
+<h4><i class="fa fa-newspaper-o fa-lg fa-fw"></i> <a href="{{ latest_post.url }}">Latest Post: {{ latest_post.title }}</a></h4>
+<div class="latest">
+  <p>
+  {% if latest_post.excerpt %}
+  {{ latest_post.excerpt | strip_images | strip_html }}
+  {% else %}
+  {{ latest_post.content | strip_images | strip_html }}
+  {% endif %}
+  </p>
+  <p class="continue-link">
+  <a href="{{ latest_post.url }}">Continue reading...</a>
+  </p>
+</div>

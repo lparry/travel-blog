@@ -1,4 +1,5 @@
 ---
+date: 2015-05-21 17:29
 layout: post
 title: "Back To Lake Atitlan"
 travel_dates: 2014-07-27 - 2014-08-04

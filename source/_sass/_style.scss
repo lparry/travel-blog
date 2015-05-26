@@ -34,6 +34,35 @@ footer {
   }
 }
 
+.mini-flickr-image-container {
+  text-align: center;
+
+  .polaroid {
+    // centered Polaroid-like look
+    display: inline-block;
+    padding: 3px;
+    background: white;
+    box-shadow:         $photo-padding $photo-padding $photo-padding 0px #111;
+    border-radius: 3px;
+
+    img {
+      margin-bottom: 3px;
+      border-radius: 2px;
+      width: 100%
+    }
+
+    em {
+      color: black;
+      font-family: 'Swanky and Moo Moo', fantasy, cursive;
+      font-size: 16px;
+      display: block;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+}
 
 .flickr-image-container {
   text-align: center;

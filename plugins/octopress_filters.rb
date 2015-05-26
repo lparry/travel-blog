@@ -126,6 +126,17 @@ module OctopressLiquidFilters
     input.to_s.split("\n").reject{|line| line =~ /img src/}.join("\n")
   end
 
+  def first_image(input, url)
+    img = input.to_s.split("\n").first{|line| line =~ /img src/}
+    return "" if img.nil?
+    filter = ::Jekyll::FlickrImageCaptionFilter::FlickrCaptions.new
+    img = "<p>#{img}</p>" unless input =~ /<p>/
+    output = filter.captionize img
+    output.sub!(/flickr-image-container/, "mini-flickr-image-container")
+    output.sub(/href="[^"]*"/, %(href="#{url}"))
+  end
+
+
   # determine if we should show the latest post well
   def is_homepage_or_latest_post(page, latest)
     page["url"] == latest["url"] || page["url"] == "/index.html"

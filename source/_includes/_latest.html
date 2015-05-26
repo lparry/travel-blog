@@ -1,6 +1,8 @@
 <h4><i class="fa fa-newspaper-o fa-lg fa-fw"></i> <a href="{{ latest_post.url }}">Latest Post: {{ latest_post.title }}</a></h4>
 <div class="latest">
   <p>
+
+  {{ latest_post.excerpt | first_image: latest_post.url}}
   {% if latest_post.excerpt %}
   {{ latest_post.excerpt | strip_images | strip_html }}
   {% else %}

@@ -1,8 +1,9 @@
 ---
+date: 2015-05-26 12:41
 layout: post
 title: "Semuc Champey"
 travel_dates: 2014-08-05 - 2014-08-07
-tags: semuc-champey, guatemala, caves, outdoors
+tags: semuc-champey, lanquin, guatemala, caves, outdoors
 ---
 <a href="https://www.flickr.com/photos/lucasthenomad/17091267205/in/set-72157651450903798" title="Me above Semuc Champey by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8758/17091267205_42a34d1d48_c.jpg" width="601" height="800" alt="Me above Semuc Champey"></a>
 

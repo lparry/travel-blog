@@ -176,13 +176,26 @@ def get_stdin(message)
 end
 
 def pick_draft(drafts, message)
-
+  if drafts.size == 0
+    puts "Error: drafts directory is empty?"
+    exit
+  end
   puts "List of drafts:"
   drafts.each_with_index do |draft, index|
-    puts "  #{" " if index < 9 }#{index + 1}) #{File.basename(draft)}"
+    puts "  #{" " if index < 9 }#{index + 1}) source/_drafts/#{File.basename(draft)}"
   end
-  number = ask(message).to_i 
-  raise "invalid choice: #{number}" unless number.between?(1, drafts.size)
+  if drafts.size == 1
+    message = "#{message}[default: 1]"
+  end
+  input = ask(message)
+  if drafts.size == 1 && input.strip == ""
+    input = "1"
+  end
+  number = input.to_i
+  unless number.between?(1, drafts.size)
+    puts "invalid choice: #{number}"
+    exit
+  end
 
   drafts[number-1]
 end

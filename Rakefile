@@ -42,7 +42,7 @@ end
 desc "open a draft in mvim"
 task :work do
   drafts = Dir.glob("#{source_dir}/#{drafts_dir}/*")
-  filename = pick_draft(drafts, "Which draft do you wish to work on? ")
+  filename = pick_draft(drafts, "Which draft do you wish to work on?")
   `open "#{filename}"`
 end
 
@@ -50,7 +50,7 @@ desc "mark a post as published, update the dates"
 task :publish do
 
   drafts = Dir.glob("#{source_dir}/#{drafts_dir}/*")
-  filename = pick_draft(drafts, "Which draft do you wish to publish? ")
+  filename = pick_draft(drafts, "Which draft do you wish to publish?")
 
   time = Time.now
   lines = File.read(filename).lines
@@ -176,6 +176,9 @@ def get_stdin(message)
 end
 
 def pick_draft(drafts, message)
+  drafts.sort! do |a, b|
+    File.mtime(b) <=> File.mtime(a)
+  end
   if drafts.size == 0
     puts "Error: drafts directory is empty?"
     exit
@@ -184,11 +187,9 @@ def pick_draft(drafts, message)
   drafts.each_with_index do |draft, index|
     puts "  #{" " if index < 9 }#{index + 1}) source/_drafts/#{File.basename(draft)}"
   end
-  if drafts.size == 1
-    message = "#{message}[default: 1]"
-  end
+  message = "#{message} [default: 1] "
   input = ask(message)
-  if drafts.size == 1 && input.strip == ""
+  if input.strip == ""
     input = "1"
   end
   number = input.to_i

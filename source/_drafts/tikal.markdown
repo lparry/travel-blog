@@ -1,0 +1,169 @@
+---
+layout: post
+title: "Tikal"
+dont_cache_images: true
+travel_dates: 2014-08-07 - 2014-08-09
+tags: Tikal, Flores, Guatemala, Ruins
+---
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17225779282/in/set-72157652039835056" title="Temple V by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7657/17225779282_fa99534481_c.jpg" width="800" height="601" alt="Temple V at Tikal"></a>
+
+After Semuc Champey I headed to Flores, the city closest to Tikal. It was
+another long minibus day, 11 hours on the bus, but at least this time I got a
+single seat near the door without one in front of it, so I had plenty of legroom
+and nobody taking up the space where my shoulders go. I stayed the night in a
+hotel where I was the only guest. I really don't think the travel agent made
+much effort to get me in somewhere cheap as I had to walk past hostels to get
+there. I made good use of the air conditioning at least!
+
+<!-- more -->
+
+The next morning I was picked up by another shuttle that took me in to Tikal
+itself. I had opted to stay a night at one of the hotels situated right at the
+entrance to the park to enable me to do the sunrise tour without having to get
+up at quite such a ridiculous hour to travel the hour or so from Flores to the
+park and still make it for sunrise. My room was one of the cheapest ones, so it
+was situated away from the more resort like part of the hotel, down a long path
+out into the jungle. I think I'd actually prefer this over the ones in the
+upmarket part of the hotel as it was a bit more private feeling and got the
+sounds of nature after dark.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17041100829/in/set-72157652039835056" title="The back of Templo del gran jaguar by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7676/17041100829_3235030a1c_c.jpg" width="800" height="601" alt="The back of Templo del gran jaguar"></a>
+
+After checking in I went and did some solo exploring of Tikal. It seemed like a
+long walk before I saw any sign of ruins, then suddenly I was next to a 50M tall
+pyramid!
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17041182279/in/set-72157652039835056" title="Hard to even identify that this is an unrestored temple by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8692/17041182279_9d42cf472e_c.jpg" width="800" height="601" alt="Hard to even identify that this is an unrestored temple"></a>
+
+It was amazing to see the scale of the site and the structures on it. Even more
+so when you realise pretty much every hill you see is actually an unrestored
+building of some sort or another.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17226783401/in/set-72157652039835056" title="Maler's Palace? by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7657/17226783401_45ba662612_c.jpg" width="800" height="601" alt="Maler's Palace?"></a>
+
+The structures themselves weren't all that imagination provoking for me.
+They're huge, but they just feel like giant piles of Lego. I have trouble
+imagining how people would live in them, or guessing what they would use them
+for, which makes it hard for me to wonder much about their lives. Maybe I've
+just got ruin fatigue, although I've only ever seen two Mayan ruins so far.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16605028094/in/set-72157652039835056" title="The unrestored side of Temple V by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8790/16605028094_db666e7617_c.jpg" width="601" height="800" alt="The unrestored side of Temple V"></a>
+
+It was interesting to see on Temple V how different the sides that aren't
+restored look compared to the one that is. The ones that aren't restored just
+look like very steep hills covered in trees, while the one that is has a giant
+staircase surrounded by terraces. The original archaeologists would have needed
+much better imaginations than mine to realise what was actually here.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17041195609/in/set-72157652039835056" title="Me at Tikal by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8728/17041195609_b65d96c765_c.jpg" width="800" height="601" alt="Me at the top of Temple IV"></a>
+
+I climbed up to the top of Temple IV and the view was epic, endless jungle with
+the tops of temples poking out here and there. This was the temple that we would
+be climbing for the sunrise tour, so I was excited about how pretty this vista
+might be.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17226751361/in/set-72157652039835056" title="Half of the Great Plaza by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8719/17226751361_58ae4389d0_c.jpg" width="800" height="601" alt="Half of the Grand Plaza"></a>
+
+The Grand Plaza was pretty monumental, surrounded on two sides by enormous
+pyramids, and on the other two sides by the acropolis and the palace, littered
+with stela and alters.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17225895322/in/set-72157652039835056" title="Templo de las mascaras by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5462/17225895322_39277707d4_c.jpg" width="800" height="601" alt="Templo de las mascaras"></a>
+
+Since I was in the park overnight anyway, I also decided to go on the hotel's
+sunset tour which turned out to be a bit of a disappointment. The tour was
+supposed to be in English, but the guides English was extremely poor. I noticed
+at one point that on his official guide badge it only listed Spanish as the
+language he was permitted to provide his services in. This led to it not being
+very informative at all, and I got little more from having a guide than I had
+from wandering around by myself.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17227402405/in/set-72157652039835056" title="Unrestored corner of a pyramid by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8768/17227402405_5922bc33a4_c.jpg" width="800" height="601" alt="Unrestored corner of a pyramid"></a>
+
+It was a three hour tour, but the guide kept stopping in plazas and giving us 30
+minutes of "free time" to explore by ourselves while he sat and talked to other
+guides. Having already explored most of the site that morning, I felt like this
+was pretty crummy. All up the tour was maybe 45 minutes of actual tour and a lot
+of waiting.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17039994880/in/set-72157652039835056" title="Sunset happening behind the clouds by Lucas the nomad, on Flickr"><img src="https://farm6.staticflickr.com/5454/17039994880_4395fa0937_c.jpg" width="800" height="601" alt="Sunset happening behind the clouds"></a>
+
+For sunset itself, our guide told us that the Acropolis is the best place to
+view it, but really it wasn't a very good view for a sunset, the Acropolis
+itself and Temple II blocked most of the view, Temple IV was tiny and in the
+distance. There weren't many other people around, so I'm guessing there's
+somewhere better to view it from that all the other groups had gone to, maybe
+further into the park meaning a longer walk out.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17227539765/in/set-72157652039835056" title="Amazing clouds by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7695/17227539765_c500a3766e_c.jpg" width="800" height="601" alt="Amazing clouds"></a>
+
+As the sun came down there were some amazing clouds formations appeared in the
+sky and some thunder. They were beautiful when they were off to the south, less
+pretty when they blew over and blocked the actual setting of the sun and didn't
+even give us pretty colours. Ah well, you can't always get ideal weather.
+
+After returning from the tour, I showered and then had dinner at the hotel with
+a couple from Singapore who love to travel and told me all sorts of great
+stories about their travels in Cuba and Columbia. After dinner I walked along
+the long path towards my room with my head torch on, and could see hundreds of
+little dots reflecting light brightly back at me all over the ground. As I got
+close enough to see what they were I found that there were hundreds and hundreds
+of wolf spiders just chilling about on the grass and on the path way, so I
+walked carefully and tried to avoid stepping anywhere near any of them.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17041367049/in/set-72157652039835056" title="Dawn at the top of Temple IV by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7716/17041367049_d75733d95c_c.jpg" width="800" height="601" alt="Dawn at the top of Temple IV"></a>
+
+The next morning I got up at just before 4am to meet up at the hotel reception
+with my sunrise tour group and have a coffee. It was a dark morning and we could
+see so many stars out. As we walked the long walk from the hotel over to Temple
+IV a fog started to rise, and by the time we climbed the stairs at the back of
+the temple to sit up on top of it the fog had truly taken over.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16605114694/in/set-72157652039835056" title="Fog rising, but the sun is already up by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7669/16605114694_283b2698ce_c.jpg" width="800" height="601" alt="Fog rising, but the sun is already up"></a>
+
+We waited for ages for it to become light, but the heavy fog meant we couldn't
+even see the closest temples until the sun was well and truly up, and we never
+saw any pretty colours or evidence of the sunrise. Such a tease after being up
+so early, especially after it had been so clear earlier. 0 out of 2 solar events
+witnessed. Screw you weather!
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17039620178/in/set-72157652039835056" title="Part of the lost world by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8811/17039620178_1c2115544e_c.jpg" width="800" height="601" alt="Part of the lost world"></a>
+
+After the failed sunrise we went on a short tour, and this guide was much better
+than the first one. We went over to the Lost World and heard how the structures
+were built as a sort of calendar with the sunrise lining up with various
+buildings on the longest, middle and shortest days. I wish I'd had this guide
+the first day and could have learnt more about the other areas of the park.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17225960332/in/set-72157652039835056" title="Old photo of Temple of the Masks by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8824/17225960332_08a485da16_c.jpg" width="600" height="800" alt="Old photo of Temple of the Masks"></a>
+
+After the tour I headed back to the hotel for breakfast, checked out and stashed
+my bags, then went and visited a few of the museums around the entrance of the
+park. One of them was super interesting, with lots of historical photos showing
+the state that all of the temples were found in (after they'd be cleared of
+trees at least). Interestingly there were photos of some of the temples that now
+have massive trees growing out of them that showed they had once been cleared in
+the past. It seems irresponsible not to keep them free from trees to prevent
+further damage, even if they are not restored.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16607590753/in/set-72157652039835056" title="Crocodile in a pond by Lucas the nomad, on Flickr"><img src="https://farm9.staticflickr.com/8717/16607590753_ea6cf5b347_c.jpg" width="800" height="600" alt="Crocodile in a pond"></a>
+
+Wandering near a little lake I saw a sign warning there were crocodiles, so I
+spent some time looking and found two of them lurking near the surface. They
+were only little fellas, but I still wouldn't want one of them biting me.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/17040271970/in/set-72157652039835056" title="The lake at Flores is also rising by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7726/17040271970_3662fef090_c.jpg" width="800" height="600" alt="The lake at Flores is also rising"></a>
+
+In the afternoon I got a shuttle back to Flores where I was spending the night,
+but this time I arrived with enough time to actually explore a bit. I tried to
+walk around the street that circles the island, but one side was cut off by the
+lake where it's broken the bank. It seems like there's a lot of lakes with
+rising water levels in Guatemala.
+
+<a href="https://www.flickr.com/photos/lucasthenomad/16605391994/in/set-72157652039835056" title="Big doggie getting a bath by Lucas the nomad, on Flickr"><img src="https://farm8.staticflickr.com/7652/16605391994_fcf8c3b3dc_c.jpg" width="600" height="800" alt="Big doggie getting a bath"></a>
+
+Flores didn't really seem like a very interesting place. Everything there was a
+hotel, a restaurant or a souvenir shop, with more souvenir shops per square km
+than Antigua by a long shot. I was pretty glad I only had the afternoon there,
+with a bus booked to take me down to Rio Dulce the next morning.

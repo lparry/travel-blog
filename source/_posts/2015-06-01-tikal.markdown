@@ -1,7 +1,7 @@
 ---
+date: 2015-06-01 19:40
 layout: post
 title: "Tikal"
-dont_cache_images: true
 travel_dates: 2014-08-07 - 2014-08-09
 tags: Tikal, Flores, Guatemala, Ruins
 ---

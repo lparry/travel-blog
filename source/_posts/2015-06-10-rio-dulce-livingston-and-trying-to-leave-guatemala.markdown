@@ -1,4 +1,5 @@
 ---
+date: 2015-06-10 19:33
 layout: post
 title: "Rio Dulce, Livingston, and trying to leave Guatemala"
 travel_dates: 2014-08-10 - 2014-08-15
